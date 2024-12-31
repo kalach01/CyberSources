@@ -1136,7 +1136,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Top CTF challenges](https://www.yeahhub.com/top-steganography-tools-ctf-challenges/)|Steganography||
 |[awesome-ctf](https://apsdehal.in/awesome-ctf/#steganography-1)|Steganography|
 |[Flipper Zero BadUSB Mastery](https://tryhackme.com/r/room/flipperzerobadusbmastery)|BadUSB|Learn how to craft and deploy BadUSB payloads for the Flipper Zero using DuckyScript. This room focuses on automating keystroke attacks for ethical hacking and testing purposes.|
-|[InfoMachines](https://infosecmachines.io/)|S4vitar Machine's Resolutions.|
+|[InfoMachines](https://infosecmachines.io/)|Writeups| S4vitar Machine's Resolutions.|
+
 
 
 ### [↑](#-content) 🕸️ Practice Webs
@@ -1218,7 +1219,13 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Social Engineers' Playbook: Practical Pretexting](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/) | A practical manual focusing on social engineering tactics and pretexting scenarios. |  
 | [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2) | An essential resource for penetration testers, covering advanced tactics and strategies. |  
 | [How to Hack Like a PORNSTAR: A Step-by-Step Process for Breaking into a BANK]([https://www.amazon.com](https://www.amazon.com/How-Hack-Like-PORNSTAR-breaking-ebook/dp/B01MTDLGQ)) | A step-by-step narrative illustrating hacking methods for breaching financial institutions. |  
-
+| [**Penetration Testing: A Hands-On Introduction to Hacking**](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)         | A comprehensive guide introducing penetration testing techniques and tools, designed for beginners.         |
+| [**Kali Linux Revealed**](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605) - [PDF](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) | | The official guide to mastering Kali Linux, including installation, configuration, and usage for security professionals. |
+| [**Blue Team Field Manual (BTFM)**](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X)              | A reference guide for defensive security operations, offering tools and techniques to protect networks.     |
+| [**Cybersecurity - Attack and Defense Strategies**](https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security/dp/1788475291)                | Covers both offensive and defensive strategies for protecting infrastructure against cyber threats.         |
+| [**NMAP Network Scanning: Official Discovery**](https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717)                                       | Official documentation for using Nmap for network discovery and vulnerability scanning.                     |
+| [**Social Engineering: The Art of Human Hacking**](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)                                                 | Explores the psychological and technical aspects of social engineering and how to protect against it.       |
+| [**Incognito Toolkit: Tools, Apps, and Creative Methods for Remaining Anonymous**](https://www.amazon.com/Incognito-Toolkit-Communicating-Publishing-Researching/dp/0985049146)              | A guide to tools and techniques for maintaining anonymity online while communicating, publishing, or researching. | 
 
 
 
