@@ -1268,6 +1268,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)|OSINT Tools for the Dark Web|
 |[awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty)| Awesome list of bug bounty|
 |[awesome-red-team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/tree/master)| Awesome Red Team|
+| [the-hacker-roadmap](https://github.com/sundowndev/hacker-roadmap/tree/master)| Roadmap for hacker|
 
 ## [↑](#-content) 🛣️ Learning Path
 
@@ -1276,6 +1277,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Cybersecurity](https://roadmap.sh/cyber-security)| Learn to become a Cyber Security Expert.|
 |[Linux](https://roadmap.sh/linux)|Step by step guide to learn Linux in 2024.|
 |[Ethical Hacking](https://roadmap.sh/r/ethical-hacking-yyvh9)|Community driven roadmaps, articles and guides for developers to grow in their career.|
+| [the-hacker-roadmap](https://github.com/sundowndev/hacker-roadmap/tree/master)| Roadmap for hacker|
 
 
 ## [↑](#-content) 🖌️ Projects Based
@@ -1298,3 +1300,4 @@ If you find this repository helpful, please consider giving it a star! Your supp
 - [dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)
 - [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty)
 - [awesome-red-team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/tree/master)
+- [the-hacker-roadmap](https://github.com/sundowndev/hacker-roadmap/tree/master)
