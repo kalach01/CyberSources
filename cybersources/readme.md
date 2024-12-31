@@ -86,7 +86,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 ## [↑](./#-content) 🛠️ Tools
 
-#### 1. [↑](./#-content) Utility
+### 1. [↑](./#-content) Utility
 
 | **Tool**                                                                                           | **Description**                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -98,7 +98,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [VigilantOnion](https://github.com/andreyglauzer/VigilantOnion)                                    | Crawls and monitors .onion sites for specified keywords or changes.                                                                                                                         |
 | [OnionIngestor](https://github.com/danieleperera/OnionIngestor)                                    | Gathers data from Tor hidden services for analysis or intelligence purposes.                                                                                                                |
 
-#### 2. [↑](./#-content) Miscellaneous
+### 2. [↑](./#-content) Miscellaneous
 
 | **Tool**                                                                                                                                               | **Description**                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
@@ -122,7 +122,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [AWS Config](https://cybersectools.com/tools/aws-config)                                                                                               | Evaluates and audits AWS resource configurations for compliance and security.                   |
 | [DeepDarkCTI](https://github.com/fastfire/deepdarkCTI)                                                                                                 | Cyber threat intelligence tool for monitoring and analyzing the dark web.                       |
 
-#### 3. [↑](./#-content) OSINT
+### 3. [↑](./#-content) OSINT
 
 **3.1** [**↑**](./#-content) **Username Search**
 
@@ -173,7 +173,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [LeakRadar](https://leakradar.io/)                                             | Monitors stealer logs to identify compromised domains and email addresses, providing real-time alerts and proactive protection against breaches. |
 | [Telegram Group](https://t.me/+tObrYXqGOetmODhl)                               | A Telegram bot that allows you to search people's names in more than 3000 websites.                                                              |
 
-**3.3** [**↑**](./#-content) **GEOINT**
+#### **3.3** [**↑**](./#-content) **GEOINT**
 
 | Tools                                                                                                                    | Description                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
@@ -202,7 +202,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [WolrdEinnwes](https://world.einnews.com)           | News and search engine tools.                                                                                                                                    |
 | [IT Security Guru](https://www.itsecurityguru.org/) | IT Security Guru is a top resource for the latest cybersecurity news, covering threats, data breaches, and expert insights to help you stay informed and secure. |
 
-#### 5. [↑](./#-content) Search Engines
+### 5. [↑](./#-content) Search Engines
 
 | Tools                                                            | Description                                                                                                                                                                                                                                           |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -277,7 +277,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Darc](https://github.com/JarryShaw/darc)                        | Distributed and automated .onion site crawler for large-scale data collection on the dark web.                                                                                                                                                        |
 | [Prying Deep](https://github.com/iudicium/pryingdeep)            | Advanced dark web crawler tailored for extracting and analyzing data from .onion sites.                                                                                                                                                               |
 
-#### 6. [↑](./#-content) DNS/IP
+### 6. [↑](./#-content) DNS/IP
 
 | Tools                                                                                                                                   | Description                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -327,7 +327,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Check-The-Sum](https://www.checkthesum.com)                                                                                            | A database of malicious files, IPs, and domains collected from honeypots.                           |
 | [Adalanche](https://github.com/lkarlslund/Adalanche?tab=readme-ov-file)                                                                 | Open Source Active Directory ACL Visualizer and Explorer.                                           |
 
-#### 7. [↑](./#-content) Post Explotation
+### 7. [↑](./#-content) Post Explotation
 
 | Tools                                                         | Description                                                                         |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -336,14 +336,14 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | A PowerShell post exploitation framework.                                           |
 | [ebowla](https://github.com/Genetic-Malware/Ebowla)           | Framework for Making Environmental Keyed Payloads.                                  |
 
-#### 8. [↑](./#-content) Deobfuscators
+### 8. [↑](./#-content) Deobfuscators
 
 | Tools                                     | Description                                                                                    |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [JS Nice](http://jsnice.org/)             | Web service guessing JS variables names and types based on the model derived from open source. |
 | [de4dot](https://github.com/0xd4d/de4dot) | .NET deobfuscator and unpacker.                                                                |
 
-#### 9. [↑](./#-content) Decompilers
+### 9. [↑](./#-content) Decompilers
 
 | Tools                                                    | Description                                                                                                                                          |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -359,7 +359,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [R2Dec](https://github.com/wargio/r2dec-js)              | Decompiler plugin for radare2                                                                                                                        |
 | [Decai](https://github.com/radareorg/r2ai)               | LLM-based decompiler for radare2                                                                                                                     |
 
-#### 10. [↑](./#-content) Disassembler and debuggers
+### 10. [↑](./#-content) Disassembler and debuggers
 
 | Tools                                                 | Description                                                                                     |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -372,7 +372,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [ScratchABit](https://github.com/pfalcon/ScratchABit) | Customizable and hackable disassembler with support for IDAPython-compatible plugins.           |
 | [Ghidra](https://ghidra-sre.org/)                     | Comprehensive reverse engineering suite developed by the NSA.                                   |
 
-#### 11. [↑](./#-content) Web
+### 11. [↑](./#-content) Web
 
 | Web                                                       | Description                                                                                                                                 |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -387,7 +387,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [sqlmap](https://github.com/sqlmapproject/sqlmap)         | Automatic SQL injection tool for database takeover.                                                                                         |
 | [URLVoid](https://www.urlvoid.com/)                       | Website reputation checker that scans URLs for safety using multiple security engines and blocklists.                                       |
 
-#### 12. [↑](./#-content) Network
+### 12. [↑](./#-content) Network
 
 | Tools                                                                 | Description                                                                                      |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -413,7 +413,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [TorCrawl](https://github.com/MikeMeliz/TorCrawl.py)                  | Python-based tool to crawl .onion websites efficiently.                                          |
 | [Midnight Sea](https://github.com/RicYaben/midnight_sea)              | A dark web crawler designed for flexibility and integration with analysis tools.                 |
 
-#### 13. [↑](./#-content) Cryptography
+### 13. [↑](./#-content) Cryptography
 
 | Tools                                            | Description                                                                            |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------- |
@@ -422,7 +422,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Aircrack](http://www.aircrack-ng.org/)          | Aircrack is 802.11 WEP and WPA-PSK keys cracking program.                              |
 | [Ciphey](https://github.com/ciphey/ciphey)       | Automated decryption tool using artificial intelligence & natural language processing. |
 
-#### 14. [↑](./#-content) Forensic
+### 14. [↑](./#-content) Forensic
 
 | Tools                                                                                                  | Description                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -460,7 +460,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Kuiper](https://github.com/DFIRKuiper/Kuiper)                                                         | Kuiper is a digital investigation platform that provides a capabilities for the investigation team and individuals to parse, search, visualize collected evidences. |
 | [RegRipper4.0](https://github.com/keydet89/RegRipper4.0)                                               | The key tool for forensic analysis of Windows DAT.                                                                                                                  |
 
-#### 15. [↑](./#-content) Hex editors
+### 15. [↑](./#-content) Hex editors
 
 | Tools                                             | Description                                                                                                                 |
 | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -470,7 +470,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Synalize It](https://www.synalysis.net/)         |                                                                                                                             |
 | [Hexinator](https://hexinator.com/)               |                                                                                                                             |
 
-#### 16. [↑](./#-content) Execution logging and tracing
+### 16. [↑](./#-content) Execution logging and tracing
 
 | Tools                                                                                                                                                                                                        | Description                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -488,7 +488,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)                                                                                                           | A case study on exploiting Windows Script Host (WSH) injection for command execution.                      |
 | [Gscript Dropper](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)                                                                                                            | Introduction to using Gscript as a dropper tool in red team operations.                                    |
 
-#### 17. [↑](./#-content) System
+### 17. [↑](./#-content) System
 
 | Tools                                                                                                            | Description                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -499,7 +499,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [OBEX\_rare.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_rare.txt)     | A list of rare OBEX (Object Exchange) paths, useful for targeting OBEX servers.                                                                     |
 | [Everything](https://www.voidtools.com/)                                                                         | A fast file and folder search tool for Windows, allowing instant results with minimal system resource usage.                                        |
 
-#### 18. [↑](./#-content) Social Networks
+### 18. [↑](./#-content) Social Networks
 
 **18.1** [**↑**](./#-content) **Instagram**
 
