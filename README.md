@@ -295,6 +295,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [TorBot](https://github.com/DedSecInside/TorBot)| Automates crawling and searching for data across .onion sites.  |
 |[Darc](https://github.com/JarryShaw/darc)| Distributed and automated .onion site crawler for large-scale data collection on the dark web.  |
 |[Prying Deep](https://github.com/iudicium/pryingdeep)|Advanced dark web crawler tailored for extracting and analyzing data from .onion sites.  |
+|[Sex offenders background check](https://backgroundchecks.org/)| Check for criminal records|
 
 
 
