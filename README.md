@@ -213,14 +213,12 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [GeoINT-py](https://github.com/geoint-py) | A collection of geospatial intelligence workflows implemented in Python.        |
 | [OverPass Turbo](https://overpass-turbo.eu/) | Ways I use ChatGPT with OverpassTurbo for OSINT Geolocation Research |
 | [GeoHints](https://geohints.com/)                 | Geolocation hints and tips for OSINT investigations.                                                  |
-| Geo Companion                                       | A tool for geolocation investigations and analysis.                                                   |
 | [GeoGuessr Assistant](https://chatgpt.com/g/g-VcnlRdShx-geoguessr-assistant) | An assistant tool for the GeoGuessr game, providing geolocation support.                              |
 | [GeoTips](https://geotips.net/)                   | A guide for geolocation strategies and tips.                                                          |
 | [Plonkit](https://www.plonkit.net/guide)          | Provides resources for geolocation and map-related guidance.                                          |
 | [GeoEstimation Labs](https://labs.tib.eu/geoestimation/) | A platform for geolocation estimation and analysis.                                                   |
 | [Google Earth](https://earth.google.com)          | Explore the world with 3D maps and satellite imagery.                                                 |
 | [Mapillary](https://www.mapillary.com)            | Street-level imagery platform for mapping and geolocation research.                                   |
-| Yandex Maps                                        | Provides mapping, navigation, and transport routes, especially useful for Russian contexts.           |
 | [World Imagery Wayback](https://livingatlas.arcgis.com/wayback) | Access archived imagery for geospatial analysis.                                                     |
 | [Zoom Earth](https://zoom.earth)                 | Live weather maps, storm tracking, and global satellite imagery.                                      |
 | [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) | Explore satellite imagery and geospatial data from Sentinel satellites.                              |
@@ -235,7 +233,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Overpass Turbo](https://overpass-turbo.eu)       | A web-based tool for querying and filtering OpenStreetMap data.                                       |
 | [Google Earth](https://earth.google.com)          | 3D mapping and satellite imagery tool for exploring locations globally.                               |
 | [Mapillary](https://www.mapillary.com)            | A street-level imagery platform for mapping and geospatial analysis.                                  |
-| Yandex Maps                                        | Mapping and navigation tool, particularly useful for Russian locations and routes.                    |
 | [World Imagery Wayback](https://livingatlas.arcgis.com/wayback) | Access archived satellite imagery for geospatial and temporal analysis.                              |
 | [Zoom Earth](https://zoom.earth)                 | Live weather map and satellite imagery with storm tracking and rain radar.                           |
 | [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) | Explore satellite imagery and analyze geospatial data from Sentinel satellites.                      |
