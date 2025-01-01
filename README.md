@@ -212,6 +212,41 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [GeoProtests API](https://www.geoprotests.com) | Query and visualize protests worldwide with spatial aggregations.              |
 | [GeoINT-py](https://github.com/geoint-py) | A collection of geospatial intelligence workflows implemented in Python.        |
 | [OverPass Turbo](https://overpass-turbo.eu/) | Ways I use ChatGPT with OverpassTurbo for OSINT Geolocation Research |
+| [GeoHints](https://geohints.com/)                 | Geolocation hints and tips for OSINT investigations.                                                  |
+| Geo Companion                                       | A tool for geolocation investigations and analysis.                                                   |
+| [GeoGuessr Assistant](https://chatgpt.com/g/g-VcnlRdShx-geoguessr-assistant) | An assistant tool for the GeoGuessr game, providing geolocation support.                              |
+| [GeoTips](https://geotips.net/)                   | A guide for geolocation strategies and tips.                                                          |
+| [Plonkit](https://www.plonkit.net/guide)          | Provides resources for geolocation and map-related guidance.                                          |
+| [GeoEstimation Labs](https://labs.tib.eu/geoestimation/) | A platform for geolocation estimation and analysis.                                                   |
+| [Google Earth](https://earth.google.com)          | Explore the world with 3D maps and satellite imagery.                                                 |
+| [Mapillary](https://www.mapillary.com)            | Street-level imagery platform for mapping and geolocation research.                                   |
+| Yandex Maps                                        | Provides mapping, navigation, and transport routes, especially useful for Russian contexts.           |
+| [World Imagery Wayback](https://livingatlas.arcgis.com/wayback) | Access archived imagery for geospatial analysis.                                                     |
+| [Zoom Earth](https://zoom.earth)                 | Live weather maps, storm tracking, and global satellite imagery.                                      |
+| [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) | Explore satellite imagery and geospatial data from Sentinel satellites.                              |
+| [Real-Time Satellite Tracking](https://n2yo.com) | Track satellites and view predictions in real-time.                                                   |
+| [SunCalc](https://suncalc.net/)                  | Calculate sunrise, sunset, shadow length, and solar position data on a map.                          |
+| [Map Developers](https://www.mapdevelopers.com)   | Custom Google Map API solutions and tools for developers.                                             |
+| [ZoomEye](https://www.zoomeye.org)               | A global leader in cyberspace mapping and cybersecurity investigation tools.                          |
+| [OSM Finder](https://osm.org)                    | OpenStreetMap search and navigation tool for location data.                                           |
+| [PeakVisor](https://peakvisor.com)               | AR app and site for exploring mountains and hiking trails.                                            |
+| [Bellingcat OSM Search](https://www.bellingcat.com/resources/how-tos/2020/01/21/using-openstreetmap-for-geolocation-osint/) | Guide and tool for geolocation using OpenStreetMap.  |           
+| [Google Maps](https://maps.google.com)            | A widely used tool for mapping, navigation, and geolocation searches.                                 |
+| [Overpass Turbo](https://overpass-turbo.eu)       | A web-based tool for querying and filtering OpenStreetMap data.                                       |
+| [Google Earth](https://earth.google.com)          | 3D mapping and satellite imagery tool for exploring locations globally.                               |
+| [Mapillary](https://www.mapillary.com)            | A street-level imagery platform for mapping and geospatial analysis.                                  |
+| Yandex Maps                                        | Mapping and navigation tool, particularly useful for Russian locations and routes.                    |
+| [World Imagery Wayback](https://livingatlas.arcgis.com/wayback) | Access archived satellite imagery for geospatial and temporal analysis.                              |
+| [Zoom Earth](https://zoom.earth)                 | Live weather map and satellite imagery with storm tracking and rain radar.                           |
+| [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) | Explore satellite imagery and analyze geospatial data from Sentinel satellites.                      |
+| [Real-Time Satellite Tracking](https://n2yo.com) | Track satellites and view real-time predictions for their paths.                                      |
+| [SunCalc](https://suncalc.net/)                  | A solar position calculator for determining sunrise, sunset, and shadow lengths on a map.            |
+| [Map Developers](https://www.mapdevelopers.com)   | Provides custom Google Map API solutions and tools for advanced mapping needs.                        |
+| [ZoomEye](https://www.zoomeye.org)               | A cyberspace mapping tool and global leader in cybersecurity investigation.                           |
+| [OSM Finder](https://osm.org)                    | OpenStreetMap-based search tool for geolocation and navigation.                                       |
+| [PeakVisor](https://peakvisor.com)               | AR application and platform for exploring mountains and hiking trails.                                |
+| [Bellingcat OSM Search](https://www.bellingcat.com/resources/how-tos/2020/01/21/using-openstreetmap-for-geolocation-osint/) | A guide to using OpenStreetMap for geolocation in OSINT investigations.                              |
+
 
 
 #### 4. [↑](#-content) News
@@ -296,6 +331,28 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[Darc](https://github.com/JarryShaw/darc)| Distributed and automated .onion site crawler for large-scale data collection on the dark web.  |
 |[Prying Deep](https://github.com/iudicium/pryingdeep)|Advanced dark web crawler tailored for extracting and analyzing data from .onion sites.  |
 |[Sex offenders background check](https://backgroundchecks.org/)| Check for criminal records|
+| [Google](https://www.google.com)                 | Popular search engine, useful for general OSINT investigations.                                   |
+| [Baidu](https://www.baidu.com)                   | Chinese search engine, suitable for OSINT in Chinese-language sources.                           |
+| [Yandex](https://www.yandex.com)                 | Russian search engine, helpful for OSINT in Russian contexts.                                    |
+| [DuckDuckGo](https://duckduckgo.com)             | Privacy-focused search engine, useful for anonymous OSINT searches.                              |
+| [MetaOSINT](https://metaosint.com)               | Interactive visualization tools for jumpstarting OSINT investigations.                           |
+| [File Finder · GitHub](https://github.com)       | A GitHub tool for locating files and code repositories.                                           |
+| [OSINT Tools](https://osint.lolarchiver.com/)    | A collection of OSINT resources and tools.                                                       |
+| [Malfrat's OSINT Map](#)                         | Interactive OSINT map with categorized tools and resources.                                       |
+| [DorkSearch](https://dorksearch.com)            | Tool for speeding up Google Dorking during investigations.                                       |
+| [YouTube Metadata](https://youtube.com)          | Extract and analyze metadata from YouTube videos.                                                |
+| [FlightAware](https://flightaware.com)           | Real-time flight tracking and status tool.                                                       |
+| [JetPhotos](https://www.jetphotos.com)           | Access a database of over 4 million aviation photos.                                             |
+| [Black Book Online](https://www.blackbookonline.info) | Free public records search tool.                                                                |
+| [Family Watchdog](https://www.familywatchdog.us) | Free sex offender registry and other public records searches.                                    |
+| [Background Checks.org](https://backgroundchecks.org) | A guide to performing free public and criminal record searches.                                 |
+| [BOP: Federal Bureau of Prisons](https://www.bop.gov) | Federal inmate search and prison information.                                                   |
+| [Online Detainee Locator System](https://locator.ice.gov) | Tool for locating detainees in U.S. immigration custody.                                         |
+| [IntelTechniques OSINT Tool](https://inteltechniques.com/tools.html) | A comprehensive suite of OSINT tools.                                                           |
+| [OSINT.link](https://osint.link)                 | Directory of OSINT tools and resources.                                                          |
+| [Snusbase](https://snusbase.com)                 | Database search engine for breached data.                                                        |
+| [Cylect.io](https://cylect.io)                   | Ultimate OSINT search engine for various investigations.                                         |
+| [DorkGPT](https://www.dorkgpt.com/)              | OSINT tool for automated Google dorking and advanced searches.                                   |
 
 
 
