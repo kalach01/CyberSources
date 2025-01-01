@@ -138,6 +138,10 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 #### 3. [↑](#-content) OSINT
 
+| **Tool**                                       | **Description**                                                              |
+|-----------------------------------------------|------------------------------------------------------------------------------|
+| [OsintLabs](https://github.com/iamosinter/OsintLab/tree/main)        | Tools and sites usefull for osint                              |
+
 
 ##### 3.1 [↑](#-content) Username Search
 
