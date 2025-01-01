@@ -2,14 +2,6 @@
 
 
 
-<!-- INCLUDING STATS -->
- <p align="left">
-<!-- <img src="https://img.shields.io/github/watchers/brunoooost/cybersources?style=for-the-badge"/> -->
- <img src="https://img.shields.io/github/stars/brunoooost/cybersources?style=for-the-badge"/>  <img src="https://img.shields.io/github/forks/brunoooost/cybersources?style=for-the-badge"/>  <img src="https://img.shields.io/github/contributors/brunoooost/cybersources?style=for-the-badge"/> 
-
- </p> 
-
-
 Welcome to the **Cybersecurity Resources Repository**! This project serves as a central hub for a wide range of tools, resources, and educational materials designed for cybersecurity professionals, enthusiasts, and learners. Whether you're just starting out or an experienced expert, you'll find everything you need to enhance your skills, stay updated with industry trends, and deepen your knowledge in this fast-evolving field.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunoooost%2Fcybersources&count_bg=%236DAC3E&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
