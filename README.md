@@ -1090,7 +1090,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Bug Bounties 101](https://whitton.io/articles/bug-bounties-101-getting-started/) | A beginner's guide to getting started with bug bounty hunting. |  
 | [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter) | An insightful Q&A on the experiences of a bug bounty hunter. |  
 | [Awsome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet) | A curated list of bug bounty cheatsheets and tools. |  
-| [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology) | Step-by-step methodology to begin your bug bounty journey. |  
+| [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology) | Step-by-step methodology to begin your bug bounty journey. |
+| [beafn28 notes](https://beafn28.gitbook.io/beafn28)| Some spanish notes and writeups...  | 
 
 ### [↑](#-content) 📚 Courses
 
