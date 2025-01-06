@@ -58,6 +58,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
     - [VPNs](#-27-VPNs)
     - [RFID](#-28-RFID)
     - [Bug Bounty](#-29-bug-bounty)
+- [Hardware Tools](#--hardware-tools)
 - [Learning](#--learning)
   - [Resources](#--resources)
   - [Courses](#--courses)
@@ -1063,6 +1064,11 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [CESPPA](https://cesppa.com) | A cybersecurity and bug bounty platform for coordinated vulnerability disclosure. |  
 
 
+## [↑](#-content) 🔧 Hardware Tools
+
+|Tool|Description|
+|--|--|
+|[Flipper Zero](https://flipperzero.one/)|Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware, and more.|
 
 ## [↑](#-content) 📖 Learning
 
