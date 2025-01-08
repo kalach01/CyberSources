@@ -549,6 +549,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [URLVoid](https://www.urlvoid.com/)                       | Website reputation checker that scans URLs for safety using multiple security engines and blocklists.                                       |
 
 | [Gobuster](https://github.com/OJ/gobuster/releases/tag/v3.6.0)                       | Gobuster is a fast and efficient tool used in penetration testing and ethical hacking for discovering hidden directories, files, DNS subdomains, and virtual hostnames on a web server. It works by brute-forcing web server paths or subdomains using wordlists.                                       |
+| [SecLists](https://github.com/danielmiessler/SecLists) | Seclist is a depository full if word list I use it for Gobuster and other brute forcing aapplications. It has a variety of wordlists for your needs of small wordlists to large wordlists.
+          |
 
 #### 13. [↑](#-content) Network
 
