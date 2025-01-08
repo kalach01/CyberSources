@@ -244,6 +244,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Bolt](https://boltai.com/)                           | Function: Fast and minimalist code completion, optimized for speed and specific contexts. Advantage: Focuses on local performance rather than cloud solutions.                                                        |
 | [GitHub Copilot](https://github.com/features/copilot) | Function: Custom code generation powered by GPT-4 (or similar). Advantage: Perfect for a broad audience, though sometimes lacks advanced customization.                                                               |
 | [Tabnine](https://www.tabnine.com/)                   | Function: Uses AI models for local or cloud-based suggestions. Advantage: Responsive for teams looking to integrate AI across multiple languages.                                                                     |
+| [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources (like cybersources but with ai)|
+
 
 ##### 4.2 [↑](#-content) AI Cybersecurity
 
@@ -253,7 +255,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [CrowdStrike Falcon](https://www.crowdstrike.com/) | Function: AI-based Endpoint Protection Platform. Advantage: Offers proactive defense with advanced malware detection and rapid incident response.                                                 |
 | [Vectra AI](https://www.vectra.ai/)                | Function: Network traffic analysis for detecting internal and external threats. Advantage: Focuses on detecting complex attacks like lateral movements or data exfiltration.                      |
 | [Cynet 360](https://www.cynet.com/)                | Function: All-in-one security platform combining threat detection, incident response, and automation. Advantage: Particularly suitable for small businesses with limited cybersecurity resources. |
-| [Reveelium](https://www.alsego.com/reveelium/)     | Function: Anomaly detection and event correlation in information systems. Advantage: Ideal for identifying unusual behavior in logs of large organizations.                                       |
+| [Reveelium](https://www.alsego.com/reveelium/)     | Function: Anomaly detection and event correlation in information systems. Advantage: Ideal for identifying unusual behavior in logs of large organizations.     |
+| [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources.|
+
 
 #### 5. [↑](#-content) News
 
