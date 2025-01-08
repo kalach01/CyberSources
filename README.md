@@ -230,6 +230,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | Tools                                                                          | Description                                                                                                                                      |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Photo.Osint](https://start.me/p/0PgzqO/photo-osint)| List of all tools for photo and images OSINT.|
+| [Foto Forensics](https://fotoforensics.com/)                                                                                | All the metadata of an image.                                                             |
+
 
 #### 4. [↑](#-content) AI Tools
 
