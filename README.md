@@ -548,6 +548,10 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [sqlmap](https://github.com/sqlmapproject/sqlmap)         | Automatic SQL injection tool for database takeover.                                                                                         |
 | [URLVoid](https://www.urlvoid.com/)                       | Website reputation checker that scans URLs for safety using multiple security engines and blocklists.                                       |
 
+| [Gobuster](https://github.com/OJ/gobuster/releases/tag/v3.6.0)       |   Gobuster is a tool used in penetration testing and ethical hacking. It discover hidden directories, files, DNS subdomains, and virtual hostnames on a web server by brute-forcing web server paths or subdomains with wordlists.  |
+
+| [SecLists](https://github.com/danielmiessler/SecLists)       | Seclist is a depository full if word list I use it for Gobuster and other brute forcing aapplications. It has a variety of wordlists for your needs of small wordlists to large wordlists.  |
+
 #### 13. [↑](#-content) Network
 
 | Tools                                                                 | Description                                                                                      |
@@ -1050,6 +1054,12 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Distribute](https://cybersectools.com/tools/distribute)                                   | Malware analysis tool that helps distribute files for analysis.               |
 | [YaraStation](https://cybersectools.com/tools/yarastation)                                 | Management portal for Yara rule-based malware scanning.                       |
 | [CAPE](https://cybersectools.com/tools/cape)                                               | Malware sandbox designed for executing and analyzing malicious files.         |
+
+| [Sandboxie-Plus](https://sandboxie-plus.com/downloads)
+     | Another Malaware sandbox and might be a better option if your testing runs.     |
+
+| [Hybrid-Analysis](https://www.hybrid-analysis.com)
+     | Hybrid Analysis is a Malaware analysis service it's free and has ai or someone does it for free it's reliable and more accurate than total virus.    |
 
 ### [↑](#-content) 26. SIEM
 
