@@ -548,9 +548,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [sqlmap](https://github.com/sqlmapproject/sqlmap)         | Automatic SQL injection tool for database takeover.                                                                                         |
 | [URLVoid](https://www.urlvoid.com/)                       | Website reputation checker that scans URLs for safety using multiple security engines and blocklists.                                       |
 
-| [Gobuster](https://github.com/OJ/gobuster/releases/tag/v3.6.0)       |   Gobuster is a tool used in penetration testing and ethical hacking. It discover hidden directories, files, DNS subdomains, and virtual hostnames on a web server by brute-forcing web server paths or subdomains with wordlists.  |
-
-| [SecLists](https://github.com/danielmiessler/SecLists)       | Seclist is a depository full if word list I use it for Gobuster and other brute forcing aapplications. It has a variety of wordlists for your needs of small wordlists to large wordlists.  |
+| [Gobuster](https://github.com/OJ/gobuster/releases/tag/v3.6.0)| Gobuster is a tool used in penetration testing and ethical hacking. It discover hidden directories, files, DNS subdomains, and virtual hostnames on a web server by brute-forcing web server paths or subdomains with wordlists. |
 
 #### 13. [↑](#-content) Network
 
