@@ -20,7 +20,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
     - [Username Search](#31--username-search)
     - [Email Search](#32--email-search)
     - [GEOINT](#33--geoint)
-    - [Photo/Images](#34--photo/images)
+    - [Photo/Images](#34--photo--images)
   - [AI Tools](#4--ai-tools)
     - [AI Programming](#41--ai-programming)
     - [AI Cybersecurity](#42--ai-cybersecurity)
