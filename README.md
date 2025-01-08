@@ -1158,8 +1158,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 ### [↑](#-content) 🎥 Tutorials
 
-| Tutorials                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Documentaries                                                                              | Description |
+| ------------------------------------------------------------------------------------------ | ---------- |
 | [Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)                 |
 | [Exploit Writing Tutorials for Pentesters](http://web.archive.org/web/20140916085343/http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/) |
 | [Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp)                                                                      |
@@ -1258,8 +1258,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 ## [↑](#-content) 📖 Books & Papers/Articles
 
-| Title                                                                                                                                                                                     | Description                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Documentaries                                                                              | Description |
+| ------------------------------------------------------------------------------------------ | ---------- |
 | [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)                                                                                 | Explores modern red teaming methodologies and how they evolve to meet sophisticated threats.                      |
 | [Targeted Cyber Attack](https://www.amazon.com/Targeted-Cyber-Attacks-Multi-staged-Exploits/dp/0128006048)                                                                                | Offers insights into planning, executing, and defending against cyberattacks.                                     |
 | [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)                              | Guides readers through techniques to breach highly secure networks.                                               |
