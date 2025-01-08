@@ -1072,6 +1072,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | Tool                                     | Description                                                                                                                                                                             |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Flipper Zero](https://flipperzero.one/) | Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware, and more. |
+| [Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky)|A "flash drive" that types keystroke injection payloads into unsuspecting devices at incredible speeds. From Hak5. |
+| [Wifi Pineapple](https://shop.hak5.org/products/wifi-pineapple)|A Wi-Fi Pineapple is a wireless auditing platform from Hak5 that allows network security administrators to conduct penetration tests. |
 
 ## [↑](#-content) 📖 Learning
 
