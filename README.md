@@ -123,6 +123,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 ##### 3.1 [↑](#-content) Username Search
 
+
 | **Tool**                                                                           | **Description**                                                              |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [WhatsMyName](https://whatsmyname.app)                                             | Locate usernames across numerous platforms.                                  |
@@ -142,34 +143,107 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Seekr](https://github.com/seekr-osint/seekr)                                      | Multi-tool for OSINT data management, note-taking, and username checking.    |
 | [SherlockEye](https://sherlockeye.io/)                                             | Discover publicly available information tied to a username.                  |
 | [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md)                 | Search for nicknames and usernames on the web within the OSINT domain.       |
+| [Blackbird](https://blackbirdosint.com) | OSINT tool for tracking and investigation.                                                  |
+| [Castrick](https://castrick.io)     | Tool for gathering digital footprint information.                                           |
+| [Checkusernames](https://checkusernames.com) | Tool to verify the availability of usernames across multiple platforms.                      |
+| [Cylect](https://cylect.com)        | Online resource for email and domain investigations.                                        |
+| [DetectDee](https://detectdee.com)  | OSINT tool focused on deep web data discovery.                                              |
+| [Dr Watson](https://drwatson.com)   | A tool for investigating online data and tracking digital footprints.                        |
+| [Knowem](https://knowem.com)        | Check the availability of usernames and brand names across various social networks.         |
+| [Inteltechniques](https://inteltechniques.com) | Collection of OSINT tools for diverse investigations.                                       |
+| [League of Legends Archiver](https://lolarchiver.com) | Archive and search past web data, with a focus on low-level intelligence collection.             |
+| [Myth](https://mythosint.com)       | OSINT tool focused on myth-busting and filtering accurate data from multiple online sources.      |
+| [Namechk](https://namechk.com)      | A tool that checks if a username or brand is available across hundreds of websites and social platforms. |
+| [Nameit](https://nameit.com)         | OSINT tool for verifying usernames across the internet.                                       |
+| [NameMC](https://namemc.com)        | Search and verify Minecraft usernames.                                                      |
+| [Namevine](https://namevine.com)    | A tool to check name availability across various websites.                                   |
+| [Nexfil](https://nexfil.com)        | OSINT tool for gathering and analyzing data from social profiles and digital footprints.      |
+| [OSINT Quest](https://osintquest.com) | OSINT platform designed for comprehensive searches across social media and public records.       |
+| [OSINT-Rocks](https://osint.rocks)  | A collection of open-source intelligence tools for various investigative purposes.               |
+| [Peek You](https://peekyou.com)     | Search engine that finds publicly available data about individuals and their online profiles.     |
+| [Pi-Recon](https://pirecon.com)     | OSINT tool for quickly gathering information on individuals and their digital presence.           |
+| [Search 0t Rocks](https://0t.rocks) | Currently down (formerly a tool for searching and investigating email addresses).                 |
+| [Sherlock](https://github.com/sherlock-project/sherlock) | Search for usernames across social media and other websites.                                   |
+| [Sherlockeye](https://sherlockeye.com) | OSINT tool used for searching public data, social media, and more.                              |
+| [Social Searcher](https://social-searcher.com) | OSINT tool to search social media platforms for public information.                            |
+| [Tookie-OSINT](https://tookieosint.com) | Tool for gathering information from social media and various online platforms.                |
+| [UnAvatar](https://unavatar.io)     | Discover avatars tied to an email address across different platforms.                         |
+| [Usersearch](https://usersearch.com) | Search for user information across multiple social networks and websites.                    |
+| [User Searcher](https://usersearcher.com) | Investigates social media profiles and other online data related to usernames.                |
+| [WhatsMyName](https://whatsmyname.com) | Search tool for checking username availability across the web.                                |
+| [WhatsMyName Python](https://github.com/whatsmyname-python) | Python-based version of the WhatsMyName tool for username availability checking. |
+
+
 
 ##### 3.2 [↑](#-content) Email Search
 
-| Tools                                                                          | Description                                                                                                                                      |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Industries OSINT](https://osint.industries)                                   | Offers a variety of tools for investigating email addresses.                                                                                     |
-| [Epieos](https://epieos.com)                                                   | Analyze and investigate email addresses.                                                                                                         |
-| [ScanIdentity](https://scan.identityguard.com/full)                            | Verify identities and scan for security risks.                                                                                                   |
-| [LeakPeak](https://leakpeek.com)                                               | Identify whether email addresses have been leaked.                                                                                               |
-| [BreachDirectory](https://breachdirectory.org)                                 | Explore databases of breached email accounts.                                                                                                    |
-| [0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks?tab=readme-ov-file) | OSINT tool dedicated to email searches.                                                                                                          |
-| [MailTester](http://mailtester.com)                                            | Locate email addresses and optimize email deliverability.                                                                                        |
-| [MXToolbox](https://mxtoolbox.com/)                                            | Troubleshoot and investigate email server issues using free tools.                                                                               |
-| [DeHashed](https://dehashed.com/)                                              | Prevent account takeovers with breach notifications and data analysis.                                                                           |
-| [Email Address Validator](http://www.email-validator.net)                      | Enhance email deliverability, reduce bounce rates, and prevent fraud.                                                                            |
-| [Email Format](http://email-format.com)                                        | Discover the email formats used by different organizations.                                                                                      |
-| [Email Permutator](https://www.polished.app/email-permutator/)                 | Generate potential email addresses for targeted contacts.                                                                                        |
-| [EmailHippo](https://tools.verifyemailaddress.io)                              | Verify if an email address exists with accuracy.                                                                                                 |
-| [Ghunt](https://github.com/mxrch/GHunt)                                        | Investigate Google-related emails and associated documents.                                                                                      |
-| [Gitrecon](https://github.com/atiilla/gitrecon)                                | Scan GitHub repositories for exposed emails and names.                                                                                           |
-| [h8mail](https://github.com/khast3x/h8mail)                                    | Perform local or premium email OSINT and password breach hunting.                                                                                |
-| [Have I Been Pwned](https://haveibeenpwned.com)                                | Check whether an email address has been exposed in data breaches.                                                                                |
-| [Holehe](https://github.com/megadose/holehe)                                   | Discover accounts linked to email addresses across various platforms.                                                                            |
-| [Hunter](https://hunter.io)                                                    | Find email addresses quickly and connect with business contacts.                                                                                 |
-| [LeakCheck](https://leakcheck.io/)                                             | Search over 7.5B breached entries for emails, usernames, and other data.                                                                         |
-| [LeakRadar](https://leakradar.io/)                                             | Monitors stealer logs to identify compromised domains and email addresses, providing real-time alerts and proactive protection against breaches. |
-| [Telegram Group](https://t.me/+tObrYXqGOetmODhl)                               | A Telegram bot that allows you to search people's names in more than 3000 websites.                                                              |
-| [ActiveTK.jp](https://gmail-osint.activetk.jp/)                                | You can get your Google account information from your Gmail address, such as your name, profile image, and the services you used.                |
+
+| Tool                                | Description                                                                                  |
+|-------------------------------------|----------------------------------------------------------------------------------------------|
+| [Industries OSINT](https://www.osintindustries.com) | Offers a variety of tools for investigating email addresses.                                 |
+| [Epieos](https://epieos.com)        | Analyze and investigate email addresses.                                                    |
+| [ScanIdentity](https://scanidentity.com) | Verify identities and scan for security risks.                                              |
+| [LeakPeak](https://leakpeak.com)    | Identify whether email addresses have been leaked.                                          |
+| [BreachDirectory](https://breachdirectory.com) | Explore databases of breached email accounts.                                               |
+| [0t.rocks](https://0t.rocks)       | OSINT tool dedicated to email searches.                                                     |
+| [MailTester](https://mailtester.com) | Locate email addresses and optimize email deliverability.                                   |
+| [MXToolbox](https://mxtoolbox.com) | Troubleshoot and investigate email server issues using free tools.                          |
+| [DeHashed](https://dehashed.com)    | Prevent account takeovers with breach notifications and data analysis.                      |
+| [Email Address Validator](https://emailaddressvalidator.com) | Enhance email deliverability, reduce bounce rates, and prevent fraud.                       |
+| [Email Format](https://emailformat.com) | Discover the email formats used by different organizations.                                 |
+| [Email Permutator](https://tools.epieos.com/email_permutator) | Generate potential email addresses for targeted contacts.                                   |
+| [EmailHippo](https://emailhippo.com) | Verify if an email address exists with accuracy.                                            |
+| [Ghunt](https://github.com/mxrch/GHunt) | Investigate Google-related emails and associated documents.                                 |
+| [Gitrecon](https://github.com/internetwache/GitTools) | Scan GitHub repositories for exposed emails and names.                                      |
+| [h8mail](https://github.com/khast3x/h8mail) | Perform local or premium email OSINT and password breach hunting.                           |
+| [Have I Been Pwned](https://haveibeenpwned.com) | Check whether an email address has been exposed in data breaches.                           |
+| [Holehe](https://github.com/megadose/holehe) | Discover accounts linked to email addresses across various platforms.                       |
+| [Hunter](https://hunter.io)         | Find email addresses quickly and connect with business contacts.                            |
+| [LeakCheck](https://leakcheck.net)  | Search over 7.5B breached entries for emails, usernames, and other data.                    |
+| [LeakRadar](https://leakradar.com)  | Monitors stealer logs to identify compromised domains and email addresses, providing real-time alerts. |
+| [Telegram Group](https://telegram.org) | A Telegram bot that allows you to search people's names in more than 3000 websites.         |
+| [ActiveTK.jp](https://activetk.jp)  | Obtain Google account information from a Gmail address, such as name, profile image, and services used. |
+| [Black Kite](https://blackkite.com) | Cybersecurity tool for assessing third-party risks.                                         |
+| [Blackbird](https://blackbirdosint.com) | OSINT tool for tracking and investigation.                                                  |
+| [Castrick](https://castrick.io)     | Tool for gathering digital footprint information.                                           |
+| [Cylect](https://cylect.com)        | Online resource for email and domain investigations.                                        |
+| [DetectDee](https://detectdee.com)  | OSINT tool focused on deep web data discovery.                                              |
+| [Digital Footprint Check](https://digitalfootprintcheck.com) | Tool for analyzing an individual’s or organization’s online presence.                       |
+| [Email Dossier](https://emaildossier.com) | Tool for gathering detailed information about an email address.                             |
+| [Experte](https://www.experte.com)  | OSINT tool for website and domain analysis.                                                 |
+| [Gravatar](https://en.gravatar.com) | Tool for gathering information tied to Gravatar profiles.                                   |
+| [Hudson Rock Cybercrime Intelligence Tools](https://hudsonrock.com) | Comprehensive tools for cybercrime intelligence and monitoring.                             |
+| [Haveibeensold](https://haveibeensold.com) | Service for checking if email addresses have been sold.                                     |
+| [Hawker](https://hawker.io)         | OSINT tool for searching social media and digital profiles.                                 |
+| [Indicator Search](https://indicatorsearch.com) | OSINT tool for identifying patterns and indicators across platforms.                        |
+| [Intelltechniques](https://inteltechniques.com) | Collection of OSINT tools for diverse investigations.                                       |
+| [Leak Lookup](https://leaklookup.com) | Service for checking if an email address or domain has been exposed in data breaches.           |
+| [Leap](https://leapsearch.com)      | Tool for comprehensive OSINT searches across multiple data sources.                             |
+| [Lol Archiver](https://lolarchiver.com) | Archive and search past web data, with a focus on low-level intelligence collection.             |
+| [Myth](https://mythosint.com)       | OSINT tool focused on myth-busting and filtering accurate data from multiple online sources.      |
+| [OCCRP Aleph](https://aleph.occrp.org) | Investigative platform for OSINT tools, particularly useful for journalists and activists.        |
+| [Omail](https://omail.io)           | OSINT tool for checking email addresses against multiple online sources.                         |
+| [Osinty](https://osinty.com)        | Provides investigative tools for searching and collecting open-source intelligence data.         |
+| [OSINT Quest](https://osintquest.com) | OSINT platform designed for comprehensive searches across social media and public records.       |
+| [OSINT-Rocks](https://osint.rocks)  | A collection of open-source intelligence tools for various investigative purposes.               |
+| [Peek You](https://peekyou.com)     | Search engine that finds publicly available data about individuals and their online profiles.     |
+| [Pi-Recon](https://pirecon.com)     | OSINT tool for quickly gathering information on individuals and their digital presence.           |
+| [Postal](https://postal.io)         | Tool used to locate email addresses, usernames, and domain information.                          |
+| [Predicta Search](https://predictasearch.com) | Tool that enables users to search for digital data across various online platforms.               |
+| [ScamSearch](https://scamsearch.io) | OSINT tool designed to detect scams by searching through multiple online databases.              |
+| [Search 0t Rocks](https://0t.rocks) | Currently down (formerly a tool for searching and investigating email addresses).                 |
+| [Seon](https://seon.io)             | Fraud prevention and email validation tool, offering insight into suspicious online activity.     |
+| [Sherlockeye](https://sherlockeye.com) | OSINT tool used for searching public data, social media, and more.                              |
+| [Skymem](https://skymem.com)        | Email lookup tool that tracks and archives email addresses, searching for data leaks and more.    |
+| [Spytox](https://spytox.com)        | Online search tool for locating people, tracking online data, and finding their social profiles. |
+| [Synapsint](https://synapsint.com)  | OSINT search engine for finding public data across social networks and websites.                |
+| [That's Them](https://thatsthem.com) | Provides a quick search for people and email addresses to locate social profiles and data.        |
+| [Whoisology](https://whoisology.com) | OSINT platform used for investigating domain ownership, email addresses, and IP data.             |
+| [Whoxy](https://whoxy.com)          | WHOIS search tool used to gather information about website domains, email addresses, and owners.  |
+| [X-OSINT](https://x-osint.com)      | OSINT tool focused on providing in-depth searches and analysis for digital footprints.            |
+| [Zehef](https://zehef.com)          | A tool for investigating email addresses and domains with a focus on digital footprint analysis.  |
+
+
 
 ##### 3.3 [↑](#-content) GEOINT
 
@@ -1315,6 +1389,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty)                     | Awesome list of bug bounty                                  |
 | [awesome-red-team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/tree/master) | Awesome Red Team                                            |
 | [the-hacker-roadmap](https://github.com/sundowndev/hacker-roadmap/tree/master)          | Roadmap for hacker                                          |
+| [the-osint-toolbox](https://github.com/The-Osint-Toolbox/Email-Username-OSINT)          | List of tools for email and username search                 |
 
 ## [↑](#-content) 🛣️ Learning Path
 
@@ -1348,3 +1423,4 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 - [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty)
 - [awesome-red-team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/tree/master)
 - [the-hacker-roadmap](https://github.com/sundowndev/hacker-roadmap/tree/master)
+- [The-OSINT-Toolbox](https://github.com/The-Osint-Toolbox/Email-Username-OSINT)
