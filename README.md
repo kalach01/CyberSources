@@ -1303,6 +1303,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [OWASP](https://github.com/OWASP)                                                       | Tools and resources for web application security.           |
 | [Mitre ATT&CK](https://github.com/mitre/)                                               | Adversarial tactics and techniques.                         |
 | [TheHive Project](https://github.com/TheHive-Project)                                   | Incident response tools.                                    |
+| [OSINT](https://github.com/sinwindie/OSINT)                                             | List of tools OSINT.                                        |
 | [Awesome OSINT](https://github.com/jivoi/awesome-osint)                                 | Awesome list of tools OSINT.                                |
 | [awesome-osint-for-everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) | Awesome for some tools OSINT                                |
 | [Playbooks](https://github.com/socfortress/Playbooks)                                   | Repository of playbooks.                                    |
