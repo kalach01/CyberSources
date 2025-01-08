@@ -223,7 +223,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [OSM Finder](https://osm.org)                                                                                               | OpenStreetMap-based search tool for geolocation and navigation.                           |
 | [PeakVisor](https://peakvisor.com)                                                                                          | AR application and platform for exploring mountains and hiking trails.                    |
 | [Bellingcat OSM Search](https://www.bellingcat.com/resources/how-tos/2020/01/21/using-openstreetmap-for-geolocation-osint/) | A guide to using OpenStreetMap for geolocation in OSINT investigations.                   |
-| [Foto Forensics](https://fotoforensics.com/)                                                                                | All the metadata of an image.                                                             |
+
 
 ##### 3.4 [↑](#-content) Photo / Images
 
