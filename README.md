@@ -1214,6 +1214,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Tradecraft - a course on red team operations](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)                    | A YouTube playlist providing a detailed course on red team operations.                                                                                                                                                       |
 | [Advanced Threat Tactics Course & Notes](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/)                           | A comprehensive guide and course on advanced threat tactics by Cobalt Strike.                                                                                                                                                |
 | [FireEye - a whiteboard session on red team operations](https://www.fireeye.com/services/red-team-assessments/red-team-operations-video-training.html) | A video session from FireEye that covers red team operations and assessments.                                                                                                                                                |
+| [Hacksplaining](https://www.hacksplaining.com/)| Completely free, comprehensive security training for web developers. Covers every major security vulnerability you are likely to face. Concrete, no-nonsense advice for the developer in a hurry.|
 
 ### [↑](#-content) 📝 Certifications
 
