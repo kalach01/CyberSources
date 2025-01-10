@@ -437,6 +437,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Snusbase](https://snusbase.com)                                     | Database search engine for breached data.                                                                                                                                                                                                             |
 | [Cylect.io](https://cylect.io)                                       | Ultimate OSINT search engine for various investigations.                                                                                                                                                                                              |
 | [DorkGPT](https://www.dorkgpt.com/)                                  | OSINT tool for automated Google dorking and advanced searches.                                                                                                                                                                                        |
+| [ZoomEye](https://ZoomEye.ai)                                        | ZoomEye is a cyberspace search engine for detailed internet device information and cybersecurity analysis.                                                                                                                                                                                                     |
 
 #### 7. [↑](#-content) DNS/IP
 
