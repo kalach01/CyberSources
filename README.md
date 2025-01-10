@@ -1468,6 +1468,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | Channels                                                                              | Description |
 | ------------------------------------------------------------------------------------------ | ---------- |
 | [NetworkChuck](https://www.youtube.com/user/NetworkChuck) | NetworkChuck is a popular YouTuber and educator known for his engaging tutorials on networking, cybersecurity, and IT certifications. |
+| [S4vitar](https://www.youtube.com/channel/UCNHWpNqiM8yOQcHXtsluD7Q) | Cybersecurity and Ethical Hacking Channel | Red Team & Pentesting|
 
 ## [↑](#-content) 💬 Collaborate
 
