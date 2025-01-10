@@ -1459,10 +1459,37 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 ### [↑](#-content) 🎥 Youtube Channels
 
-| Channels                                                                              | Description |
-| ------------------------------------------------------------------------------------------ | ---------- |
+| **Channel**                                          | **Description**                                                                                         |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | [NetworkChuck](https://www.youtube.com/user/NetworkChuck) | NetworkChuck is a popular YouTuber and educator known for his engaging tutorials on networking, cybersecurity, and IT certifications. |
-| [S4vitar](https://www.youtube.com/channel/UCNHWpNqiM8yOQcHXtsluD7Q) | Cybersecurity and Ethical Hacking Channel | Red Team & Pentesting|
+| [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor) | A channel focused on penetration testing, ethical hacking, and cybersecurity, offering high-quality content for beginners and professionals. |
+| [HackerSploit](https://www.youtube.com/c/HackerSploit) | A channel offering in-depth tutorials on ethical hacking, cybersecurity, and penetration testing for enthusiasts and professionals. |
+| [John Hammond](https://www.youtube.com/c/JohnHammond010) | Practical tutorials on ethical hacking, vulnerability analysis, and cybersecurity challenges. |
+| [Computerphile](https://www.youtube.com/c/Computerphile) | A channel that explains complex computer science concepts, including cybersecurity and cryptography, in a simple and engaging way. |
+| [LiveOverflow](https://www.youtube.com/c/LiveOverflow) | Focused on hacking challenges and ethical hacking tutorials, LiveOverflow provides practical examples and hands-on experiences. |
+| [Cybrary](https://www.youtube.com/c/Cybrary) | A channel that offers a wide range of cybersecurity and IT training resources, suitable for both beginners and advanced professionals. |
+| [PentesterLab](https://www.youtube.com/c/PentesterLab) | A channel dedicated to penetration testing with a variety of tutorials on vulnerabilities and exploits, ideal for learning practical skills. |
+| [Tinkr](https://www.youtube.com/c/Tinkr) | Learn ethical hacking, web application security, and how to improve defense strategies against attacks through accessible tutorials. |
+| [TheHackerGiraffe](https://www.youtube.com/c/TheHackerGiraffe) | A channel offering ethical hacking tutorials in a fun and approachable way, covering tools and techniques for cybersecurity. |
+| [SecurityNow](https://www.youtube.com/c/SecurityNow) | A cybersecurity-focused channel that provides analysis of vulnerabilities, advanced security topics, and the latest news in the field. |
+| [David Bombal](https://www.youtube.com/c/DavidBombal) | Known for tutorials on networking, cybersecurity, and IT certifications, David Bombal offers in-depth insights into tech education. |
+| [Null Byte](https://www.youtube.com/c/NullByte) | A great resource for ethical hacking, penetration testing, and advanced security techniques, perfect for learners of all levels. |
+| [Hak5](https://www.youtube.com/c/Hak5Darren) | A channel dedicated to hacking, security, and hardware, offering innovative content about tools and devices in the security field. |
+| [S4vitar](https://www.youtube.com/c/S4vitar) | Cybersecurity and Ethical Hacking Channel | Red Team & Pentesting |
+| [IppSec](https://www.youtube.com/c/IppSec) | Focused on walkthroughs of Capture The Flag (CTF) challenges and practical penetration testing content, IppSec is perfect for skill development. |
+| [Hacking Simplified](https://www.youtube.com/c/HackingSimplified) | Offers easy-to-follow tutorials and content for learning ethical hacking and cybersecurity skills. |
+| [STÖK](https://www.youtube.com/c/STÖK) | A channel that provides clear and engaging tutorials on penetration testing, ethical hacking, and web security. |
+| [Firewalls](https://www.youtube.com/c/Firewalls) | A resource for learning network security, including firewall configurations, intrusion detection, and prevention techniques. |
+| [TechieLicious](https://www.youtube.com/c/TechieLicious) | A channel focused on tech tutorials, cybersecurity, and ethical hacking, providing helpful tips and insights for beginners. |
+| [Computer Security](https://www.youtube.com/c/ComputerSecurity) | A cybersecurity channel dedicated to offering tips, tutorials, and walkthroughs on securing systems and networks. |
+| [TRAPST3R](https://www.youtube.com/c/TRAPST3R) | A channel that offers hacking tutorials, penetration testing challenges, and ethical hacking walkthroughs for aspiring professionals. |
+| [RedTeamOps](https://www.youtube.com/c/RedTeamOps) | A channel focused on red teaming, penetration testing, and ethical hacking, helping viewers sharpen their cybersecurity skills. |
+| [The Cyber Security Channel](https://www.youtube.com/c/TheCyberSecurityChannel) | Offers comprehensive resources on cybersecurity, penetration testing, and the latest security threats and solutions. |
+| [Hack Like a Pro](https://www.youtube.com/c/HackLikeAPro) | Learn to hack like a pro with tutorials on ethical hacking, penetration testing, and various security practices. |
+| [CyberExploit](https://www.youtube.com/c/CyberExploit) | A channel dedicated to ethical hacking, vulnerability exploitation, and penetration testing methodologies. |
+| [TechDefenders](https://www.youtube.com/c/TechDefenders) | Focused on tech security, including tutorials on securing networks, ethical hacking, and best practices in cybersecurity. |
+| [Pentesting Academy](https://www.youtube.com/c/PentestingAcademy) | A channel designed for those looking to improve their penetration testing skills through structured courses and tutorials. |
+
 
 ## [↑](#-content) 💬 Collaborate
 
