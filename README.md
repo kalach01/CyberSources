@@ -1432,3 +1432,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 - [awesome-red-team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/tree/master)
 - [the-hacker-roadmap](https://github.com/sundowndev/hacker-roadmap/tree/master)
 - [The-OSINT-Toolbox](https://github.com/The-Osint-Toolbox/Email-Username-OSINT)
+
+
+
+<meta name="keywords" content="cybersecurity, security news, threat intelligence, security resources, cybersecurity training, security research, security compliance, security events, infosec, cyber threat intelligence, security tools, security education, security awareness, penetration testing, vulnerability assessment, security certifications, security conferences, awesome list, cybersources">
+
+<meta name="description" content="Cybersources is a currated list of all cybersecurity tools and resources.">
