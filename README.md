@@ -174,7 +174,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [UnAvatar](https://unavatar.io)     | Discover avatars tied to an email address across different platforms.                         |
 | [Usersearch](https://usersearch.com) | Search for user information across multiple social networks and websites.                    |
 | [User Searcher](https://usersearcher.com) | Investigates social media profiles and other online data related to usernames.                |
-| [WhatsMyName](https://whatsmyname.com) | Search tool for checking username availability across the web.                                |
 | [WhatsMyName Python](https://github.com/whatsmyname-python) | Python-based version of the WhatsMyName tool for username availability checking. |
 
 
