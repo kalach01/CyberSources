@@ -1154,24 +1154,24 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Linux](https://www.kernel.org)                   | An open-source, Unix-like operating system kernel, widely used in servers, desktops, and embedded systems. |
 | [TailOS](https://tails.boum.org)                  | A privacy-focused, live operating system that you can start on almost any computer from a USB stick or a DVD. |
 | [Kali Linux](https://www.kali.org)                 | A Debian-based distribution specifically geared towards penetration testing and security auditing. |
-| [macOS](https://www.apple.com/macos/)              | El sistema operatiu de Apple per a ordinadors, conegut per la seva interfície elegant i integració amb altres productes d'Apple. |
-| [Ubuntu](https://ubuntu.com)                      | Una distribució de Linux basada en Debian, coneguda per la seva facilitat d'ús i la seva comunitat activa. |
-| [Fedora](https://getfedora.org)                    | Una distribució de Linux orientada a la comunitat amb un focus en la seguretat i les noves tecnologies. |
-| [Debian](https://www.debian.org)                   | Un sistema operatiu lliure i obert, conegut per la seva estabilitat i utilitzat com a base per a moltes altres distribucions de Linux. |
-| [Red Hat](https://www.redhat.com)                  | Un sistema operatiu empresarial basat en Linux, amb suport i serveis empresarials per a empreses. |
-| [OpenSUSE](https://www.opensuse.org)               | Una distribució de Linux orientada a desenvolupadors i administradors de sistemes, amb versions estables i de test. |
-| [Arch Linux](https://www.archlinux.org)            | Una distribució de Linux minimalista i flexible, dissenyada per a usuaris avançats que volen construir el seu sistema des de zero. |
-| [FreeBSD](https://www.freebsd.org)                 | Un sistema operatiu de codi obert derivat de BSD Unix, conegut per la seva seguretat, rendiment i estabilitat. |
-| [Android](https://www.android.com)                 | Un sistema operatiu mòbil basat en Linux, desenvolupat per Google per a dispositius mòbils i tauletes. |
-| [Chrome OS](https://www.google.com/chromeos/)       | Un sistema operatiu basat en Linux desenvolupat per Google, orientat a l'ús en dispositius lleugers com Chromebooks. |
-| [CentOS](https://www.centos.org)                   | Una distribució de Linux basada en Red Hat Enterprise Linux (RHEL), orientada a usuaris empresarials i servidors. |
-| [Raspberry Pi OS](https://www.raspberrypi.org/software/) | Un sistema operatiu basat en Debian dissenyat específicament per a la Raspberry Pi. |
-| [BSD](https://www.bsd.org)                         | Un conjunt de sistemes operatius derivats de BSD Unix, amb una gran èmfasi en la seguretat i el rendiment. |
-| [Haiku OS](https://www.haiku-os.org)                | Un sistema operatiu de codi obert inspirat en BeOS, dissenyat per ser fàcil d'usar i ràpid. |
-| [Zorin OS](https://zorin.com/os/)                  | Una distribució de Linux dissenyada per a usuaris que venen de Windows, amb una interfície similar a la de Windows. |
-| [QNX](https://www.blackberry.com/us/en/products/qnx) | Un sistema operatiu en temps real (RTOS) usat en dispositius embeguts i automòbils. |
-| [Solus](https://getsol.us)                         | Una distribució de Linux independent que proporciona un entorn de treball únic amb una experiència d'usuari simplificada. |
-| [SUSE Linux Enterprise](https://www.suse.com)      | Un sistema operatiu empresarial basat en Linux, amb enfocament en la seguretat i la gestió de grans entorns de TI. |
+| [macOS](https://www.apple.com/macos/)              | Apple’s operating system for computers, known for its elegant interface and integration with other Apple products. |
+| [Ubuntu](https://ubuntu.com)                      | A Debian-based Linux distribution, known for its ease of use and active community. |
+| [Fedora](https://getfedora.org)                    | A community-oriented Linux distribution with a focus on security and cutting-edge technologies. |
+| [Debian](https://www.debian.org)                   | A free and open-source operating system, known for its stability and used as a base for many other Linux distributions. |
+| [Red Hat](https://www.redhat.com)                  | A Linux-based enterprise operating system, offering support and business services for enterprises. |
+| [OpenSUSE](https://www.opensuse.org)               | A Linux distribution aimed at developers and system administrators, with both stable and test versions available. |
+| [Arch Linux](https://www.archlinux.org)            | A minimalist and flexible Linux distribution, designed for advanced users who want to build their system from scratch. |
+| [FreeBSD](https://www.freebsd.org)                 | An open-source operating system derived from BSD Unix, known for its security, performance, and stability. |
+| [Android](https://www.android.com)                 | A Linux-based mobile operating system developed by Google for smartphones and tablets. |
+| [Chrome OS](https://www.google.com/chromeos/)       | A Linux-based operating system developed by Google, designed for use on lightweight devices like Chromebooks. |
+| [CentOS](https://www.centos.org)                   | A Linux distribution based on Red Hat Enterprise Linux (RHEL), aimed at business users and servers. |
+| [Raspberry Pi OS](https://www.raspberrypi.org/software/) | A Debian-based operating system specifically designed for the Raspberry Pi. |
+| [BSD](https://www.bsd.org)                         | A family of operating systems derived from BSD Unix, with a strong emphasis on security and performance. |
+| [Haiku OS](https://www.haiku-os.org)                | An open-source operating system inspired by BeOS, designed to be easy to use and fast. |
+| [Zorin OS](https://zorin.com/os/)                  | A Linux distribution designed for users coming from Windows, with an interface similar to Windows. |
+| [QNX](https://www.blackberry.com/us/en/products/qnx) | A real-time operating system (RTOS) used in embedded devices and automotive systems. |
+| [Solus](https://getsol.us)                         | An independent Linux distribution that provides a unique workspace environment with a simplified user experience. |
+| [SUSE Linux Enterprise](https://www.suse.com)      | An enterprise Linux operating system with a focus on security and managing large IT environments. |
 
 
 
