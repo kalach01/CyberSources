@@ -57,6 +57,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
   - [VPNs](#-28-VPNs)
   - [RFID](#-29-RFID)
   - [Bug Bounty](#-30-bug-bounty)
+  - [Operating Systems](#-31-operating-systems)
 - [Hardware Tools](#--hardware-tools)
 - [Learning](#--learning)
   - [Resources](#--resources)
@@ -1142,6 +1143,39 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Hacktrophy](https://www.hacktrophy.com)           | A Slovak bug bounty platform for finding vulnerabilities in digital assets.                      |
 | [AntiHACK](https://antihack.me)                    | A bug bounty and penetration testing platform based in Asia.                                     |
 | [CESPPA](https://cesppa.com)                       | A cybersecurity and bug bounty platform for coordinated vulnerability disclosure.                |
+
+
+
+### [↑](#-content) 31. Operating Systems
+
+| **System**    | **Description**                                                                                      |
+|---------------|------------------------------------------------------------------------------------------------------|
+| [Windows](https://www.microsoft.com/en-us/windows) | A popular operating system developed by Microsoft, known for its user-friendly interface and wide application support. |
+| [Linux](https://www.kernel.org)                   | An open-source, Unix-like operating system kernel, widely used in servers, desktops, and embedded systems. |
+| [TailOS](https://tails.boum.org)                  | A privacy-focused, live operating system that you can start on almost any computer from a USB stick or a DVD. |
+| [Kali Linux](https://www.kali.org)                 | A Debian-based distribution specifically geared towards penetration testing and security auditing. |
+| [macOS](https://www.apple.com/macos/)              | El sistema operatiu de Apple per a ordinadors, conegut per la seva interfície elegant i integració amb altres productes d'Apple. |
+| [Ubuntu](https://ubuntu.com)                      | Una distribució de Linux basada en Debian, coneguda per la seva facilitat d'ús i la seva comunitat activa. |
+| [Fedora](https://getfedora.org)                    | Una distribució de Linux orientada a la comunitat amb un focus en la seguretat i les noves tecnologies. |
+| [Debian](https://www.debian.org)                   | Un sistema operatiu lliure i obert, conegut per la seva estabilitat i utilitzat com a base per a moltes altres distribucions de Linux. |
+| [Red Hat](https://www.redhat.com)                  | Un sistema operatiu empresarial basat en Linux, amb suport i serveis empresarials per a empreses. |
+| [OpenSUSE](https://www.opensuse.org)               | Una distribució de Linux orientada a desenvolupadors i administradors de sistemes, amb versions estables i de test. |
+| [Arch Linux](https://www.archlinux.org)            | Una distribució de Linux minimalista i flexible, dissenyada per a usuaris avançats que volen construir el seu sistema des de zero. |
+| [FreeBSD](https://www.freebsd.org)                 | Un sistema operatiu de codi obert derivat de BSD Unix, conegut per la seva seguretat, rendiment i estabilitat. |
+| [Android](https://www.android.com)                 | Un sistema operatiu mòbil basat en Linux, desenvolupat per Google per a dispositius mòbils i tauletes. |
+| [Chrome OS](https://www.google.com/chromeos/)       | Un sistema operatiu basat en Linux desenvolupat per Google, orientat a l'ús en dispositius lleugers com Chromebooks. |
+| [CentOS](https://www.centos.org)                   | Una distribució de Linux basada en Red Hat Enterprise Linux (RHEL), orientada a usuaris empresarials i servidors. |
+| [Raspberry Pi OS](https://www.raspberrypi.org/software/) | Un sistema operatiu basat en Debian dissenyat específicament per a la Raspberry Pi. |
+| [BSD](https://www.bsd.org)                         | Un conjunt de sistemes operatius derivats de BSD Unix, amb una gran èmfasi en la seguretat i el rendiment. |
+| [Haiku OS](https://www.haiku-os.org)                | Un sistema operatiu de codi obert inspirat en BeOS, dissenyat per ser fàcil d'usar i ràpid. |
+| [Zorin OS](https://zorin.com/os/)                  | Una distribució de Linux dissenyada per a usuaris que venen de Windows, amb una interfície similar a la de Windows. |
+| [QNX](https://www.blackberry.com/us/en/products/qnx) | Un sistema operatiu en temps real (RTOS) usat en dispositius embeguts i automòbils. |
+| [Solus](https://getsol.us)                         | Una distribució de Linux independent que proporciona un entorn de treball únic amb una experiència d'usuari simplificada. |
+| [SUSE Linux Enterprise](https://www.suse.com)      | Un sistema operatiu empresarial basat en Linux, amb enfocament en la seguretat i la gestió de grans entorns de TI. |
+
+
+
+
 
 ## [↑](#-content) 🔧 Hardware Tools
 
