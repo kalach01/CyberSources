@@ -116,7 +116,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 #### 3. [↑](#-content) OSINT
 
 | **Tool**                                                      | **Description**                   |
-
 | ------------------------------------------------------------- | --------------------------------- |
 | [OsintLabs](https://github.com/iamosinter/OsintLab/tree/main) | Tools and sites usefull for osint |
 | [OSINT Framework](https://osintframework.com/)               | HUGE collection of OSINT tools    |
