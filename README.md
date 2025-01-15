@@ -103,16 +103,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 | **Tool**                                                                                                                                               | **Description**                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| [osint.rocks](https://osint.rocks)                                                                                                                     | A resource for locating and investigating individuals.                                          |
-| [Pim Eyes](https://pimeyes.com/en)                                                                                                                     | Facial recognition tool for reverse image searches.                                             |
-| [IntelTechniques](https://inteltechniques.com/tools/Search.htm)                                                                                        | Search engine tailored for OSINT investigations across multiple data types.                     |
-| [Cybdetective](https://cybdetective.com/osintmap)                                                                                                      | Visual global directory of OSINT tools.                                                         |
-| [Face Comparison](https://facecomparison.toolpie.com)                                                                                                  | Compare facial images to find matches.                                                          |
-| [OSINT Framework](https://osintframework.com)                                                                                                          | Extensive repository of OSINT tools and techniques.                                             |
-| [FaceCheckID](https://facecheck.id)                                                                                                                    | Reverse image lookup specialized in facial recognition.                                         |
-| [Social Catfish](https://socialcatfish.com)                                                                                                            | Find people using names, images, or other details.                                              |
-| [Google Lens](https://lens.google)                                                                                                                     | AI-powered tool to analyze and extract information from images.                                 |
-| [LensoAI](https://lenso.ai/en)                                                                                                                         | AI-driven platform for reverse image searching.                                                 |
 | [GetAllURLs (gau)](https://cybersectools.com/tools/getallurls-gau)                                                                                     | Collects existing URLs for a domain from sources like Wayback Machine, URLScan, and AlienVault. |
 | [Guardey](https://cybersectools.com/tools/guardey)                                                                                                     | Offers gamified training and content for improving cybersecurity awareness.                     |
 | [NightShade](https://cybersectools.com/tools/nightshade)                                                                                               | Framework for designing and executing CTF challenges with a focus on security.                  |
@@ -128,6 +118,18 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | **Tool**                                                      | **Description**                   |
 | ------------------------------------------------------------- | --------------------------------- |
 | [OsintLabs](https://github.com/iamosinter/OsintLab/tree/main) | Tools and sites usefull for osint |
+| [OSINT Framework] (https://osintframework.com/)               | HUGE collection of OSINT tools    |
+| [Mitaka] (https://github.com/ninoseki/mitaka)                 | Mitaka is a browser extension that makes your OSINTsearch & scan easier|
+| [osint.rocks](https://osint.rocks)                                                                                                                     | A resource for locating and investigating individuals.                                          |
+| [Pim Eyes](https://pimeyes.com/en)                                                                                                                     | Facial recognition tool for reverse image searches.                                             |
+| [IntelTechniques](https://inteltechniques.com/tools/Search.htm)                                                                                        | Search engine tailored for OSINT investigations across multiple data types.                     |
+| [Cybdetective](https://cybdetective.com/osintmap)                                                                                                      | Visual global directory of OSINT tools.                                                         |
+| [Face Comparison](https://facecomparison.toolpie.com)                                                                                                  | Compare facial images to find matches.                                                          |
+| [OSINT Framework](https://osintframework.com)                                                                                                          | Extensive repository of OSINT tools and techniques.                                             |
+| [FaceCheckID](https://facecheck.id)                                                                                                                    | Reverse image lookup specialized in facial recognition.                                         |
+| [Social Catfish](https://socialcatfish.com)                                                                                                            | Find people using names, images, or other details.                                              |
+| [Google Lens](https://lens.google)                                                                                                                     | AI-powered tool to analyze and extract information from images.                                 |
+| [LensoAI](https://lenso.ai/en)                                                                                                                         | AI-driven platform for reverse image searching.                                                 |
 
 ##### 3.1 [↑](#-content) Username Search
 
