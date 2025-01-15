@@ -9,7 +9,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 [![](https://img.shields.io/badge/Discord-%235865F2.svg?style=Social&logo=discord&logoColor=white)](https://discord.gg/HhjhQgnp54)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=Social&logo=reddit&logoColor=white)](https://www.reddit.com/r/cybersources/)
 
+**🎉 Join now the discord community (+300 members): https://discord.gg/HhjhQgnp54 🎉**
 </div>
+
 
 ## 📋 Content
 
