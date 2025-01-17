@@ -82,6 +82,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
   - [Books & Papers/Articles](#--books--papersarticles)
   - [TV Shows](#-%EF%B8%8F-tv-shows)
   - [Youtube Channels](#--youtube-channels)
+- [Stars History](#--stars-history)
 - [Collaborate](#--collaborate)
 - [Credits](#--credits)
 
@@ -1494,6 +1495,11 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [CyberExploit](https://www.youtube.com/c/CyberExploit) | A channel dedicated to ethical hacking, vulnerability exploitation, and penetration testing methodologies. |
 | [TechDefenders](https://www.youtube.com/c/TechDefenders) | Focused on tech security, including tutorials on securing networks, ethical hacking, and best practices in cybersecurity. |
 | [Pentesting Academy](https://www.youtube.com/c/PentestingAcademy) | A channel designed for those looking to improve their penetration testing skills through structured courses and tutorials. |
+
+
+## [↑](#-content) ⭐️ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=brunoooost/cybersources&type=Date)](https://star-history.com/#brunoooost/cybersources&Date)
 
 
 ## [↑](#-content) 💬 Collaborate
