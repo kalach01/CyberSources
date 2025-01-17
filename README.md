@@ -82,7 +82,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
   - [Books & Papers/Articles](#--books--papersarticles)
   - [TV Shows](#-%EF%B8%8F-tv-shows)
   - [Youtube Channels](#--youtube-channels)
-- [Stars History](#--stars-history)
+- [Stars History](#-%EF%B8%8F-star-history)
 - [Collaborate](#--collaborate)
 - [Credits](#--credits)
 
