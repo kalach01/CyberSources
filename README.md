@@ -136,7 +136,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 | **Tool**                                                                           | **Description**                                                              |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [WhatsMyName](https://whatsmyname.app)                                             | Locate usernames across numerous platforms.                                  |
 | [NameCheck](https://www.namecheckr.com)                                            | Check username availability on various websites.                             |
 | [UserSearch](https://usersearch.org)                                               | Free tool to search usernames on 2000+ websites.                             |
 | [BlackBird](https://blackbird-osint.herokuapp.com)                                 | Advanced tool for OSINT username searches.                                   |
