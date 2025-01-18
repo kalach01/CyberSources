@@ -25,31 +25,31 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
     - [Email Search](#32--email-search)
     - [GEOINT](#33--geoint)
     - [Photo/Images](#34--photo--images)
+    - [Social Networks](#4--social-networks)
+      - [Instagram](#41--instagram)
+      - [Linkedin](#42--linkedin)
+      - [TikTok](#43--tiktok)
+      - [OnlyFans](#44--onlyfans)
+      - [Discord](#45--discord)
+      - [Twitch](#46--twitch)
+      - [Tinder](#47--tinder)
   - [AI Tools](#4--ai-tools)
-    - [AI Programming](#41--ai-programming)
-    - [AI Cybersecurity](#42--ai-cybersecurity)
-  - [News](#5--news)
-  - [Search Engines](#6--search-engines)
-  - [DNS/IP](#7--dnsip)
-  - [Post Explotation](#8--post-explotation)
-  - [Deobfuscators](#9--deobfuscators)
-  - [Decompilers](#10--decompilers)
-  - [Disassembler and debuggers](#11--Disassembler-and-debuggers)
-  - [Web](#12--web)
-  - [Network](#13--network)
-  - [Cryptography](#14--cryptography)
-  - [Forensic](#15--forensic)
-  - [Hex editors](#16--hex-editors)
-  - [Execution logging and tracing](#17--execution-logging-and-tracing)
-  - [System](#18--system)
-  - [Social Networks](#19--social-networks)
-    - [Instagram](#191--instagram)
-    - [Linkedin](#192--linkedin)
-    - [TikTok](#193--tiktok)
-    - [OnlyFans](#194--onlyfans)
-    - [Discord](#195--discord)
-    - [Twitch](#196--twitch)
-    - [Tinder](#197--tinder)
+    - [AI Programming](#51--ai-programming)
+    - [AI Cybersecurity](#52--ai-cybersecurity)
+  - [News](#6--news)
+  - [Search Engines](#7--search-engines)
+  - [DNS/IP](#8--dnsip)
+  - [Post Explotation](#9--post-explotation)
+  - [Deobfuscators](#10--deobfuscators)
+  - [Decompilers](#11--decompilers)
+  - [Disassembler and debuggers](#12--Disassembler-and-debuggers)
+  - [Web](#13--web)
+  - [Network](#14--network)
+  - [Cryptography](#15--cryptography)
+  - [Forensic](#16--forensic)
+  - [Hex editors](#17--hex-editors)
+  - [Execution logging and tracing](#18--execution-logging-and-tracing)
+  - [System](#19--system)
   - [Steganographic](#-20-steganographic)
   - [Steganalysis](#-21-steganalysis)
   - [Cryptocurrency](#-22-cryptocurrency)
@@ -311,9 +311,181 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Foto Forensics](https://fotoforensics.com/)                                                                                | All the metadata of an image.                                                             |
 
 
-#### 4. [↑](#-content) AI Tools
+##### 4. [↑](#-content) Social Networks
 
-##### 4.1 [↑](#-content) AI Programming
+##### 4.1 [↑](#-content) Instagram
+
+| Tools                                                                                                          | Description                                                                    |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [Aware Online: Instagram Search Tool](https://www.aware-online.com/osint-tools/instagram-search-tool)          | Instagram Search Tool                                                          |
+| [Combin](https://www.combin.com)                                                                               | Instagram marketing tool for managing and growing your account.                |
+| [Comment Picker](https://commentpicker.com)                                                                    | Tool for selecting random winners from comments.                               |
+| [Display Purposes](https://displaypurposes.com)                                                                | Tool for finding hashtags related to your content.                             |
+| [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok)              | Chrome extension for downloading photos and videos from Instagram.             |
+| [Engagement-calculator](https://phlanx.com/engagement-calculator)                                              | Tool for calculating engagement rates on Instagram.                            |
+| [Export Comments](https://exportcomments.com)                                                                  | Tool for exporting Instagram comments.                                         |
+| [Hashtagify](http://hashtagify.me)                                                                             | Tool for finding and analyzing hashtags.                                       |
+| [Hashtags for Likes](https://www.hashtagsforlikes.co)                                                          | Tool for finding the best hashtags for Instagram.                              |
+| [HypeAuditor](https://hypeauditor.com)                                                                         | Tool for analyzing the authenticity of influencers and their engagement.       |
+| [Iconosquare](http://iconosquare.com)                                                                          | Tool for managing and analyzing Instagram accounts.                            |
+| [IGSuperStar](https://igsuperstar.com)                                                                         | Tool for finding Instagram influencers.                                        |
+| [Imgbunk](https://imgbunk.com)                                                                                 | Tool for searching and downloading Instagram photos.                           |
+| [ImgInn](https://imginn.com)                                                                                   | Tool for viewing and downloading Instagram stories anonymously.                |
+| [In Tags](https://play.google.com/store/apps/details?id=com.sunraylabs.socialtags)                             | Tool for finding the best tags for your Instagram posts.                       |
+| [INSSIST](https://chrome.google.com/webstore/detail/inssist-post-stories-dmw/bcocdbombenodlegijagbhdjbifpiijp) | Chrome extension for posting photos and stories on Instagram from desktop.     |
+| [InstaFollowers](https://www.instafollowers.co)                                                                | Tool for gaining followers and engagement on Instagram.                        |
+| [Instagram Crawler](https://github.com/hehpollon/Instagram-Crawler)                                            | Tool for scraping Instagram data.                                              |
+| [Instagram Explorer](https://www.osintcombine.com/instagram-explorer)                                          | Tool for exploring Instagram profiles and posts.                               |
+| [Instagram OSINT](https://github.com/sc1341/InstagramOSINT)                                                    | Open-source intelligence tool for Instagram.                                   |
+| [Instagram Scraper](https://apify.com/jaroslavhejlek/instagram-scraper)                                        | Tool for scraping Instagram posts and profiles.                                |
+| [Instagram Search Tool (Aware Online)](http://www.aware-online.com/en/osint-tools/instagram-search-tool)       | Tool for searching Instagram profiles and posts.                               |
+| [InstaLoader](https://github.com/instaloader/instaloader)                                                      | Tool for downloading Instagram photos, videos, and metadata.                   |
+| [instaloctrack](https://github.com/bernsteining/instaloctrack)                                                 | Tool for tracking Instagram locations.                                         |
+| [InstaLooter](https://github.com/althonos/InstaLooter)                                                         | Tool for downloading photos and videos from Instagram profiles.                |
+| [Keyhole](http://keyhole.co)                                                                                   | Tool for tracking and analyzing social media campaigns.                        |
+| [Leetags](https://www.leetags.com)                                                                             | Tool for finding the best hashtags for Instagram posts.                        |
+| [MetaHashtags](https://metahashtags.com)                                                                       | Tool for generating and analyzing hashtags.                                    |
+| [Minter.io](https://minter.io)                                                                                 | Tool for Instagram analytics and reporting.                                    |
+| [noninstagram](https://github.com/datvance/noinstagram)                                                        | Tool for Instagram data analysis.                                              |
+| [Osi.ig](https://github.com/th3unkn0n/osi.ig)                                                                  | Tool for Instagram OSINT.                                                      |
+| [Osintgram](https://github.com/Datalux/Osintgram)                                                              | OSINT tool for analyzing Instagram profiles and posts.                         |
+| [Otzberg.net](https://www.otzberg.net/iguserid/index.php)                                                      | Tool for finding Instagram user IDs.                                           |
+| [Panoramiq](https://apps.hootsuite.com/apps/panoramiq)                                                         | Tool for scheduling and managing Instagram posts.                              |
+| [Phantom Buster](https://phantombuster.com/phantombuster)                                                      | Automation tool for social media platforms.                                    |
+| [Picodash](https://www.picodash.com)                                                                           | Tool for searching and organizing Instagram content.                           |
+| [Scylla](https://github.com/josh0xA/Scylla)                                                                    | Tool for Instagram OSINT and data scraping.                                    |
+| [Skimagram](https://snoopreport.com)                                                                           | Tool for tracking Instagram activity.                                          |
+| [Social-alerts](https://github.com/mamoedo/social-alerts)                                                      | Tool for setting up social media alerts.                                       |
+| [SocialInsider](https://www.socialinsider.io)                                                                  | Tool for social media analytics and competitive analysis.                      |
+| [socid_extractor](https://github.com/soxoj/socid_extractor)                                                    | Tool for extracting social media IDs.                                          |
+| [SoIG](https://github.com/yezz123/SoIG)                                                                        | Tool for Instagram OSINT.                                                      |
+| [tailwind](https://www.tailwindapp.com)                                                                        | Tool for scheduling and managing Instagram posts.                              |
+| [ThumbTube](https://thumbtube.com/instagram-profile-picture-downloader)                                        | Tool for downloading Instagram profile pictures.                               |
+| [trendHERO](https://trendhero.io)                                                                              | Tool for influencer marketing and analytics.                                   |
+| [Webstagram](https://webstagram.org)                                                                           | Instagram web viewer and search tool.                                          |
+| [Flufi](https://flufi.me/)                                                                                     | A tool for exploring public stories, posts, reels, tags, followers, and more.. |
+| [Find Instagram User ID](https://findinstagramuserid.com/)                                                     | A tool to find the Instagram user ID for any profile.                          |
+
+##### 4.2 [↑](#-content) Linkedin
+
+| Tools                                                                                               | Description                                |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [IntelligenceX: Linkedin](https://intelx.io/tools?tab=linkedin)                                     | LinkedIn search tool by IntelligenceX.     |
+| [BridgeKeeper](https://github.com/0xZDH/BridgeKeeper)                                               | Tool for OSINT on LinkedIn profiles.       |
+| [CrossLinked](https://github.com/m8r0wn/crosslinked)                                                | LinkedIn enumeration tool.                 |
+| [Email Reverse Lookup](https://github.com/rebootORZ/OSINT_Spider.py)                                | Tool for reverse email lookup on LinkedIn. |
+| [Free People Search Tools](https://freepeoplesearchtool.com)                                        | Comprehensive people search tool.          |
+| [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB)      | Chrome extension for LinkedIn OSINT.       |
+| [osint.support](https://osint.support/chrome-extensions)                                            | Collection of OSINT tools for LinkedIn.    |
+| [InSpy](https://github.com/leapsecurity/InSpy)                                                      | LinkedIn enumeration tool.                 |
+| [Linkedin Bookmarklet](https://github.com/sinwindie/OSINT/blob/master/LinkedIn/Bookmarklet%20Tools) | Bookmarklet tools for LinkedIn OSINT.      |
+| [Linkedin Profile Scraper](https://github.com/Monst3rSec/linkedin-profile-scraper)                  | Tool for scraping LinkedIn profiles.       |
+| [Linkedin Search TGC](https://www.anantha.co.in/linkedin)                                           | Tool for searching LinkedIn profiles.      |
+| [LinkedInt](https://github.com/vysecurity/LinkedInt)                                                | LinkedIn intelligence and OSINT tool.      |
+| [Osint Support Linkedin](https://github.com/jqueguiner/lk_scraper)                                  | Support tools for LinkedIn OSINT.          |
+| [Phantom Buster](https://phantombuster.com/phantombuster)                                           | Automation tool for LinkedIn tasks.        |
+| [raven](https://github.com/0x09AL/raven)                                                            | LinkedIn enumeration and scraping tool.    |
+| [Recruitin.net](https://recruitin.net/)                                                             | Tool for recruiting on LinkedIn.           |
+| [Recruitment Geek](https://recruitmentgeek.com/tools/linkedin)                                      | LinkedIn search tool for recruiters.       |
+| [ScrapedIn](https://github.com/dchrastil/ScrapedIn)                                                 | Tool for scraping LinkedIn profiles.       |
+
+#### 4.3 [↑](#-content) TikTok
+
+| Tools                                                                                                                             | Description                                                | --- |
+| --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --- |
+| [Exolyt.com](https://exolyt.com/)                                                                                                 | Tool for analyzing TikTok profiles and videos.             | --- |
+| [Hashtags for Likes](https://www.hashtagsforlikes.co)                                                                             | Tool for finding the best hashtags for TikTok posts.       | --- |
+| [HypeAuditor](https://hypeauditor.com)                                                                                            | Tool for analyzing the authenticity of TikTok influencers. | --- |
+| [Influence Grid](https://www.influencegrid.com)                                                                                   | Tool for finding TikTok influencers.                       | --- |
+| [InstaFollowers](https://www.instafollowers.co/find-tiktok-user-id)                                                               | Tool for finding TikTok user IDs.                          | --- |
+| [Mavekite.com](https://mavekite.com/)                                                                                             | Tool for managing and analyzing TikTok campaigns.          | --- |
+| [OSINT Combine TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search)                                             | Quick search tool for TikTok profiles.                     | --- |
+| [Savefrom.net](https://en.savefrom.net/download-from-tiktok)                                                                      | Tool for downloading TikTok videos.                        | --- |
+| [Sinwindie TikTok Bookmarklet Tools](https://github.com/sinwindie/OSINT/blob/master/TikTok/Bookmarklet%20Tools)                   | Bookmarklet tools for TikTok OSINT.                        | --- |
+| [Snaptik.app](https://snaptik.app/)                                                                                               | Tool for downloading TikTok videos.                        | --- |
+| [Tikbuddy](https://app.tikbuddy.com/)                                                                                             | Tool for analyzing TikTok profiles and content.            | --- |
+| [TikTok API](https://github.com/szdc/tiktok-api)                                                                                  | API for interacting with TikTok.                           | --- |
+| [TikTok Creative Center Statistics](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114) | Tool for finding trending hashtags and content on TikTok.  | --- |
+| [TikTok Downloader](https://tiktokdownloader.com/)                                                                                | Tool for downloading TikTok videos.                        | --- |
+| [TikTok Hashtags](https://tiktokhashtags.com)                                                                                     | Tool for generating TikTok hashtags.                       | --- |
+| [TikTok Scraper](https://github.com/Dutchosintguy/tiktok-scraper)                                                                 | Tool for scraping TikTok profiles and videos.              | --- |
+| [TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp/)                                                                | Tool for analyzing timestamps on TikTok videos.            | --- |
+| [TikView](https://tikview.com/tiktok-search)                                                                                      | Tool for searching TikTok profiles and content.            | --- |
+| [tikvstock](https://tikvstok.com/tiktok)                                                                                          | Tool for stock and analyzing TikTok videos.                | --- |
+| [Tokvid](https://tokvid.com)                                                                                                      | Tool for downloading TikTok videos.                        | --- |
+| [TubeHi](https://tubehi.com)                                                                                                      | Tool for analyzing TikTok and YouTube content.             | --- |
+| [Vidnice](https://vidnice.com)                                                                                                    | Tool for analyzing TikTok profiles and content.            | --- |
+
+#### 4.4 [↑](#-content) OnlyFans
+
+| Tools                                                              | Description                                 |
+| ------------------------------------------------------------------ | ------------------------------------------- |
+| [fansmetrics.com](http://fansmetrics.com/)                         | Tool for analyzing OnlyFans metrics.        |
+| [Onlysearch.com](https://onlysearch.co/)                           | Search tool for finding OnlyFans profiles.  |
+| [onlyfinder.com](https://onlyfinder.com/)                          | Tool for finding OnlyFans creators.         |
+| [hubite.com/onlyfans-search/](https://hubite.com/onlyfans-search/) | OnlyFans search tool.                       |
+| [SimilarFans](https://similarfans.com/)                            | Tool for finding similar OnlyFans profiles. |
+| [FanSearch](https://www.fansearch.com/)                            | Comprehensive search tool for OnlyFans.     |
+
+#### 4.5 [↑](#-content) Discord
+
+| Tools                                                               | Description                                                                                                         |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [ASTRAAHOME](https://github.com/AstraaDev/Discord-All-Tools-In-One) | A collection of all-in-one tools for Discord.                                                                       |
+| [Discord History Tracker](https://dht.chylex.com/)                  | A tool for tracking and saving chat histories in Discord.                                                           |
+| [DISBOARD](https://disboard.org/)                                   | A platform to discover and list Discord servers.                                                                    |
+| [Discord Bots (Community)](https://discord.bots.gg/)                | A collection of publicly available Discord bots created by community members, serving various functions.            |
+| [Discord ID Lookup](https://discord.id/)                            | An unofficial tool for looking up Discord user information.                                                         |
+| [Discord Bots (Exploration)](https://top.gg/)                       | A vast collection to explore millions of Discord bots for different purposes.                                       |
+| [DiscordServers](https://discordservers.com/)                       | A curated selection of popular and interesting public Discord servers.                                              |
+| [Discord Me](https://discord.me/)                                   | A site for finding public Discord servers and bots.                                                                 |
+| [DiscordOSINT](https://discordosint.com/)                           | Provides resources for conducting research and OSINT investigations related to Discord accounts, servers, and bots. |
+| [Discord Bots](https://discordbots.org/)                            | A comprehensive directory of top Discord bots, apps, and servers, including popular music and economy bots.         |
+
+#### 4.6 [↑](#-content) Twitch
+
+| Tools                                                                           | Description                                                            |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php)      | Tool for viewing follower lists on Twitch.                             |
+| [Twitch Tracker](https://twitchtracker.com/)                                    | Tool for tracking Twitch statistics and analytics.                     |
+| [Sully Gnome](https://sullygnome.com/)                                          | Tool for analyzing Twitch stream statistics.                           |
+| [Twitch Stream Filter](https://twitch-tools.rootonline.de/channel_previews.php) | Tool for filtering and previewing Twitch streams.                      |
+| [Untwitch.com](https://untwitch.com/)                                           | Tool for downloading Twitch videos.                                    |
+| [Twitch Overlap](https://stats.roki.sh/)                                        | Tool for analyzing viewer overlap between Twitch streamers.            |
+| [Justlog](https://logs.ivr.fi/)                                                 | Tool for viewing Twitch chat logs.                                     |
+| [Twitch Recover](https://github.com/TwitchRecover/TwitchRecover)                | Tool for recovering deleted Twitch videos.                             |
+| [Twitch Database](https://www.twitchdatabase.com/following)                     | Database for tracking Twitch followings.                               |
+| [Twitch Insights](https://twitchinsights.net/)                                  | Tool for analyzing Twitch trends and statistics.                       |
+| [Twitch Followage Tool](https://streamscharts.com/tools/followage)              | Tool for checking how long users have been following a Twitch channel. |
+
+#### 4.7 [↑](#-content) Tinder
+
+| Tools                                              | Description                                                    |
+| -------------------------------------------------- | -------------------------------------------------------------- |
+| [Badoo](https://badoo.com)                         | Social discovery and dating app.                               |
+| [Bumble](https://bumble.com)                       | Dating app where women make the first move.                    |
+| [Coffee Meets Bagel](https://coffeemeetsbagel.com) | Dating app that curates matches for users.                     |
+| [eHarmony](https://www.eharmony.com)               | Dating site focused on long-term relationships.                |
+| [Grindr](https://www.grindr.com)                   | Social networking app for gay, bi, trans, and queer people.    |
+| [happn](https://www.happn.com)                     | Dating app that shows users people they've crossed paths with. |
+| [HER](https://weareher.com)                        | Dating and social app for LGBTQ+ women and non-binary people.  |
+| [Heybaby](https://www.heybaby.com)                 | Dating app for single parents and those open to dating them.   |
+| [Hinge](https://hinge.co)                          | Dating app designed to be deleted.                             |
+| [The Inner Circle](https://theinnercircle.co)      | Exclusive dating app for ambitious professionals.              |
+| [The League](https://www.theleague.com)            | Dating app for professionals.                                  |
+| [Match.com](https://www.match.com)                 | One of the largest dating sites.                               |
+| [MeetMe](https://www.meetme.com)                   | Social discovery app for meeting new people.                   |
+| [OkCupid](https://www.okcupid.com)                 | Dating app with a detailed questionnaire for matching.         |
+| [Plenty of Fish](https://pof.com)                  | Dating site with a large user base.                            |
+| [Scruff](https://www.scruff.com)                   | Social app for gay, bi, trans, and queer people.               |
+| [Tastebuds](https://tastebuds.fm)                  | Dating app that matches people based on music taste.           |
+| [Tinder](https://tinder.com)                       | Popular dating app for meeting new people.                     |
+| [zoosk](https://www.zoosk.com)                     | Dating site with a behavioral matchmaking algorithm.           |
+
+
+#### 5. [↑](#-content) AI Tools
+
+##### 5.1 [↑](#-content) AI Programming
 
 | Tool                                                  | Description                                                                                                                                                                                                           |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -325,7 +497,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources (like cybersources but with ai)|
 
 
-##### 4.2 [↑](#-content) AI Cybersecurity
+##### 5.2 [↑](#-content) AI Cybersecurity
 
 | Tool                                               | Description                                                                                                                                                                                       |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -337,14 +509,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources.|
 
 
-#### 5. [↑](#-content) News
+#### 6. [↑](#-content) News
 
 | Tools                                               | Description                                                                                                                                                      |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [WolrdEinnwes](https://world.einnews.com)           | News and search engine tools.                                                                                                                                    |
 | [IT Security Guru](https://www.itsecurityguru.org/) | IT Security Guru is a top resource for the latest cybersecurity news, covering threats, data breaches, and expert insights to help you stay informed and secure. |
 
-#### 6. [↑](#-content) Search Engines
+#### 7. [↑](#-content) Search Engines
 
 | Tools                                                                | Description                                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -438,7 +610,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [DorkGPT](https://www.dorkgpt.com/)                                  | OSINT tool for automated Google dorking and advanced searches.                                                                                                                                                                                        |
 | [ZoomEye](https://ZoomEye.ai)                                        | ZoomEye is a cyberspace search engine for detailed website investigation and cybersecurity analysis.                                                                                                                                                                                                     |
 
-#### 7. [↑](#-content) DNS/IP
+#### 8. [↑](#-content) DNS/IP
 
 | Tools                                                                                                                                   | Description                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -488,7 +660,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Check-The-Sum](https://www.checkthesum.com)                                                                                            | A database of malicious files, IPs, and domains collected from honeypots.                           |
 | [Adalanche](https://github.com/lkarlslund/Adalanche?tab=readme-ov-file)                                                                 | Open Source Active Directory ACL Visualizer and Explorer.                                           |
 
-#### 8. [↑](#-content) Post Explotation
+#### 9. [↑](#-content) Post Explotation
 
 | Tools                                                         | Description                                                                         |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -497,14 +669,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | A PowerShell post exploitation framework.                                           |
 | [ebowla](https://github.com/Genetic-Malware/Ebowla)           | Framework for Making Environmental Keyed Payloads.                                  |
 
-#### 9. [↑](#-content) Deobfuscators
+#### 10. [↑](#-content) Deobfuscators
 
 | Tools                                     | Description                                                                                    |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [JS Nice](http://jsnice.org/)             | Web service guessing JS variables names and types based on the model derived from open source. |
 | [de4dot](https://github.com/0xd4d/de4dot) | .NET deobfuscator and unpacker.                                                                |
 
-#### 10. [↑](#-content) Decompilers
+#### 11. [↑](#-content) Decompilers
 
 | Tools                                                    | Description                                                                                                                                          |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -520,7 +692,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [R2Dec](https://github.com/wargio/r2dec-js)              | Decompiler plugin for radare2                                                                                                                        |
 | [Decai](https://github.com/radareorg/r2ai)               | LLM-based decompiler for radare2                                                                                                                     |
 
-#### 11. [↑](#-content) Disassembler and debuggers
+#### 12. [↑](#-content) Disassembler and debuggers
 
 | Tools                                                 | Description                                                                                     |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -533,7 +705,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [ScratchABit](https://github.com/pfalcon/ScratchABit) | Customizable and hackable disassembler with support for IDAPython-compatible plugins.           |
 | [Ghidra](https://ghidra-sre.org/)                     | Comprehensive reverse engineering suite developed by the NSA.                                   |
 
-#### 12. [↑](#-content) Web
+#### 13. [↑](#-content) Web
 
 | Web                                                       | Description                                                                                                                                 |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -550,7 +722,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Gobuster](https://github.com/OJ/gobuster/releases/tag/v3.6.0)                       | Gobuster is a fast and efficient tool used in penetration testing and ethical hacking for discovering hidden directories, files, DNS subdomains, and virtual hostnames on a web server. It works by brute-forcing web server paths or subdomains using wordlists.                                |
 | [SecLists](https://github.com/danielmiessler/SecLists) | Seclist is a depository full if word list I use it for Gobuster and other brute forcing aapplications. It has a variety of wordlists for your needs of small wordlists to large wordlists.|
 
-#### 13. [↑](#-content) Network
+
+#### 14. [↑](#-content) Network
 
 | Tools                                                                 | Description                                                                                      |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -576,7 +749,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [TorCrawl](https://github.com/MikeMeliz/TorCrawl.py)                  | Python-based tool to crawl .onion websites efficiently.                                          |
 | [Midnight Sea](https://github.com/RicYaben/midnight_sea)              | A dark web crawler designed for flexibility and integration with analysis tools.                 |
 
-#### 14. [↑](#-content) Cryptography
+#### 15. [↑](#-content) Cryptography
 
 | Tools                                            | Description                                                                            |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------- |
@@ -585,7 +758,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Aircrack](http://www.aircrack-ng.org/)          | Aircrack is 802.11 WEP and WPA-PSK keys cracking program.                              |
 | [Ciphey](https://github.com/ciphey/ciphey)       | Automated decryption tool using artificial intelligence & natural language processing. |
 
-#### 15. [↑](#-content) Forensic
+#### 16. [↑](#-content) Forensic
 
 | Tools                                                                                                  | Description                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -623,7 +796,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Kuiper](https://github.com/DFIRKuiper/Kuiper)                                                         | Kuiper is a digital investigation platform that provides a capabilities for the investigation team and individuals to parse, search, visualize collected evidences. |
 | [RegRipper4.0](https://github.com/keydet89/RegRipper4.0)                                               | The key tool for forensic analysis of Windows DAT.                                                                                                                  |
 
-#### 16. [↑](#-content) Hex editors
+#### 17. [↑](#-content) Hex editors
 
 | Tools                                             | Description                                                                                                                 |
 | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -633,7 +806,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Synalize It](https://www.synalysis.net/)         |                                                                                                                             |
 | [Hexinator](https://hexinator.com/)               |                                                                                                                             |
 
-#### 17. [↑](#-content) Execution logging and tracing
+#### 18. [↑](#-content) Execution logging and tracing
 
 | Tools                                                                                                                                                                                                        | Description                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
@@ -651,7 +824,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)                                                                                                           | A case study on exploiting Windows Script Host (WSH) injection for command execution.                      |
 | [Gscript Dropper](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)                                                                                                            | Introduction to using Gscript as a dropper tool in red team operations.                                    |
 
-#### 18. [↑](#-content) System
+#### 19. [↑](#-content) System
 
 | Tools                                                                                                           | Description                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -662,176 +835,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [OBEX_rare.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/File-System/OBEX_rare.txt)     | A list of rare OBEX (Object Exchange) paths, useful for targeting OBEX servers.                                                                     |
 | [Everything](https://www.voidtools.com/)                                                                        | A fast file and folder search tool for Windows, allowing instant results with minimal system resource usage.                                        |
 
-#### 19. [↑](#-content) Social Networks
-
-##### 19.1 [↑](#-content) Instagram
-
-| Tools                                                                                                          | Description                                                                    |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [Aware Online: Instagram Search Tool](https://www.aware-online.com/osint-tools/instagram-search-tool)          | Instagram Search Tool                                                          |
-| [Combin](https://www.combin.com)                                                                               | Instagram marketing tool for managing and growing your account.                |
-| [Comment Picker](https://commentpicker.com)                                                                    | Tool for selecting random winners from comments.                               |
-| [Display Purposes](https://displaypurposes.com)                                                                | Tool for finding hashtags related to your content.                             |
-| [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok)              | Chrome extension for downloading photos and videos from Instagram.             |
-| [Engagement-calculator](https://phlanx.com/engagement-calculator)                                              | Tool for calculating engagement rates on Instagram.                            |
-| [Export Comments](https://exportcomments.com)                                                                  | Tool for exporting Instagram comments.                                         |
-| [Hashtagify](http://hashtagify.me)                                                                             | Tool for finding and analyzing hashtags.                                       |
-| [Hashtags for Likes](https://www.hashtagsforlikes.co)                                                          | Tool for finding the best hashtags for Instagram.                              |
-| [HypeAuditor](https://hypeauditor.com)                                                                         | Tool for analyzing the authenticity of influencers and their engagement.       |
-| [Iconosquare](http://iconosquare.com)                                                                          | Tool for managing and analyzing Instagram accounts.                            |
-| [IGSuperStar](https://igsuperstar.com)                                                                         | Tool for finding Instagram influencers.                                        |
-| [Imgbunk](https://imgbunk.com)                                                                                 | Tool for searching and downloading Instagram photos.                           |
-| [ImgInn](https://imginn.com)                                                                                   | Tool for viewing and downloading Instagram stories anonymously.                |
-| [In Tags](https://play.google.com/store/apps/details?id=com.sunraylabs.socialtags)                             | Tool for finding the best tags for your Instagram posts.                       |
-| [INSSIST](https://chrome.google.com/webstore/detail/inssist-post-stories-dmw/bcocdbombenodlegijagbhdjbifpiijp) | Chrome extension for posting photos and stories on Instagram from desktop.     |
-| [InstaFollowers](https://www.instafollowers.co)                                                                | Tool for gaining followers and engagement on Instagram.                        |
-| [Instagram Crawler](https://github.com/hehpollon/Instagram-Crawler)                                            | Tool for scraping Instagram data.                                              |
-| [Instagram Explorer](https://www.osintcombine.com/instagram-explorer)                                          | Tool for exploring Instagram profiles and posts.                               |
-| [Instagram OSINT](https://github.com/sc1341/InstagramOSINT)                                                    | Open-source intelligence tool for Instagram.                                   |
-| [Instagram Scraper](https://apify.com/jaroslavhejlek/instagram-scraper)                                        | Tool for scraping Instagram posts and profiles.                                |
-| [Instagram Search Tool (Aware Online)](http://www.aware-online.com/en/osint-tools/instagram-search-tool)       | Tool for searching Instagram profiles and posts.                               |
-| [InstaLoader](https://github.com/instaloader/instaloader)                                                      | Tool for downloading Instagram photos, videos, and metadata.                   |
-| [instaloctrack](https://github.com/bernsteining/instaloctrack)                                                 | Tool for tracking Instagram locations.                                         |
-| [InstaLooter](https://github.com/althonos/InstaLooter)                                                         | Tool for downloading photos and videos from Instagram profiles.                |
-| [Keyhole](http://keyhole.co)                                                                                   | Tool for tracking and analyzing social media campaigns.                        |
-| [Leetags](https://www.leetags.com)                                                                             | Tool for finding the best hashtags for Instagram posts.                        |
-| [MetaHashtags](https://metahashtags.com)                                                                       | Tool for generating and analyzing hashtags.                                    |
-| [Minter.io](https://minter.io)                                                                                 | Tool for Instagram analytics and reporting.                                    |
-| [noninstagram](https://github.com/datvance/noinstagram)                                                        | Tool for Instagram data analysis.                                              |
-| [Osi.ig](https://github.com/th3unkn0n/osi.ig)                                                                  | Tool for Instagram OSINT.                                                      |
-| [Osintgram](https://github.com/Datalux/Osintgram)                                                              | OSINT tool for analyzing Instagram profiles and posts.                         |
-| [Otzberg.net](https://www.otzberg.net/iguserid/index.php)                                                      | Tool for finding Instagram user IDs.                                           |
-| [Panoramiq](https://apps.hootsuite.com/apps/panoramiq)                                                         | Tool for scheduling and managing Instagram posts.                              |
-| [Phantom Buster](https://phantombuster.com/phantombuster)                                                      | Automation tool for social media platforms.                                    |
-| [Picodash](https://www.picodash.com)                                                                           | Tool for searching and organizing Instagram content.                           |
-| [Scylla](https://github.com/josh0xA/Scylla)                                                                    | Tool for Instagram OSINT and data scraping.                                    |
-| [Skimagram](https://snoopreport.com)                                                                           | Tool for tracking Instagram activity.                                          |
-| [Social-alerts](https://github.com/mamoedo/social-alerts)                                                      | Tool for setting up social media alerts.                                       |
-| [SocialInsider](https://www.socialinsider.io)                                                                  | Tool for social media analytics and competitive analysis.                      |
-| [socid_extractor](https://github.com/soxoj/socid_extractor)                                                    | Tool for extracting social media IDs.                                          |
-| [SoIG](https://github.com/yezz123/SoIG)                                                                        | Tool for Instagram OSINT.                                                      |
-| [tailwind](https://www.tailwindapp.com)                                                                        | Tool for scheduling and managing Instagram posts.                              |
-| [ThumbTube](https://thumbtube.com/instagram-profile-picture-downloader)                                        | Tool for downloading Instagram profile pictures.                               |
-| [trendHERO](https://trendhero.io)                                                                              | Tool for influencer marketing and analytics.                                   |
-| [Webstagram](https://webstagram.org)                                                                           | Instagram web viewer and search tool.                                          |
-| [Flufi](https://flufi.me/)                                                                                     | A tool for exploring public stories, posts, reels, tags, followers, and more.. |
-| [Find Instagram User ID](https://findinstagramuserid.com/)                                                     | A tool to find the Instagram user ID for any profile.                          |
-
-##### 19.2 [↑](#-content) Linkedin
-
-| Tools                                                                                               | Description                                |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [IntelligenceX: Linkedin](https://intelx.io/tools?tab=linkedin)                                     | LinkedIn search tool by IntelligenceX.     |
-| [BridgeKeeper](https://github.com/0xZDH/BridgeKeeper)                                               | Tool for OSINT on LinkedIn profiles.       |
-| [CrossLinked](https://github.com/m8r0wn/crosslinked)                                                | LinkedIn enumeration tool.                 |
-| [Email Reverse Lookup](https://github.com/rebootORZ/OSINT_Spider.py)                                | Tool for reverse email lookup on LinkedIn. |
-| [Free People Search Tools](https://freepeoplesearchtool.com)                                        | Comprehensive people search tool.          |
-| [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB)      | Chrome extension for LinkedIn OSINT.       |
-| [osint.support](https://osint.support/chrome-extensions)                                            | Collection of OSINT tools for LinkedIn.    |
-| [InSpy](https://github.com/leapsecurity/InSpy)                                                      | LinkedIn enumeration tool.                 |
-| [Linkedin Bookmarklet](https://github.com/sinwindie/OSINT/blob/master/LinkedIn/Bookmarklet%20Tools) | Bookmarklet tools for LinkedIn OSINT.      |
-| [Linkedin Profile Scraper](https://github.com/Monst3rSec/linkedin-profile-scraper)                  | Tool for scraping LinkedIn profiles.       |
-| [Linkedin Search TGC](https://www.anantha.co.in/linkedin)                                           | Tool for searching LinkedIn profiles.      |
-| [LinkedInt](https://github.com/vysecurity/LinkedInt)                                                | LinkedIn intelligence and OSINT tool.      |
-| [Osint Support Linkedin](https://github.com/jqueguiner/lk_scraper)                                  | Support tools for LinkedIn OSINT.          |
-| [Phantom Buster](https://phantombuster.com/phantombuster)                                           | Automation tool for LinkedIn tasks.        |
-| [raven](https://github.com/0x09AL/raven)                                                            | LinkedIn enumeration and scraping tool.    |
-| [Recruitin.net](https://recruitin.net/)                                                             | Tool for recruiting on LinkedIn.           |
-| [Recruitment Geek](https://recruitmentgeek.com/tools/linkedin)                                      | LinkedIn search tool for recruiters.       |
-| [ScrapedIn](https://github.com/dchrastil/ScrapedIn)                                                 | Tool for scraping LinkedIn profiles.       |
-
-#### 19.3 [↑](#-content) TikTok
-
-| Tools                                                                                                                             | Description                                                | --- |
-| --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --- |
-| [Exolyt.com](https://exolyt.com/)                                                                                                 | Tool for analyzing TikTok profiles and videos.             | --- |
-| [Hashtags for Likes](https://www.hashtagsforlikes.co)                                                                             | Tool for finding the best hashtags for TikTok posts.       | --- |
-| [HypeAuditor](https://hypeauditor.com)                                                                                            | Tool for analyzing the authenticity of TikTok influencers. | --- |
-| [Influence Grid](https://www.influencegrid.com)                                                                                   | Tool for finding TikTok influencers.                       | --- |
-| [InstaFollowers](https://www.instafollowers.co/find-tiktok-user-id)                                                               | Tool for finding TikTok user IDs.                          | --- |
-| [Mavekite.com](https://mavekite.com/)                                                                                             | Tool for managing and analyzing TikTok campaigns.          | --- |
-| [OSINT Combine TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search)                                             | Quick search tool for TikTok profiles.                     | --- |
-| [Savefrom.net](https://en.savefrom.net/download-from-tiktok)                                                                      | Tool for downloading TikTok videos.                        | --- |
-| [Sinwindie TikTok Bookmarklet Tools](https://github.com/sinwindie/OSINT/blob/master/TikTok/Bookmarklet%20Tools)                   | Bookmarklet tools for TikTok OSINT.                        | --- |
-| [Snaptik.app](https://snaptik.app/)                                                                                               | Tool for downloading TikTok videos.                        | --- |
-| [Tikbuddy](https://app.tikbuddy.com/)                                                                                             | Tool for analyzing TikTok profiles and content.            | --- |
-| [TikTok API](https://github.com/szdc/tiktok-api)                                                                                  | API for interacting with TikTok.                           | --- |
-| [TikTok Creative Center Statistics](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114) | Tool for finding trending hashtags and content on TikTok.  | --- |
-| [TikTok Downloader](https://tiktokdownloader.com/)                                                                                | Tool for downloading TikTok videos.                        | --- |
-| [TikTok Hashtags](https://tiktokhashtags.com)                                                                                     | Tool for generating TikTok hashtags.                       | --- |
-| [TikTok Scraper](https://github.com/Dutchosintguy/tiktok-scraper)                                                                 | Tool for scraping TikTok profiles and videos.              | --- |
-| [TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp/)                                                                | Tool for analyzing timestamps on TikTok videos.            | --- |
-| [TikView](https://tikview.com/tiktok-search)                                                                                      | Tool for searching TikTok profiles and content.            | --- |
-| [tikvstock](https://tikvstok.com/tiktok)                                                                                          | Tool for stock and analyzing TikTok videos.                | --- |
-| [Tokvid](https://tokvid.com)                                                                                                      | Tool for downloading TikTok videos.                        | --- |
-| [TubeHi](https://tubehi.com)                                                                                                      | Tool for analyzing TikTok and YouTube content.             | --- |
-| [Vidnice](https://vidnice.com)                                                                                                    | Tool for analyzing TikTok profiles and content.            | --- |
-
-#### 19.4 [↑](#-content) OnlyFans
-
-| Tools                                                              | Description                                 |
-| ------------------------------------------------------------------ | ------------------------------------------- |
-| [fansmetrics.com](http://fansmetrics.com/)                         | Tool for analyzing OnlyFans metrics.        |
-| [Onlysearch.com](https://onlysearch.co/)                           | Search tool for finding OnlyFans profiles.  |
-| [onlyfinder.com](https://onlyfinder.com/)                          | Tool for finding OnlyFans creators.         |
-| [hubite.com/onlyfans-search/](https://hubite.com/onlyfans-search/) | OnlyFans search tool.                       |
-| [SimilarFans](https://similarfans.com/)                            | Tool for finding similar OnlyFans profiles. |
-| [FanSearch](https://www.fansearch.com/)                            | Comprehensive search tool for OnlyFans.     |
-
-#### 19.5 [↑](#-content) Discord
-
-| Tools                                                               | Description                                                                                                         |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [ASTRAAHOME](https://github.com/AstraaDev/Discord-All-Tools-In-One) | A collection of all-in-one tools for Discord.                                                                       |
-| [Discord History Tracker](https://dht.chylex.com/)                  | A tool for tracking and saving chat histories in Discord.                                                           |
-| [DISBOARD](https://disboard.org/)                                   | A platform to discover and list Discord servers.                                                                    |
-| [Discord Bots (Community)](https://discord.bots.gg/)                | A collection of publicly available Discord bots created by community members, serving various functions.            |
-| [Discord ID Lookup](https://discord.id/)                            | An unofficial tool for looking up Discord user information.                                                         |
-| [Discord Bots (Exploration)](https://top.gg/)                       | A vast collection to explore millions of Discord bots for different purposes.                                       |
-| [DiscordServers](https://discordservers.com/)                       | A curated selection of popular and interesting public Discord servers.                                              |
-| [Discord Me](https://discord.me/)                                   | A site for finding public Discord servers and bots.                                                                 |
-| [DiscordOSINT](https://discordosint.com/)                           | Provides resources for conducting research and OSINT investigations related to Discord accounts, servers, and bots. |
-| [Discord Bots](https://discordbots.org/)                            | A comprehensive directory of top Discord bots, apps, and servers, including popular music and economy bots.         |
-
-#### 19.6 [↑](#-content) Twitch
-
-| Tools                                                                           | Description                                                            |
-| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php)      | Tool for viewing follower lists on Twitch.                             |
-| [Twitch Tracker](https://twitchtracker.com/)                                    | Tool for tracking Twitch statistics and analytics.                     |
-| [Sully Gnome](https://sullygnome.com/)                                          | Tool for analyzing Twitch stream statistics.                           |
-| [Twitch Stream Filter](https://twitch-tools.rootonline.de/channel_previews.php) | Tool for filtering and previewing Twitch streams.                      |
-| [Untwitch.com](https://untwitch.com/)                                           | Tool for downloading Twitch videos.                                    |
-| [Twitch Overlap](https://stats.roki.sh/)                                        | Tool for analyzing viewer overlap between Twitch streamers.            |
-| [Justlog](https://logs.ivr.fi/)                                                 | Tool for viewing Twitch chat logs.                                     |
-| [Twitch Recover](https://github.com/TwitchRecover/TwitchRecover)                | Tool for recovering deleted Twitch videos.                             |
-| [Twitch Database](https://www.twitchdatabase.com/following)                     | Database for tracking Twitch followings.                               |
-| [Twitch Insights](https://twitchinsights.net/)                                  | Tool for analyzing Twitch trends and statistics.                       |
-| [Twitch Followage Tool](https://streamscharts.com/tools/followage)              | Tool for checking how long users have been following a Twitch channel. |
-
-#### 19.7 [↑](#-content) Tinder
-
-| Tools                                              | Description                                                    |
-| -------------------------------------------------- | -------------------------------------------------------------- |
-| [Badoo](https://badoo.com)                         | Social discovery and dating app.                               |
-| [Bumble](https://bumble.com)                       | Dating app where women make the first move.                    |
-| [Coffee Meets Bagel](https://coffeemeetsbagel.com) | Dating app that curates matches for users.                     |
-| [eHarmony](https://www.eharmony.com)               | Dating site focused on long-term relationships.                |
-| [Grindr](https://www.grindr.com)                   | Social networking app for gay, bi, trans, and queer people.    |
-| [happn](https://www.happn.com)                     | Dating app that shows users people they've crossed paths with. |
-| [HER](https://weareher.com)                        | Dating and social app for LGBTQ+ women and non-binary people.  |
-| [Heybaby](https://www.heybaby.com)                 | Dating app for single parents and those open to dating them.   |
-| [Hinge](https://hinge.co)                          | Dating app designed to be deleted.                             |
-| [The Inner Circle](https://theinnercircle.co)      | Exclusive dating app for ambitious professionals.              |
-| [The League](https://www.theleague.com)            | Dating app for professionals.                                  |
-| [Match.com](https://www.match.com)                 | One of the largest dating sites.                               |
-| [MeetMe](https://www.meetme.com)                   | Social discovery app for meeting new people.                   |
-| [OkCupid](https://www.okcupid.com)                 | Dating app with a detailed questionnaire for matching.         |
-| [Plenty of Fish](https://pof.com)                  | Dating site with a large user base.                            |
-| [Scruff](https://www.scruff.com)                   | Social app for gay, bi, trans, and queer people.               |
-| [Tastebuds](https://tastebuds.fm)                  | Dating app that matches people based on music taste.           |
-| [Tinder](https://tinder.com)                       | Popular dating app for meeting new people.                     |
-| [zoosk](https://www.zoosk.com)                     | Dating site with a behavioral matchmaking algorithm.           |
 
 ### [↑](#-content) 20. Steganographic
 
