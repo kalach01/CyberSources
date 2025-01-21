@@ -99,6 +99,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Gravwell Community Edition](https://www.gravwell.io/gravwell-community-edition-plan)              | Full featured unstructured log SIEM/Security Data Lake with raw binary/pcap support                                                                                                         |
 | [VigilantOnion](https://github.com/andreyglauzer/VigilantOnion)                                    | Crawls and monitors .onion sites for specified keywords or changes.                                                                                                                         |
 | [OnionIngestor](https://github.com/danieleperera/OnionIngestor)                                    | Gathers data from Tor hidden services for analysis or intelligence purposes.                                                                                                                |
+| [DumpsterDiver](https://github.com/securing/DumpsterDiver)                                                           | DumpsterDiver is a tool, which can analyze big volumes of data in search of hardcoded secrets like keys (e.g. AWS Access Key, Azure Share Key or SSH keys) or passwords.                                                                                                                        |
 
 #### 2. [↑](#-content) Miscellaneous
 
