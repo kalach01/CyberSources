@@ -1,8 +1,8 @@
 ---
-name: Request adding a tool
-about: Suggest an tool for this project
+name: Suggest a Tool
+about: Suggest a tool for this project
 title: "[NEW TOOL]"
-labels: ''
+labels: tool
 assignees: bst04
 
 ---
@@ -12,6 +12,9 @@ assignees: bst04
 
 **Category**:
 - 
+
+**Link**: 
+-
 
 **Description**:
 -
