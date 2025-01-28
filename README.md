@@ -1448,14 +1448,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 ## [↑](#-content) ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=brunoooost/cybersources&type=Date)](https://star-history.com/#brunoooost/cybersources&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=bst04/cybersources&type=Date)](https://star-history.com/#bst04/cybersources&Date)
 
 
 ## [↑](#-content) 💬 Collaborate
 
-- If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an pull request.
+- If you have some tool, resource or course that you want to share, [contact me](https://github.com/bst04) or create an pull request.
 
-![](https://contrib.rocks/image?repo=brunoooost/cybersources)
+![](https://contrib.rocks/image?repo=bst04/cybersources)
 
 ## [↑](#-content) 🪪 Credits
 
