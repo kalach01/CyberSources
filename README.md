@@ -1262,6 +1262,15 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [awesome-ctf](https://apsdehal.in/awesome-ctf/#steganography-1)                       | Steganography |
 | [Flipper Zero BadUSB Mastery](https://tryhackme.com/r/room/flipperzerobadusbmastery)  | BadUSB        | Learn how to craft and deploy BadUSB payloads for the Flipper Zero using DuckyScript. This room focuses on automating keystroke attacks for ethical hacking and testing purposes.                                         |
 | [InfoMachines](https://infosecmachines.io/)                                           | Writeups      | S4vitar Machine's Resolutions.                                                                                                                                                                                            |
+| [TryHackMe](https://tryhackme.com/)          | Platform                                             | A guided cybersecurity training platform with interactive, hands-on labs and ctfs on various topics from beginner to advanced.          |
+| [HackTheBox](https://app.hackthebox.com/)     | Platform                                          | A cybersecurity training platform with virtual hacking labs and real-world challenges for all skill levels.                      |
+| [picoCTF](https://play.picoctf.org/)       |  Platform                            | A CTF platform that has a wide range of CTF challenges related to various topics like Web Exploitation, Cryptography, Reverse Engineering, Forensics, Binary Exploitation and more.                                 |
+| [Root Me](https://www.root-me.org/)             |    Platform                            | A platform to practice various relevant CTF challenges based on Web, Steganography, App, Forensics, Network, Programming, etc.                                     |
+| [OverTheWire (Wargames)](https://overthewire.org/wargames/)         |   Platform                     | A collection of wargames designed to teach Linux, networking, and exploitation through progressively harder challenges.           |
+| [CTFLearn](https://ctflearn.com/)               | Platform | A beginner-friendly CTF platform with challenges covering various cybersecurity topics.        |
+| [CTFTime](https://ctftime.org/)      |    Platform       | A competitive CTF platform that tracks the CTF events worldwide and allows teams of CTF players to compete and get tracks of scores, rankings and ratings. |
+| [Cryptohack](https://cryptohack.org/)  | Platform        | A platform focused on cryptography-based CTF challenges, that teaches concepts through problem-solving.                          |
+| [Reversing.Kr](http://reversing.kr/)                                           | Platform      | A reverse engineering challenge platform designed to build skills in binary exploitation and malware analysis.     |    
 
 ### [↑](#-content) 🕸️ Practice Webs
 
