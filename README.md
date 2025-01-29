@@ -1269,6 +1269,11 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | --------------------------------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------- |
 | [Codeforces](https://codeforces.com)                | Problems Solving | Codeforces is a project joining people interested in and taking part in programming contests.         |
 | [DevChallenges](https://devchallenges.io/dashboard) | Challenges       | Platform to improve your coding skills through practical projects and build an outstanding portfolio. |
+| [PortSwigger Web Security Academy](https://portswigger.net/web-security/learning-paths) | Training and Labs          | An online platform offering free, hands-on trainings, tutorials and labs on web application security, covering various attack techniques and defensive strategies.  |
+| [PentesterLab](https://pentesterlab.com/)                                               | Exercises and Labs         | A platform providing practical exercises and labs to learn and practice for skills on web penetration testing.                                                      |
+| [Hacker101-CTF](https://ctf.hacker101.com/)                                             | Web CTFs                   | A CTF platform offering real-world challenges for web penetration testers or bug bounty hunters to hone their skills in finding and exploiting web vulnerabilities. |
+| [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA#download)    | Vulnerable Web Application | An intentionally vulnerable web application designed to practice web application security testing and vulnerability exploitation.                                   |
+| [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/)                                 | Vulnerable Web Application | An insecure online web application created by OWASP for practicing and learning about different web vulnerabilities.                                                |
 
 
 ### [↑](#-content) 📙 Open-Source Repositories
