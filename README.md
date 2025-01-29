@@ -251,6 +251,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Photo.Osint](https://start.me/p/0PgzqO/photo-osint)| List of all tools for photo and images OSINT.|
 | [Foto Forensics](https://fotoforensics.com/)                                                                                | All the metadata of an image.                                                             |
+| [Exiftool](https://github.com/exiftool/exiftool)     | A terminal based tool for extracting images meta data. |
 
 
 ##### 4. [↑](#-content) Social Networks
@@ -574,6 +575,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [ZoomEye](https://www.zoomeye.org)                                                                                                      | A freemium tool for security reconnaissance, scanning for vulnerable devices online.                |
 | [Censys](https://www.censys.io)                                                                                                         | Assess the attack surface of internet-connected devices and platforms.                              |
 | [ViewDNS.info](https://viewdns.info)                                                                                                    | Perform reverse IP and Whois lookups to find hosted websites and domain owner details.              |
+| [IP Tracker](https://www.ip-tracker.org/)                                                                                               | Perform reverse IP lookup and gather information related to the IP address.                         |
 | [Internet Census 2012](https://internetcensus2012.org)                                                                                  | Access service probe records from a large-scale 2012 internet scan.                                 |
 | [ONYPHE](https://www.onyphe.io)                                                                                                         | Cyber defense search engine that indexes exposed assets from the internet and dark web.             |
 | [IPLeak](https://ipleak.net)                                                                                                            | Test for leaks in your IP address, DNS, and WebRTC during online activity.                          |
