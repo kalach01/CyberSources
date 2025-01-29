@@ -653,6 +653,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Cyberbro](https://github.com/stanfrbd/cyberbro)          | A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services (API and scraping). |
 | [recon-ng](https://github.com/lanmaster53/recon-ng)       | Web reconnaissance framework for gathering OSINT.                                                                                           |
+| [Katana](https://github.com/projectdiscovery/katana)                                                  | A web reconnaissance tool, recognized for web crawling and spidering.                                     |
+| [Waybackurls](https://github.com/tomnomnom/waybackurls)                                               | A tool for extracting historical URLs from the Wayback Machine, helping to discover hidden or outdated web resources.                                       |
 | [SpySe](https://spyse.com/)                               | Data gathering service offering detailed information on IPs, domains, ports, technologies, and more through OSINT.                          |
 | [Git-Scanner](https://github.com/HightechSec/git-scanner) | Tool for bug hunting or penetration testing to find exposed .git repositories.                                                              |
 | [Keyscope](https://github.com/SpectralOps/keyscope)       | Key and secret auditing tool that checks secrets against multiple SaaS platforms.                                                           |
@@ -665,6 +667,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Ffuf](https://github.com/ffuf/ffuf)                                                                  | An alternative for fast web fuzzing based on Golang, used for discovering hidden files, directories, sub-domains, VHosts and resources by brute-forcing URL paths.                                                                                                |
 | [Httpx](https://github.com/projectdiscovery/httpx)                                                    | A fast and efficient multi-purpose tool for probing and discovering HTTP-based services, performing various checks like SSL/TLS, redirects, and more.                                                                                                             |
 | [SecLists](https://github.com/danielmiessler/SecLists) | Seclist is a depository full if word list I use it for Gobuster and other brute forcing aapplications. It has a variety of wordlists for your needs of small wordlists to large wordlists.|
+| [Burp Suite](https://portswigger.net/burp/documentation/desktop/getting-started/download-and-install) | A powerful GUI based integrated platform for web application security testing, offering tools for intercepting traffic, scanning vulnerabilities, brute-forcing and exploiting security flaws.                                                                    |
 
 
 #### 14. [↑](#-content) Network
