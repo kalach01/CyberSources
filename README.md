@@ -251,6 +251,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Photo.Osint](https://start.me/p/0PgzqO/photo-osint)| List of all tools for photo and images OSINT.|
 | [Foto Forensics](https://fotoforensics.com/)                                                                                | All the metadata of an image.                                                             |
+| [Exiftool](https://github.com/exiftool/exiftool)     | A terminal based tool for extracting images meta data. |
 
 
 ##### 4. [↑](#-content) Social Networks
@@ -574,6 +575,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [ZoomEye](https://www.zoomeye.org)                                                                                                      | A freemium tool for security reconnaissance, scanning for vulnerable devices online.                |
 | [Censys](https://www.censys.io)                                                                                                         | Assess the attack surface of internet-connected devices and platforms.                              |
 | [ViewDNS.info](https://viewdns.info)                                                                                                    | Perform reverse IP and Whois lookups to find hosted websites and domain owner details.              |
+| [IP Tracker](https://www.ip-tracker.org/)                                                                                               | Perform reverse IP lookup and gather information related to the IP address.                         |
 | [Internet Census 2012](https://internetcensus2012.org)                                                                                  | Access service probe records from a large-scale 2012 internet scan.                                 |
 | [ONYPHE](https://www.onyphe.io)                                                                                                         | Cyber defense search engine that indexes exposed assets from the internet and dark web.             |
 | [IPLeak](https://ipleak.net)                                                                                                            | Test for leaks in your IP address, DNS, and WebRTC during online activity.                          |
@@ -653,6 +655,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Cyberbro](https://github.com/stanfrbd/cyberbro)          | A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services (API and scraping). |
 | [recon-ng](https://github.com/lanmaster53/recon-ng)       | Web reconnaissance framework for gathering OSINT.                                                                                           |
+| [Katana](https://github.com/projectdiscovery/katana)                                                  | A web reconnaissance tool, recognized for web crawling and spidering.                                     |
+| [Waybackurls](https://github.com/tomnomnom/waybackurls)                                               | A tool for extracting historical URLs from the Wayback Machine, helping to discover hidden or outdated web resources.                                       |
 | [SpySe](https://spyse.com/)                               | Data gathering service offering detailed information on IPs, domains, ports, technologies, and more through OSINT.                          |
 | [Git-Scanner](https://github.com/HightechSec/git-scanner) | Tool for bug hunting or penetration testing to find exposed .git repositories.                                                              |
 | [Keyscope](https://github.com/SpectralOps/keyscope)       | Key and secret auditing tool that checks secrets against multiple SaaS platforms.                                                           |
@@ -662,7 +666,10 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [sqlmap](https://github.com/sqlmapproject/sqlmap)         | Automatic SQL injection tool for database takeover.                                                                                         |
 | [URLVoid](https://www.urlvoid.com/)                       | Website reputation checker that scans URLs for safety using multiple security engines and blocklists.                  |
 | [Gobuster](https://github.com/OJ/gobuster/releases/tag/v3.6.0)                       | Gobuster is a fast and efficient tool used in penetration testing and ethical hacking for discovering hidden directories, files, DNS subdomains, and virtual hostnames on a web server. It works by brute-forcing web server paths or subdomains using wordlists.                                |
+| [Ffuf](https://github.com/ffuf/ffuf)                                                                  | An alternative for fast web fuzzing based on Golang, used for discovering hidden files, directories, sub-domains, VHosts and resources by brute-forcing URL paths.                                                                                                |
+| [Httpx](https://github.com/projectdiscovery/httpx)                                                    | A fast and efficient multi-purpose tool for probing and discovering HTTP-based services, performing various checks like SSL/TLS, redirects, and more.                                                                                                             |
 | [SecLists](https://github.com/danielmiessler/SecLists) | Seclist is a depository full if word list I use it for Gobuster and other brute forcing aapplications. It has a variety of wordlists for your needs of small wordlists to large wordlists.|
+| [Burp Suite](https://portswigger.net/burp/documentation/desktop/getting-started/download-and-install) | A powerful GUI based integrated platform for web application security testing, offering tools for intercepting traffic, scanning vulnerabilities, brute-forcing and exploiting security flaws.                                                                    |
 
 
 #### 14. [↑](#-content) Network
@@ -1011,6 +1018,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | Resource                         | Price | Description                                        |
 | -------------------------------- | ----- | -------------------------------------------------- |
 | [Keepass](https://keepass.info/) | Free  | Available on windows, linux, mac, IOS and Android. |
+| [Bitwarden](https://bitwarden.com/)                    | Freemium | A password manager that securely stores manages and syncs credentials across any browsers or devices. |
 
 ### [↑](#-content) 28. VPNs
 
@@ -1254,6 +1262,15 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [awesome-ctf](https://apsdehal.in/awesome-ctf/#steganography-1)                       | Steganography |
 | [Flipper Zero BadUSB Mastery](https://tryhackme.com/r/room/flipperzerobadusbmastery)  | BadUSB        | Learn how to craft and deploy BadUSB payloads for the Flipper Zero using DuckyScript. This room focuses on automating keystroke attacks for ethical hacking and testing purposes.                                         |
 | [InfoMachines](https://infosecmachines.io/)                                           | Writeups      | S4vitar Machine's Resolutions.                                                                                                                                                                                            |
+| [TryHackMe](https://tryhackme.com/)          | Platform                                             | A guided cybersecurity training platform with interactive, hands-on labs and ctfs on various topics from beginner to advanced.          |
+| [HackTheBox](https://app.hackthebox.com/)     | Platform                                          | A cybersecurity training platform with virtual hacking labs and real-world challenges for all skill levels.                      |
+| [picoCTF](https://play.picoctf.org/)       |  Platform                            | A CTF platform that has a wide range of CTF challenges related to various topics like Web Exploitation, Cryptography, Reverse Engineering, Forensics, Binary Exploitation and more.                                 |
+| [Root Me](https://www.root-me.org/)             |    Platform                            | A platform to practice various relevant CTF challenges based on Web, Steganography, App, Forensics, Network, Programming, etc.                                     |
+| [OverTheWire (Wargames)](https://overthewire.org/wargames/)         |   Platform                     | A collection of wargames designed to teach Linux, networking, and exploitation through progressively harder challenges.           |
+| [CTFLearn](https://ctflearn.com/)               | Platform | A beginner-friendly CTF platform with challenges covering various cybersecurity topics.        |
+| [CTFTime](https://ctftime.org/)      |    Platform       | A competitive CTF platform that tracks the CTF events worldwide and allows teams of CTF players to compete and get tracks of scores, rankings and ratings. |
+| [Cryptohack](https://cryptohack.org/)  | Platform        | A platform focused on cryptography-based CTF challenges, that teaches concepts through problem-solving.                          |
+| [Reversing.Kr](http://reversing.kr/)                                           | Platform      | A reverse engineering challenge platform designed to build skills in binary exploitation and malware analysis.     |    
 
 ### [↑](#-content) 🕸️ Practice Webs
 
@@ -1261,6 +1278,11 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | --------------------------------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------- |
 | [Codeforces](https://codeforces.com)                | Problems Solving | Codeforces is a project joining people interested in and taking part in programming contests.         |
 | [DevChallenges](https://devchallenges.io/dashboard) | Challenges       | Platform to improve your coding skills through practical projects and build an outstanding portfolio. |
+| [PortSwigger Web Security Academy](https://portswigger.net/web-security/learning-paths) | Training and Labs          | An online platform offering free, hands-on trainings, tutorials and labs on web application security, covering various attack techniques and defensive strategies.  |
+| [PentesterLab](https://pentesterlab.com/)                                               | Exercises and Labs         | A platform providing practical exercises and labs to learn and practice for skills on web penetration testing.                                                      |
+| [Hacker101-CTF](https://ctf.hacker101.com/)                                             | Web CTFs                   | A CTF platform offering real-world challenges for web penetration testers or bug bounty hunters to hone their skills in finding and exploiting web vulnerabilities. |
+| [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA#download)    | Vulnerable Web Application | An intentionally vulnerable web application designed to practice web application security testing and vulnerability exploitation.                                   |
+| [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/)                                 | Vulnerable Web Application | An insecure online web application created by OWASP for practicing and learning about different web vulnerabilities.                                                |
 
 
 ### [↑](#-content) 📙 Open-Source Repositories
