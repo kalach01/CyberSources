@@ -1352,6 +1352,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Tierra de Hackers](https://www.tierradehackers.com)               | Spanish  | Podcast recorded by Martin Vigo and Alexis Porros, they inform about all the news on the cybersecurity world.                                                        |
 | [ISC](https://isc.sans.edu/podcast.html)                           | English  | The ISC StormCast is a daily short-form podcast that provides a summary of current network security-related events.                                                  |
 | [Cyberwire Daily](https://thecyberwire.com/podcasts/daily-podcast) | English  | Published each weekday, the program also included interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world. |
+| [Un Podcast Seguro](https://open.spotify.com/show/40WZSLjdici4BUn3HnMd0B) | Spanish podcast. During our interviews we asked guests about their experiences, concerns, and keys to having a successful career in cybersecurity. If you want to learn about cybersecurity in the business and personal world, this is your podcast. |
 
 ### [↑](#-content) 📺 Documentaries
 
