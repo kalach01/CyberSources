@@ -242,6 +242,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Real-Time Satellite Tracking](https://n2yo.com)                                                                            | Track satellites and view real-time predictions for their paths.                          |
 | [SunCalc](https://suncalc.net/)                                                                                             | A solar position calculator for determining sunrise, sunset, and shadow lengths on a map. |
 | [Map Developers](https://www.mapdevelopers.com)                                                                             | Provides custom Google Map API solutions and tools for advanced mapping needs.            |
+| [GeoSpy AI](https://geospy.ai/)| Convert pixels into actionable location intelligence using  AI.|
 
 
 
