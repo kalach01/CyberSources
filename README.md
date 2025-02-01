@@ -1045,6 +1045,10 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Seader](https://github.com/bettse/seader)                                 | A Flipper Zero application to interface with a SAM from the Flipper Zero over UART                                                                        |
 | [NFC Magic](https://lab.flipper.net/apps/nfc_magic)                        | A Flipper zero application for writing to NFC tags with modifiable sector 0                                                                               |
 | [MFOC](https://github.com/nfc-tools/mfoc)                                  | MFOC is an open source implementation of "offline nested" attack                                                                                          |
+| [PicoPass](https://lab.flipper.net/apps/picopass)|App to communicate with NFC tags using the PicoPass(iClass) format. |
+| [Mifare Fuzzer](https://lab.flipper.net/apps/mifare_fuzzer) |App emulates Mifare Classic cards with various UIDs to check how reader reacts on them. |
+| [MFKey](https://lab.flipper.net/apps/mfkey) |MIFARE Classic key recovery tool. |
+
 
 ### [↑](#-content) 30. Bug Bounty
 
