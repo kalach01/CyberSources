@@ -699,6 +699,20 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [PETEP](https://github.com/Warxim/petep)                              | Extensible TCP/UDP proxy for traffic analysis and modification with SSL/TLS support.             |
 | [TorCrawl](https://github.com/MikeMeliz/TorCrawl.py)                  | Python-based tool to crawl .onion websites efficiently.                                          |
 | [Midnight Sea](https://github.com/RicYaben/midnight_sea)              | A dark web crawler designed for flexibility and integration with analysis tools.                 |
+| [Wireshark](https://www.wireshark.org/)                        | A network protocol analyzer for capturing and analyzing network packets.            |
+| [Bettercap](https://www.bettercap.org/)                       | A powerful tool for man-in-the-middle attacks, network sniffing, and WiFi exploitation. |
+| [Ettercap](https://github.com/Ettercap/ettercap)              | A comprehensive suite for man-in-the-middle attacks on LANs and WiFi networks.       |
+| [Kismet](https://kismetwireless.net/)                          | A wireless network detector, sniffer, and intrusion detection system.                |
+| [Tcpdump](https://www.tcpdump.org/)                           | A command-line packet analyzer for capturing and analyzing network traffic.         |
+| [Netcat](https://nmap.org/ncat/)                              | A networking utility for reading and writing data across networks, often used for debugging. |
+| [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)   | A post-exploitation tool for pentesters to automate common tasks against networks.   |
+| [Burp Suite](https://portswigger.net/burp)                    | A comprehensive suite for web application security testing, including WiFi-related vulnerabilities. |
+| [Responder](https://github.com/SpiderLabs/Responder)          | A tool for poisoning network traffic and conducting man-in-the-middle attacks.       |
+| [SSLstrip](https://github.com/moxie0/sslstrip)                | A tool that downgrades HTTPS connections to HTTP, enabling interception of traffic.  |
+| [dnschef](https://github.com/iphelix/dnschef)                 | A DNS proxy tool that allows for DNS manipulation and phishing attacks.              |
+| [Fierce](https://github.com/darkoperator/fierce)              | A domain scanner tool for DNS reconnaissance, useful for network mapping.           |
+| [MitM](https://github.com/oxagast/mitm)                       | A man-in-the-middle framework for intercepting, modifying, and injecting traffic.    |
+
 
 #### 15. [↑](#-content) Cryptography
 
@@ -1149,24 +1163,10 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Reaver](https://github.com/t6x/reaver-wps-fork)              | A tool designed to crack WPS PINs of routers to gain access to WPA networks.        |
 | [Bully](https://github.com/wiire/pwning)                      | A tool for brute-forcing WPS PINs of vulnerable routers.                             |
 | [Airbase-ng](https://www.aircrack-ng.org/doku.php?id=airbase-ng) | A tool to create fake access points for testing and social engineering attacks.      |
-| [Wireshark](https://www.wireshark.org/)                        | A network protocol analyzer for capturing and analyzing network packets.            |
-| [Bettercap](https://www.bettercap.org/)                       | A powerful tool for man-in-the-middle attacks, network sniffing, and WiFi exploitation. |
-| [Ettercap](https://github.com/Ettercap/ettercap)              | A comprehensive suite for man-in-the-middle attacks on LANs and WiFi networks.       |
-| [Kismet](https://kismetwireless.net/)                          | A wireless network detector, sniffer, and intrusion detection system.                |
-| [Tcpdump](https://www.tcpdump.org/)                           | A command-line packet analyzer for capturing and analyzing network traffic.         |
-| [Nmap](https://nmap.org/)                                     | A network scanning tool used for discovering devices and vulnerabilities.           |
-| [Netcat](https://nmap.org/ncat/)                              | A networking utility for reading and writing data across networks, often used for debugging. |
 | [Fern WiFi Cracker](https://github.com/savio-code/fern-wifi-cracker) | A GUI-based tool to crack WEP/WPA/WPS encryption on wireless networks.              |
 | [Wifite](https://github.com/derv82/wifite)                    | A tool for automating the cracking of WEP and WPA networks.                          |
-| [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)   | A post-exploitation tool for pentesters to automate common tasks against networks.   |
-| [Burp Suite](https://portswigger.net/burp)                    | A comprehensive suite for web application security testing, including WiFi-related vulnerabilities. |
-| [Responder](https://github.com/SpiderLabs/Responder)          | A tool for poisoning network traffic and conducting man-in-the-middle attacks.       |
-| [SSLstrip](https://github.com/moxie0/sslstrip)                | A tool that downgrades HTTPS connections to HTTP, enabling interception of traffic.  |
-| [dnschef](https://github.com/iphelix/dnschef)                 | A DNS proxy tool that allows for DNS manipulation and phishing attacks.              |
-| [Fierce](https://github.com/darkoperator/fierce)              | A domain scanner tool for DNS reconnaissance, useful for network mapping.           |
 | [Wifiphisher](https://github.com/wifiphisher/wifiphisher)      | A tool for phishing attacks targeting WiFi networks and capturing credentials.      |
 | [Ghost Phisher](https://github.com/savio-code/ghost-phisher)  | A phishing tool that creates fake access points and social engineering attacks.      |
-| [MitM](https://github.com/oxagast/mitm)                       | A man-in-the-middle framework for intercepting, modifying, and injecting traffic.    |
 
 
 
