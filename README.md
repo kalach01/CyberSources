@@ -62,6 +62,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
   - [RFID](#-29-RFID)
   - [Bug Bounty](#-30-bug-bounty)
   - [Operating Systems](#-31-operating-systems)
+  - [WiFi](#-32-wifi)
 - [Hardware Tools](#--hardware-tools)
 - [Learning](#--learning)
   - [Resources](#--resources)
@@ -1133,6 +1134,39 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [SUSE Linux Enterprise](https://www.suse.com)      | An enterprise Linux operating system with a focus on security and managing large IT environments. |
 
 
+
+
+### [↑](#-content) 32. WiFi 
+
+| Tools                                                         | Description                                                                          |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [Aireplay-ng](https://www.aircrack-ng.org/doku.php?id=airplay-ng) | A tool for injecting frames into a wireless network to manipulate traffic.          |
+| [Aircrack-ng](https://www.aircrack-ng.org/)                    | A suite of tools for cracking WEP and WPA-PSK encryption keys.                       |
+| [Airmon-ng](https://www.aircrack-ng.org/doku.php?id=airmon-ng) | A tool to configure wireless interfaces into monitor mode for packet capture.       |
+| [Airolib-ng](https://www.aircrack-ng.org/doku.php?id=airolib-ng) | A tool to create and manage a database for cracking WPA/WPA2 networks.                |
+| [Airegeddon](https://github.com/airgeddon/airgeddon)           | A multi-purpose WiFi hacking tool focused on WPA/WPA2 PSK networks.                 |
+| [Wash](https://github.com/aircrack-ng/wash)                   | A tool to identify routers that are vulnerable to WPS attacks.                      |
+| [Reaver](https://github.com/t6x/reaver-wps-fork)              | A tool designed to crack WPS PINs of routers to gain access to WPA networks.        |
+| [Bully](https://github.com/wiire/pwning)                      | A tool for brute-forcing WPS PINs of vulnerable routers.                             |
+| [Airbase-ng](https://www.aircrack-ng.org/doku.php?id=airbase-ng) | A tool to create fake access points for testing and social engineering attacks.      |
+| [Wireshark](https://www.wireshark.org/)                        | A network protocol analyzer for capturing and analyzing network packets.            |
+| [Bettercap](https://www.bettercap.org/)                       | A powerful tool for man-in-the-middle attacks, network sniffing, and WiFi exploitation. |
+| [Ettercap](https://github.com/Ettercap/ettercap)              | A comprehensive suite for man-in-the-middle attacks on LANs and WiFi networks.       |
+| [Kismet](https://kismetwireless.net/)                          | A wireless network detector, sniffer, and intrusion detection system.                |
+| [Tcpdump](https://www.tcpdump.org/)                           | A command-line packet analyzer for capturing and analyzing network traffic.         |
+| [Nmap](https://nmap.org/)                                     | A network scanning tool used for discovering devices and vulnerabilities.           |
+| [Netcat](https://nmap.org/ncat/)                              | A networking utility for reading and writing data across networks, often used for debugging. |
+| [Fern WiFi Cracker](https://github.com/savio-code/fern-wifi-cracker) | A GUI-based tool to crack WEP/WPA/WPS encryption on wireless networks.              |
+| [Wifite](https://github.com/derv82/wifite)                    | A tool for automating the cracking of WEP and WPA networks.                          |
+| [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)   | A post-exploitation tool for pentesters to automate common tasks against networks.   |
+| [Burp Suite](https://portswigger.net/burp)                    | A comprehensive suite for web application security testing, including WiFi-related vulnerabilities. |
+| [Responder](https://github.com/SpiderLabs/Responder)          | A tool for poisoning network traffic and conducting man-in-the-middle attacks.       |
+| [SSLstrip](https://github.com/moxie0/sslstrip)                | A tool that downgrades HTTPS connections to HTTP, enabling interception of traffic.  |
+| [dnschef](https://github.com/iphelix/dnschef)                 | A DNS proxy tool that allows for DNS manipulation and phishing attacks.              |
+| [Fierce](https://github.com/darkoperator/fierce)              | A domain scanner tool for DNS reconnaissance, useful for network mapping.           |
+| [Wifiphisher](https://github.com/wifiphisher/wifiphisher)      | A tool for phishing attacks targeting WiFi networks and capturing credentials.      |
+| [Ghost Phisher](https://github.com/savio-code/ghost-phisher)  | A phishing tool that creates fake access points and social engineering attacks.      |
+| [MitM](https://github.com/oxagast/mitm)                       | A man-in-the-middle framework for intercepting, modifying, and injecting traffic.    |
 
 
 
