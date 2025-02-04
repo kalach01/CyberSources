@@ -33,6 +33,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
       - [Discord](#45--discord)
       - [Twitch](#46--twitch)
       - [Tinder](#47--tinder)
+      - [Reddit](#48--reddit)
   - [AI Tools](#4--ai-tools)
     - [AI Programming](#51--ai-programming)
     - [AI Cybersecurity](#52--ai-cybersecurity)
@@ -427,6 +428,17 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Tastebuds](https://tastebuds.fm)                  | Dating app that matches people based on music taste.           |
 | [Tinder](https://tinder.com)                       | Popular dating app for meeting new people.                     |
 | [zoosk](https://www.zoosk.com)                     | Dating site with a behavioral matchmaking algorithm.           |
+
+
+#### 4.8 [↑](#-content) Reddit
+
+| Tools                                              | Description                                                    |
+| -------------------------------------------------- | -------------------------------------------------------------- |
+| [snscrape](https://github.com/JustAnotherArchivist/snscrape) | Command-line tool for scraping social media posts.   |
+| [Redective](https://redective.com)                     | OSINT tool for analyzing Reddit user activity.             |
+| [KnewKarma](https://knewkarma.com)                     | Reddit analytics and visualization tool.                   |
+| [RedditPostSleuth](https://www.repostsleuth.com/)      | Tool for investigating and analyzing Reddit posts.         |
+
 
 
 #### 5. [↑](#-content) AI Tools
