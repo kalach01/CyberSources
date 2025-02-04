@@ -63,6 +63,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
   - [Bug Bounty](#-30-bug-bounty)
   - [Operating Systems](#-31-operating-systems)
   - [WiFi](#-32-wifi)
+  - [Reconnaissance](#-33-reconnaissance)
 - [Hardware Tools](#--hardware-tools)
 - [Learning](#--learning)
   - [Resources](#--resources)
@@ -1167,6 +1168,29 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Wifite](https://github.com/derv82/wifite)                    | A tool for automating the cracking of WEP and WPA networks.                          |
 | [Wifiphisher](https://github.com/wifiphisher/wifiphisher)      | A tool for phishing attacks targeting WiFi networks and capturing credentials.      |
 | [Ghost Phisher](https://github.com/savio-code/ghost-phisher)  | A phishing tool that creates fake access points and social engineering attacks.      |
+
+
+
+### [↑](#-content) 33. Reconnaissance
+
+| **Tool**                                                | **Description**                                                              |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Nmap](https://nmap.org)                                 | A network scanning tool used for discovering hosts, services, and vulnerabilities on a network. |
+| [Netcat](https://nc110.sourceforge.io)                  | A versatile networking tool used for port scanning, banner grabbing, and transferring files. |
+| [Wireshark](https://www.wireshark.org)                   | A network protocol analyzer that captures and inspects network packets in real-time. |
+| [Fierce](https://github.com/mschwager/fierce)            | A domain scanner that helps map out a target’s domain infrastructure, including DNS records and subdomains. |
+| [Recon-ng](https://github.com/lanmaster53/recon-ng)      | A web-based reconnaissance framework that automates OSINT gathering from various sources. |
+| [TheHarvester](https://github.com/laramies/theHarvester) | A tool to gather email addresses, subdomains, and other information through search engines and public records. |
+| [Masscan](https://github.com/robertdavidgraham/masscan)  | A fast network scanner used for scanning large IP ranges to identify open ports. |
+| [Dig](https://man7.org/linux/man-pages/man1/dig.1.html)  | A command-line tool for querying DNS records and gathering information on domain names. |
+| [Sublist3r](https://github.com/aboul3la/Sublist3r)       | A tool for discovering subdomains using open-source intelligence. |
+| [Censys](https://censys.io)                             | Provides data on devices, services, and open ports exposed to the internet, assisting in reconnaissance. |
+| [Shodan](https://www.shodan.io)                          | A search engine that scans and indexes devices connected to the internet for reconnaissance. |
+| [SpiderFoot](https://www.spiderfoot.net)                 | An automation tool for gathering intelligence about a target by querying public databases and sources. |
+| [Dnsrecon](https://github.com/darkoperator/dnsrecon)     | A tool for DNS enumeration, identifying subdomains, and extracting other DNS-related data. |
+| [Enum4linux](https://github.com/CiscoCXSecurity/enum4linux) | A tool to gather information from Windows machines by querying SMB shares and services. |
+
+
 
 
 
