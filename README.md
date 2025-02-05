@@ -3,7 +3,7 @@
  
  ![image](https://github.com/user-attachments/assets/36231aa4-e103-4fb3-97ee-5e9b83793852)
 
-Welcome to the **Cybersources**! This project serves as a central hub for a wide range of tools, resources, and educational materials designed for cybersecurity professionals, enthusiasts, and learners. Whether you're just starting out or an experienced expert, you'll find everything you need to enhance your skills, stay updated with industry trends, and deepen your knowledge in this fast-evolving field.
+Welcome to the **Cybersources**! This project serves as a central hub for a wide range of tools, resources, and educational materials designed for cybersecurity professionals, enthusiasts, and learners. Whether you're just starting out or an experienced expert, you'll find everything you need to enhance your skills, stay updated with industry trends, and deepen your knowledge in this fast-evolving field. 
 
 **🎉 Join now the discord community (+500 members): https://discord.gg/6s9W3EQApw 🎉**
 
