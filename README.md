@@ -1541,7 +1541,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Hack Like a Pro](https://www.youtube.com/c/HackLikeAPro) | Learn to hack like a pro with tutorials on ethical hacking, penetration testing, and various security practices. |
 | [CyberExploit](https://www.youtube.com/c/CyberExploit) | A channel dedicated to ethical hacking, vulnerability exploitation, and penetration testing methodologies. |
 | [TechDefenders](https://www.youtube.com/c/TechDefenders) | Focused on tech security, including tutorials on securing networks, ethical hacking, and best practices in cybersecurity. |
-| [Pentesting Academy](https://www.youtube.com/c/PentestingAcademy) | A channel designed for those looking to improve their penetration testing skills through structured courses and tutorials. |
+| [Pentesting Academy](https://www.youtube.com/c/PentestingAcademy) | A channel designed for those looking to improve their penetration testing skills through structured courses and tutorials.|
+| [CyberForged](https://www.youtube.com/@cyberforged)| Spanish Channel that talks about cybersecurity and news.|
 
 
 ## [↑](#-content) ⭐️ Star History
