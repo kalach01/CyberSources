@@ -465,6 +465,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Cynet 360](https://www.cynet.com/)                | Function: All-in-one security platform combining threat detection, incident response, and automation. Advantage: Particularly suitable for small businesses with limited cybersecurity resources. |
 | [Reveelium](https://www.alsego.com/reveelium/)     | Function: Anomaly detection and event correlation in information systems. Advantage: Ideal for identifying unusual behavior in logs of large organizations.     |
 | [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources.|
+| [PentestGPT](https://pentestgpt.ai/)| PentestGPT provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly.|
 
 
 #### 6. [↑](#-content) News
