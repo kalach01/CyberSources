@@ -1546,6 +1546,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [TechDefenders](https://www.youtube.com/c/TechDefenders) | Focused on tech security, including tutorials on securing networks, ethical hacking, and best practices in cybersecurity. |
 | [Pentesting Academy](https://www.youtube.com/c/PentestingAcademy) | A channel designed for those looking to improve their penetration testing skills through structured courses and tutorials.|
 | [CyberForged](https://www.youtube.com/@cyberforged)| Spanish Channel that talks about cybersecurity and news.|
+|[Talking Sasquach](https://www.youtube.com/channel/UCUoJk48pujh29p8zLsnD5PQ)| We do cybersec tutorials using things like the Flipper Zero, HackRF and more!|
 
 
 ## [↑](#-content) ⭐️ Star History
