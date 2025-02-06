@@ -1561,7 +1561,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 ## [↑](#-content) 💬 Collaborate
 
-- If you have some tool, resource or course that you want to share, [contact me](https://github.com/bst04) or create an pull request.
+- If you have some tool, resource or course that you want to share, [contact me](https://github.com/bst04) or create an **pull request** or an **Issue**.
 
 ![](https://contrib.rocks/image?repo=bst04/cybersources)
 
