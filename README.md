@@ -786,6 +786,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [wxHexEditor](https://github.com/EUA/wxHexEditor) |                                                                                                                             |
 | [Synalize It](https://www.synalysis.net/)         |                                                                                                                             |
 | [Hexinator](https://hexinator.com/)               |                                                                                                                             |
+| [010 Editor](https://www.sweetscape.com/010editor/) |Edit text files, XML, HTML, Unicode and UTF-8 files, C/C++ source code, PHP, etc. Unlimited undo and powerful editing and scripting tools.  |
 
 #### 18. [↑](#-content) Execution logging and tracing
 
