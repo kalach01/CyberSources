@@ -651,6 +651,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Luyten](https://github.com/deathmarine/Luyten)          | One of the best, though a bit slow, hangs on some binaries and not very well maintained.                                                             |
 | [R2Dec](https://github.com/wargio/r2dec-js)              | Decompiler plugin for radare2                                                                                                                        |
 | [Decai](https://github.com/radareorg/r2ai)               | LLM-based decompiler for radare2                                                                                                                     |
+| [BinaryNinja](https://binary.ninja/) | Binary Ninja is an interactive decompiler, disassembler, debugger, and binary analysis platform built by reverse engineers, for reverse engineers. |
 
 #### 12. [↑](#-content) Disassembler and debuggers
 
