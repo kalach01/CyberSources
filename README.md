@@ -1122,6 +1122,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Cobalt](https://cobalt.io)                        | A pen-testing as a service platform with a global community of security experts.                 |
 | [Bountysource](https://www.bountysource.com)       | A funding platform for open-source projects and software development bounties.                   |
 | [Bounty Factory](https://bountyfactory.io)         | A platform for launching bug bounty programs with a community of ethical hackers.                |
+| [BMW Group Bug Bounty](https://www.bmwgroup.com/en/general/Security.html)| The security of our products and services is top priority for us |
 | [Coder Bounty](https://coderbounty.com)            | A platform for developers to earn rewards by solving coding challenges.                          |
 | [FreedomSponsors](https://www.freedomsponsors.org) | A funding platform for open-source software improvements and bug fixes.                          |
 | [FOSS Factory](https://fossfactory.org)            | A platform for funding free and open-source software development.                                |
