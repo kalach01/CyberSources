@@ -1251,6 +1251,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [beafn28 notes](https://beafn28.gitbook.io/beafn28)                                                                                                  | Some spanish notes and writeups...                                                                                                                                                 |
 | [Hacktricks](https://book.hacktricks.wiki/en/index.html) | Welcome to the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news. |
 | [HardBreak](https://www.hardbreak.wiki/) | An open-source Hardware Hacking Wiki that aims to gather all essential knowledge for hardware hacking in one place. Whether you are a beginner or more advanced! |
+|[FR Secure](https://frsecure.com/resources/)|A company that does many cybersecurity things, but they offer a ton of great free blue team engineering and policy resources.|
 
 
 ### [↑](#-content) 📚 Courses
