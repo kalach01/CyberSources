@@ -1314,6 +1314,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [CBBH](https://academy.hackthebox.com/exams/2) | HTB Certified Bug Bounty Hunter (HTB CBBH) is a highly hands-on certification that assesses the candidates’ bug bounty hunting and web application pentesting skills |
 | [CWEE](https://academy.hackthebox.com/exams/5) | HTB Certified Web Exploitation Expert (HTB CWEE) is a highly hands-on certification that assesses candidates' skills in identifying advanced and hard-to-find web vulnerabilities using both black box and white box techniques. |
 | [CDSA](https://academy.hackthebox.com/exams/4)| HTB Certified Defensive Security Analyst (HTB CDSA) is a highly hands-on certification that assesses the candidates’ security analysis, SOC operations, and incident handling skills. |
+|[GitHub Advanced Security](https://examregistration.github.com/certification/GHAS)|This certification validates your expertise with GitHub Advanced Security.|
+|[GitHub Administration](https://examregistration.github.com/certification/ADMIN)| This certification validates your expertise administering GitHub Enterprise.|
 
 ### [↑](#-content) 🎥 Tutorials
 
