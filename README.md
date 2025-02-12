@@ -1,7 +1,6 @@
 <div align="center">
-<h2>Cybersources - All Cybersecurity tools and resources.</h2>
  
- ![image](https://github.com/user-attachments/assets/36231aa4-e103-4fb3-97ee-5e9b83793852)
+ ![image](https://github.com/bst04/cybersources/blob/main/cybersources/banner%20cybersources.png?raw=true)
 
 Welcome to the **Cybersources**! This project serves as a central hub for a wide range of tools, resources, and educational materials designed for cybersecurity professionals, enthusiasts, and learners. Whether you're just starting out or an experienced expert, you'll find everything you need to enhance your skills, stay updated with industry trends, and deepen your knowledge in this fast-evolving field. 
 
@@ -17,108 +16,102 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 ## 📋 Content
 
-- [Tools](#-%EF%B8%8F-tools)
-  - [Utility](#1--utility)
-  - [Miscellaneous](#2--miscellaneous)
-  - [OSINT](#3--osint)
-    - [Username Search](#31--username-search)
-    - [Email Search](#32--email-search)
-    - [GEOINT](#33--geoint)
-    - [Photo/Images](#34--photo--images)
-    - [Social Networks](#4--social-networks)
-      - [Instagram](#41--instagram)
-      - [Linkedin](#42--linkedin)
-      - [TikTok](#43--tiktok)
-      - [OnlyFans](#44--onlyfans)
-      - [Discord](#45--discord)
-      - [Twitch](#46--twitch)
-      - [Tinder](#47--tinder)
-      - [Reddit](#48--reddit)
-  - [AI Tools](#4--ai-tools)
-    - [AI Programming](#51--ai-programming)
-    - [AI Cybersecurity](#52--ai-cybersecurity)
-  - [News](#6--news)
-  - [Search Engines](#7--search-engines)
-  - [DNS/IP](#8--dnsip)
-  - [Post Explotation](#9--post-explotation)
-  - [Deobfuscators](#10--deobfuscators)
-  - [Decompilers](#11--decompilers)
-  - [Disassembler and debuggers](#12--Disassembler-and-debuggers)
-  - [Web](#13--web)
-  - [Network](#14--network)
-  - [Cryptography](#15--cryptography)
-  - [Forensic](#16--forensic)
-  - [Hex editors](#17--hex-editors)
-  - [Execution logging and tracing](#18--execution-logging-and-tracing)
-  - [System](#19--system)
-  - [Steganographic](#-20-steganographic)
-  - [Steganalysis](#-21-steganalysis)
-  - [Cryptocurrency](#-22-cryptocurrency)
-  - [Delete Your Trace](#-23-delete-your-trace)
-  - [Playbooks](#-24-playbooks)
-  - [Malware Analysis](#-25-malware-analysis)
-  - [SIEM](#-26-siem)
-  - [Password Managers](#-27-password-managers)
-  - [VPNs](#-28-VPNs)
-  - [RFID](#-29-RFID)
-  - [Bug Bounty](#-30-bug-bounty)
-  - [Operating Systems](#-31-operating-systems)
-  - [WiFi](#-32-wifi)
-  - [Reconnaissance](#-33-reconnaissance)
-- [Hardware Tools](#--hardware-tools)
-- [Learning](#--learning)
-  - [Resources](#--resources)
-  - [Courses](#--courses)
-  - [Certifications](#--certifications)
-  - [Tutorials](#--tutorials)
-  - [CTFs - Training](#--ctfs---training)
-  - [Practice Webs](#-%EF%B8%8F-practice-webs)
-  - [Open-Source Repositories](#--open-source-repositories)
-  - [Learning Path](#-%EF%B8%8F-learning-path)
-  - [Projects Based](#-%EF%B8%8F-projects-based)
-- [Social](#-%EF%B8%8F-social)
-  - [Events](#--events)
-  - [Community](#--community)
-- [Media](#--media)
-  - [Podcasts](#-%EF%B8%8F-podcasts)
-  - [Documentaries](#--documentaries)
-  - [Books & Papers/Articles](#--books--papersarticles)
-  - [TV Shows](#-%EF%B8%8F-tv-shows)
-  - [Youtube Channels](#--youtube-channels)
-- [Stars History](#-%EF%B8%8F-star-history)
-- [Collaborate](#--collaborate)
-- [Credits](#--credits)
+**OSINT**
+* [OSINT](#11--osint)
+* [Username Search](#12--username-search)
+* [Email Search](#13--email-search)
+* [GEOINT](#14--geoint)
+* [Photo/Images](#15--photo--images)
+* [Social Networks](#16--social-networks)
+    * [Instagram](#161--instagram)
+    * [LinkedIn](#162--linkedin)
+    * [TikTok](#163--tiktok)
+    * [OnlyFans](#164--onlyfans)
+    * [Discord](#165--discord)
+    * [Twitch](#166--twitch)
+    * [Tinder](#167--tinder)
+    * [Reddit](#168--reddit)
 
-## [↑](#-content) 🛠️ Tools
+**Pentesting**
+* [Post Explotation](#21--post-explotation)
+* [Deobfuscators](#22--deobfuscators) 
+* [Decompilers](#23--decompilers) 
+* [Disassembler and debuggers](#24--Disassembler-and-debuggers)
+* [Web](#25--web)
+* [Network](#26--network)
+* [RFID](#-27-RFID)
+* [WiFi](#-28-wifi)
+* [Reconnaissance](#-29-reconnaissance)
+* [Bug Bounty](#-210-bug-bounty)
 
-#### 1. [↑](#-content) Utility
+**Cryptography**
+* [Cryptography](#31--cryptography)
+* [Steganographic](#-32-steganographic)
+* [Steganalysis](#-33-steganalysis)
 
-| **Tool**                                                                                           | **Description**                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)                                          | Password recovery utility for cracking hashes.                                                                                                                                              |
-| [BrowserLeaks](https://browserleaks.com)                                                           | Suite of tools to test the security and privacy of your web browser.                                                                                                                        |
-| [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)                     | Check if your email address or domain was compromised in global Infostealer malware attacks                                                                                                 |
-| [CavalierGPT - The First Comprehensive Infostealers AI Bot](http://www.hudsonrock.com/cavaliergpt) | CavalierGPT retrieves and curates information from various Hudson Rock endpoints, enabling investigators to delve deeper into cybersecurity threats with unprecedented ease and efficiency. |
-| [Gravwell Community Edition](https://www.gravwell.io/gravwell-community-edition-plan)              | Full featured unstructured log SIEM/Security Data Lake with raw binary/pcap support                                                                                                         |
-| [VigilantOnion](https://github.com/andreyglauzer/VigilantOnion)                                    | Crawls and monitors .onion sites for specified keywords or changes.                                                                                                                         |
-| [OnionIngestor](https://github.com/danieleperera/OnionIngestor)                                    | Gathers data from Tor hidden services for analysis or intelligence purposes.                                                                                                                |
-| [DumpsterDiver](https://github.com/securing/DumpsterDiver)                                                           | DumpsterDiver is a tool, which can analyze big volumes of data in search of hardcoded secrets like keys (e.g. AWS Access Key, Azure Share Key or SSH keys) or passwords.                                                                                                                        |
+**Forensic & Malware Analysis**
+* [Forensic](#41--forensic)
+* [Hex editors](#42--hex-editors)
+* [Execution logging and tracing](#43--execution-logging-and-tracing)
+* [Malware Analysis](#-44-malware-analysis)
 
-#### 2. [↑](#-content) Miscellaneous
+**Anonymity and Security Tools**
+* [Delete Your Trace](#-51-delete-your-trace)
+* [Password Managers](#-52-password-managers)
+* [VPNs](#-53-VPNs)
 
-| **Tool**                                                                                                                                               | **Description**                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| [GetAllURLs (gau)](https://cybersectools.com/tools/getallurls-gau)                                                                                     | Collects existing URLs for a domain from sources like Wayback Machine, URLScan, and AlienVault. |
-| [Guardey](https://cybersectools.com/tools/guardey)                                                                                                     | Offers gamified training and content for improving cybersecurity awareness.                     |
-| [NightShade](https://cybersectools.com/tools/nightshade)                                                                                               | Framework for designing and executing CTF challenges with a focus on security.                  |
-| [Smali/Baksmali mode for Emacs](https://cybersectools.com/tools/smali-baksmali-mode-for-emacs)                                                         | Improves Emacs usability for reading Smali code, aiding Android reverse engineering.            |
-| [Ctf-writeups](https://cybersectools.com/tools/ctf-writeups)                                                                                           | Detailed explanations and solutions for Capture the Flag (CTF) challenges.                      |
-| [Secrets of a High Performance Security-Focused Agile Team](https://cybersectools.com/tools/secrets-of-a-high-performance-security-focused-agile-team) | Best practices for incorporating security into agile development processes.                     |
-| [Dalvik Opcodes](https://cybersectools.com/tools/dalvik-opcodes)                                                                                       | A guide to Dalvik VM instructions, useful for analyzing Android applications.                   |
-| [AWS Config](https://cybersectools.com/tools/aws-config)                                                                                               | Evaluates and audits AWS resource configurations for compliance and security.                   |
-| [DeepDarkCTI](https://github.com/fastfire/deepdarkCTI)                                                                                                 | Cyber threat intelligence tool for monitoring and analyzing the dark web.                       |
+**Utility & Miscellaneous**
+* [Utility]((#61--utility))
+* [Miscellaneous]((#62--miscellaneous))
+* [News](#63--news)
+* [Search Engines](#64--search-engines)
+* [DNS/IP](#65--dnsip)
+* [System](#66--system) 
 
-#### 3. [↑](#-content) OSINT
+**AI Tools**
+* [AI Programming](#71--ai-programming)
+* [AI Cybersecurity](#72--ai-cybersecurity)
+
+**Specialized Tools**
+* [Cryptocurrency](#-81-cryptocurrency)
+* [Playbooks](#-82-playbooks)
+* [SIEM](#-83-siem)
+
+**Hardware & Operating Systems**
+* [Operating Systems](#-91-operating-systems)
+* [Hardware Tools](#-92-hardware-tools)
+
+**Learning & Training Resources**
+* [Resources](#--resources)
+* [Courses](#--courses)
+* [Certifications](#--certifications)
+* [Tutorials](#--tutorials)
+* [Practice Webs](#-%EF%B8%8F-practice-webs)
+* [CTFs - Training](#--ctfs---training)
+* [Open-Source Repositories](#--open-source-repositories)
+* [Learning Path](#-%EF%B8%8F-learning-path)
+* [Projects Based](#-%EF%B8%8F-projects-based)
+
+**Social and Media**
+* [Events](#--events)
+* [Community](#--community)
+* [Podcasts](#-%EF%B8%8F-podcasts)
+* [Documentaries](#--documentaries)
+* [Books & Papers/Articles](#--books--papersarticles)
+* [TV Shows](#-%EF%B8%8F-tv-shows)
+* [Youtube Channels](#--youtube-channels)
+
+**Repository**
+* [Stars History](#-%EF%B8%8F-star-history)
+* [Collaborate](#--collaborate)
+* [Credits](#--credits)
+
+
+
+
+## 1. [↑](#-content) OSINT
+
+#### 1.1 [↑](#-content) OSINT
 
 | **Tool**                                                      | **Description**                   |
 | ------------------------------------------------------------- | --------------------------------- |
@@ -137,7 +130,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [LensoAI](https://lenso.ai/en)                                                                                                                         | AI-driven platform for reverse image searching.                                                 |
 | [OSINT Investigation Assistant](https://lambda.black/osint.html)| An OSINT Investigation Assistant designed to help with people investigations |
 
-##### 3.1 [↑](#-content) Username Search
+#### 1.2 [↑](#-content) Username Search
 
 
 | **Tool**                                                                           | **Description**                                                              |
@@ -164,9 +157,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Social Searcher](https://social-searcher.com) | OSINT tool to search social media platforms for public information.                            |
 | [UnAvatar](https://unavatar.io)     | Discover avatars tied to an email address across different platforms.                         |
 
-
-
-##### 3.2 [↑](#-content) Email Search
+#### 1.3 [↑](#-content) Email Search
 
 
 | Tool                                | Description                                                                                  |
@@ -199,7 +190,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-##### 3.3 [↑](#-content) GEOINT
+#### 1.4 [↑](#-content) GEOINT
 
 | Tools                                                                                                                       | Description                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -250,7 +241,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-##### 3.4 [↑](#-content) Photo / Images
+#### 1.5 [↑](#-content) Photo / Images
 
 | Tools                                                                          | Description                                                                                                                                      |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -259,9 +250,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Exiftool](https://github.com/exiftool/exiftool)     | A terminal based tool for extracting images meta data. |
 
 
-##### 4. [↑](#-content) Social Networks
+#### 1.6 [↑](#-content) Social Networks
 
-##### 4.1 [↑](#-content) Instagram
+#### 1.6.1 [↑](#-content) Instagram
 
 | Tools                                                                                                          | Description                                                                    |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -314,7 +305,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Flufi](https://flufi.me/)                                                                                     | A tool for exploring public stories, posts, reels, tags, followers, and more.. |
 | [Find Instagram User ID](https://findinstagramuserid.com/)                                                     | A tool to find the Instagram user ID for any profile.                          |
 
-##### 4.2 [↑](#-content) Linkedin
+#### 1.6.2 [↑](#-content) Linkedin
 
 | Tools                                                                                               | Description                                |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
@@ -337,7 +328,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Recruitment Geek](https://recruitmentgeek.com/tools/linkedin)                                      | LinkedIn search tool for recruiters.       |
 | [ScrapedIn](https://github.com/dchrastil/ScrapedIn)                                                 | Tool for scraping LinkedIn profiles.       |
 
-#### 4.3 [↑](#-content) TikTok
+#### 1.6.3 [↑](#-content) TikTok
 
 | Tools                                                                                                                             | Description                                                | --- |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --- |
@@ -364,7 +355,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [TubeHi](https://tubehi.com)                                                                                                      | Tool for analyzing TikTok and YouTube content.             | --- |
 | [Vidnice](https://vidnice.com)                                                                                                    | Tool for analyzing TikTok profiles and content.            | --- |
 
-#### 4.4 [↑](#-content) OnlyFans
+#### 1.6.4 [↑](#-content) OnlyFans
 
 | Tools                                                              | Description                                 |
 | ------------------------------------------------------------------ | ------------------------------------------- |
@@ -375,7 +366,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [SimilarFans](https://similarfans.com/)                            | Tool for finding similar OnlyFans profiles. |
 | [FanSearch](https://www.fansearch.com/)                            | Comprehensive search tool for OnlyFans.     |
 
-#### 4.5 [↑](#-content) Discord
+#### 1.6.5 [↑](#-content) Discord
 
 | Tools                                                               | Description                                                                                                         |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -390,7 +381,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [DiscordOSINT](https://discordosint.com/)                           | Provides resources for conducting research and OSINT investigations related to Discord accounts, servers, and bots. |
 | [Discord Bots](https://discordbots.org/)                            | A comprehensive directory of top Discord bots, apps, and servers, including popular music and economy bots.         |
 
-#### 4.6 [↑](#-content) Twitch
+#### 1.6.6 [↑](#-content) Twitch
 
 | Tools                                                                           | Description                                                            |
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -406,7 +397,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Twitch Insights](https://twitchinsights.net/)                                  | Tool for analyzing Twitch trends and statistics.                       |
 | [Twitch Followage Tool](https://streamscharts.com/tools/followage)              | Tool for checking how long users have been following a Twitch channel. |
 
-#### 4.7 [↑](#-content) Tinder
+#### 1.6.7 [↑](#-content) Tinder
 
 | Tools                                              | Description                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------- |
@@ -431,7 +422,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [zoosk](https://www.zoosk.com)                     | Dating site with a behavioral matchmaking algorithm.           |
 
 
-#### 4.8 [↑](#-content) Reddit
+#### 1.6.8 [↑](#-content) Reddit
 
 | Tools                                              | Description                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------- |
@@ -442,41 +433,570 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-#### 5. [↑](#-content) AI Tools
 
-##### 5.1 [↑](#-content) AI Programming
+## 2. [↑](#-content) Pentesting
 
-| Tool                                                  | Description                                                                                                                                                                                                           |
-| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Cursor](https://cursor.sh/)                          | Function: Development environment focused on seamless AI interaction in code. Less known than Copilot but highly valued for assisted workflows. Advantage: Strong real-time AI/code collaboration integration.        |
-| [WindSurf](https://www.windsurf.io/)                  | Function: Documentation-focused completion and search system, enabling efficient explanation and navigation of complex projects. Advantage: Simplifies code understanding and exploration, useful for large projects. |
-| [Bolt](https://boltai.com/)                           | Function: Fast and minimalist code completion, optimized for speed and specific contexts. Advantage: Focuses on local performance rather than cloud solutions.                                                        |
-| [GitHub Copilot](https://github.com/features/copilot) | Function: Custom code generation powered by GPT-4 (or similar). Advantage: Perfect for a broad audience, though sometimes lacks advanced customization.                                                               |
-| [Tabnine](https://www.tabnine.com/)                   | Function: Uses AI models for local or cloud-based suggestions. Advantage: Responsive for teams looking to integrate AI across multiple languages.                                                                     |
-| [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources (like cybersources but with ai)|
+### 2.1 [↑](#-content) Post Explotation
+
+| Tools                                                         | Description                                                                         |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [Empire](https://github.com/EmpireProject/Empire)             | A post exploitation framework for powershell and python.                            |
+| [Silentrinity](https://github.com/byt3bl33d3r/SILENTTRINITY)  | A post exploitation tool that uses iron python to get past powershell restrictions. |
+| [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | A PowerShell post exploitation framework.                                           |
+| [ebowla](https://github.com/Genetic-Malware/Ebowla)           | Framework for Making Environmental Keyed Payloads.                                  |
+
+### 2.2 [↑](#-content) Deobfuscators
+
+| Tools                                     | Description                                                                                    |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [JS Nice](http://jsnice.org/)             | Web service guessing JS variables names and types based on the model derived from open source. |
+| [de4dot](https://github.com/0xd4d/de4dot) | .NET deobfuscator and unpacker.                                                                |
+
+### 2.3 [↑](#-content) Decompilers
+
+| Tools                                                    | Description                                                                                                                                          |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [uncompyle6](https://github.com/rocky/python-uncompyle6) | Decompiler for the over 20 releases and 20 years of CPython.                                                                                         |
+| [Hopper](https://www.hopperapp.com/)                     | A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.                                                            |
+| [Karkatau](https://github.com/Storyyeller/Krakatau)      | The best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully. |
+| [dnSpy](https://github.com/0xd4d/dnSpy)                  | .NET assembly editor, decompiler, and debugger                                                                                                       |
+| [ILSpy](https://github.com/icsharpcode/ILSpy/)           | An open-source .NET assembly browser and decompiler                                                                                                  |
+| [DotPeek](https://www.jetbrains.com/decompiler/)         | A free-of-charge .NET decompiler from JetBrains                                                                                                      |
+| [JADX](https://github.com/skylot/jadx)                   | Decompiler for Android apps. Not related to JAD.                                                                                                     |
+| [JAD](http://varaneckas.com/jad/)                        | JAD Java Decompiler (closed-source, unmaintained)                                                                                                    |
+| [Luyten](https://github.com/deathmarine/Luyten)          | One of the best, though a bit slow, hangs on some binaries and not very well maintained.                                                             |
+| [R2Dec](https://github.com/wargio/r2dec-js)              | Decompiler plugin for radare2                                                                                                                        |
+| [Decai](https://github.com/radareorg/r2ai)               | LLM-based decompiler for radare2                                                                                                                     |
+| [BinaryNinja](https://binary.ninja/) | Binary Ninja is an interactive decompiler, disassembler, debugger, and binary analysis platform built by reverse engineers, for reverse engineers. |
+
+### 2.4 [↑](#-content) Disassembler and debuggers
+
+| Tools                                                 | Description                                                                                     |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [IDA](https://www.hex-rays.com/products/ida/)         | Multi-platform disassembler and debugger for Windows, Linux, and macOS.                         |
+| [Olly](http://www.ollydbg.de/)                        | 32-bit assembler-level debugging tool for Windows.                                              |
+| [plasma](https://github.com/joelpx/plasma)            | Interactive disassembler for x86, ARM, and MIPS, with indented pseudo-code and syntax coloring. |
+| [radare2](https://github.com/radare/radare2)          | Portable and versatile reverse engineering framework.                                           |
+| [iaito](https://github.com/radareorg/iaito)           | Graphical interface for the radare2 reverse engineering framework.                              |
+| [x64dbg](https://github.com/x64dbg/x64dbg)            | Open-source debugger for x64 and x32 applications on Windows.                                   |
+| [ScratchABit](https://github.com/pfalcon/ScratchABit) | Customizable and hackable disassembler with support for IDAPython-compatible plugins.           |
+| [Ghidra](https://ghidra-sre.org/)                     | Comprehensive reverse engineering suite developed by the NSA.                                   |
+
+### 2.5 [↑](#-content) Web
+
+| Web                                                       | Description                                                                                                                                 |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Cyberbro](https://github.com/stanfrbd/cyberbro)          | A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services (API and scraping). |
+| [recon-ng](https://github.com/lanmaster53/recon-ng)       | Web reconnaissance framework for gathering OSINT.                                                                                           |
+| [Katana](https://github.com/projectdiscovery/katana)                                                  | A web reconnaissance tool, recognized for web crawling and spidering.                                     |
+| [Waybackurls](https://github.com/tomnomnom/waybackurls)                                               | A tool for extracting historical URLs from the Wayback Machine, helping to discover hidden or outdated web resources.                                       |
+| [SpySe](https://spyse.com/)                               | Data gathering service offering detailed information on IPs, domains, ports, technologies, and more through OSINT.                          |
+| [Git-Scanner](https://github.com/HightechSec/git-scanner) | Tool for bug hunting or penetration testing to find exposed .git repositories.                                                              |
+| [Keyscope](https://github.com/SpectralOps/keyscope)       | Key and secret auditing tool that checks secrets against multiple SaaS platforms.                                                           |
+| [VHostScan](https://github.com/codingo/VHostScan)         | Virtual host scanner that performs reverse lookups and detects dynamic default pages, aliases, and catch-all configurations.                |
+| [Shodan](https://www.shodan.io/)                          | Search engine for finding servers and devices connected to the internet.                                                                    |
+| [SubFinder](https://github.com/subfinder/subfinder)       | Tool for discovering valid subdomains through passive online sources.                                                                       |
+| [sqlmap](https://github.com/sqlmapproject/sqlmap)         | Automatic SQL injection tool for database takeover.                                                                                         |
+| [URLVoid](https://www.urlvoid.com/)                       | Website reputation checker that scans URLs for safety using multiple security engines and blocklists.                  |
+| [Gobuster](https://github.com/OJ/gobuster/releases/tag/v3.6.0)                       | Gobuster is a fast and efficient tool used in penetration testing and ethical hacking for discovering hidden directories, files, DNS subdomains, and virtual hostnames on a web server. It works by brute-forcing web server paths or subdomains using wordlists.                                |
+| [Ffuf](https://github.com/ffuf/ffuf)                                                                  | An alternative for fast web fuzzing based on Golang, used for discovering hidden files, directories, sub-domains, VHosts and resources by brute-forcing URL paths.                                                                                                |
+| [Httpx](https://github.com/projectdiscovery/httpx)                                                    | A fast and efficient multi-purpose tool for probing and discovering HTTP-based services, performing various checks like SSL/TLS, redirects, and more.                                                                                                             |
+| [SecLists](https://github.com/danielmiessler/SecLists) | Seclist is a depository full if word list I use it for Gobuster and other brute forcing aapplications. It has a variety of wordlists for your needs of small wordlists to large wordlists.|
+| [Burp Suite](https://portswigger.net/burp/documentation/desktop/getting-started/download-and-install) | A powerful GUI based integrated platform for web application security testing, offering tools for intercepting traffic, scanning vulnerabilities, brute-forcing and exploiting security flaws.                                                                    |
 
 
-##### 5.2 [↑](#-content) AI Cybersecurity
+### 2.6 [↑](#-content) Network
 
-| Tool                                               | Description                                                                                                                                                                                       |
-| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Darktrace](https://www.darktrace.com/)            | Function: Real-time threat detection using machine learning algorithms. Advantage: Identifies unusual network behaviors to prevent cyberattacks before they occur.                                |
-| [CrowdStrike Falcon](https://www.crowdstrike.com/) | Function: AI-based Endpoint Protection Platform. Advantage: Offers proactive defense with advanced malware detection and rapid incident response.                                                 |
-| [Vectra AI](https://www.vectra.ai/)                | Function: Network traffic analysis for detecting internal and external threats. Advantage: Focuses on detecting complex attacks like lateral movements or data exfiltration.                      |
-| [Cynet 360](https://www.cynet.com/)                | Function: All-in-one security platform combining threat detection, incident response, and automation. Advantage: Particularly suitable for small businesses with limited cybersecurity resources. |
-| [Reveelium](https://www.alsego.com/reveelium/)     | Function: Anomaly detection and event correlation in information systems. Advantage: Ideal for identifying unusual behavior in logs of large organizations.     |
-| [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources.|
-| [PentestGPT](https://pentestgpt.ai/)| PentestGPT provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly.|
+| Tools                                                                 | Description                                                                                      |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [NetworkMiner](http://www.netresec.com/?page=NetworkMiner)            | Network Forensic Analysis Tool (NFAT) for analyzing network traffic.                             |
+| [Paros](http://sourceforge.net/projects/paros/)                       | Java-based HTTP/HTTPS proxy for web application vulnerability assessment.                        |
+| [pig](https://github.com/rafael-santiago/pig)                         | Linux-based packet crafting tool.                                                                |
+| [cirt-fuzzer](http://www.cirt.dk/)                                    | Simple TCP/UDP protocol fuzzer for vulnerability testing.                                        |
+| [ASlookup](https://aslookup.com/)                                     | Tool for exploring autonomous systems with related data (CIDR, ASN, Org).                        |
+| [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) | Integrated penetration testing tool for identifying vulnerabilities in web applications.         |
+| [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j)                 | Man-in-the-middle SOCKS proxy for Java.                                                          |
+| [ssh-mitm](https://github.com/jtesta/ssh-mitm)                        | SSH/SFTP man-in-the-middle tool for logging sessions and passwords.                              |
+| [nmap](https://nmap.org/)                                             | Security scanner for network exploration and vulnerability scanning.                             |
+| [Nipe](https://github.com/GouveaHeitor/nipe)                          | Script to route traffic through the Tor network.                                                 |
+| [Habu](https://github.com/portantier/habu)                            | Python toolkit for network hacking.                                                              |
+| [Wifi Jammer](https://n0where.net/wifijammer/)                        | Program to jam all Wi-Fi clients in range.                                                       |
+| [Firesheep](https://codebutler.github.io/firesheep/)                  | HTTP session hijacking attack tool.                                                              |
+| [Scapy](https://github.com/secdev/awesome-scapy)                      | Python tool for creating and manipulating network packets.                                       |
+| [Amass](https://github.com/OWASP/Amass)                               | Subdomain enumeration tool with scraping, brute forcing, crawling, and reverse DNS capabilities. |
+| [sniffglue](https://github.com/kpcyrd/sniffglue)                      | Multithreaded secure packet sniffer.                                                             |
+| [Netz](https://github.com/spectralops/netz)                           | Tool for discovering internet-wide misconfigurations using zgrab2.                               |
+| [RustScan](https://github.com/rustscan/rustscan)                      | Fast port scanner using Rust, designed for quick scanning and integration with Nmap.             |
+| [PETEP](https://github.com/Warxim/petep)                              | Extensible TCP/UDP proxy for traffic analysis and modification with SSL/TLS support.             |
+| [TorCrawl](https://github.com/MikeMeliz/TorCrawl.py)                  | Python-based tool to crawl .onion websites efficiently.                                          |
+| [Midnight Sea](https://github.com/RicYaben/midnight_sea)              | A dark web crawler designed for flexibility and integration with analysis tools.                 |
+| [Wireshark](https://www.wireshark.org/)                        | A network protocol analyzer for capturing and analyzing network packets.            |
+| [Bettercap](https://www.bettercap.org/)                       | A powerful tool for man-in-the-middle attacks, network sniffing, and WiFi exploitation. |
+| [Ettercap](https://github.com/Ettercap/ettercap)              | A comprehensive suite for man-in-the-middle attacks on LANs and WiFi networks.       |
+| [Kismet](https://kismetwireless.net/)                          | A wireless network detector, sniffer, and intrusion detection system.                |
+| [Tcpdump](https://www.tcpdump.org/)                           | A command-line packet analyzer for capturing and analyzing network traffic.         |
+| [Netcat](https://nmap.org/ncat/)                              | A networking utility for reading and writing data across networks, often used for debugging. |
+| [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)   | A post-exploitation tool for pentesters to automate common tasks against networks.   |
+| [Burp Suite](https://portswigger.net/burp)                    | A comprehensive suite for web application security testing, including WiFi-related vulnerabilities. |
+| [Responder](https://github.com/SpiderLabs/Responder)          | A tool for poisoning network traffic and conducting man-in-the-middle attacks.       |
+| [SSLstrip](https://github.com/moxie0/sslstrip)                | A tool that downgrades HTTPS connections to HTTP, enabling interception of traffic.  |
+| [dnschef](https://github.com/iphelix/dnschef)                 | A DNS proxy tool that allows for DNS manipulation and phishing attacks.              |
+| [Fierce](https://github.com/darkoperator/fierce)              | A domain scanner tool for DNS reconnaissance, useful for network mapping.           |
+| [MitM](https://github.com/oxagast/mitm)                       | A man-in-the-middle framework for intercepting, modifying, and injecting traffic.    |
+| [HTTP Toolkit](https://httptoolkit.com/) |HTTP Toolkit is an open-source tool for debugging, testing and building with HTTP on Windows, Linux & Mac. 1 click setup for rooted devices. |
+
+### [↑](#-content) 2.7 RFID
+
+| Tool                                                                       | Description                                                                                                                                               |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Proxmark3](https://proxmark.com/)                                         | A powerful tool for reading, writing, and analyzing RFID and NFC cards.                                                                                   |
+| [ChameleonMini](https://github.com/emsec/ChameleonMini)                    | An RFID emulator for security analysis.                                                                                                                   |
+| [Flipper Zero](https://flipperzero.one/)                                   | A versatile multi-tool device for interacting with RFID, NFC, and other protocols.                                                                        |
+| [ACR122U](https://www.acs.com.hk/en/products/92/acr122u-usb-nfc-reader/)   | A USB-based NFC reader and writer commonly used for RFID development and testing.                                                                         |
+| [LibNFC](https://github.com/nfc-tools/libnfc)                              | An open-source library for using NFC readers and performing RFID interactions.                                                                            |
+| [MIFARE Classic Tool (MCT)](https://github.com/ikarus23/MifareClassicTool) | A mobile app for interacting with MIFARE Classic cards, reading, writing, and analyzing their data.                                                       |
+| [Cardpeek](https://github.com/L1L1/cardpeek)                               | A tool for analyzing smart cards, including Calypso-based transit cards, with a focus on data parsing and visualization.                                  |
+| [Metrodroid](https://github.com/metrodroid/metrodroid)                     | A mobile app for reading and analyzing transit cards, providing insights into metro card data.                                                            |
+| [Metroflip](https://lab.flipper.net/apps/metroflip)                        | A Flipper Zero app for reading and parsing metro cards, inspired by Metrodroid. It supports multi-protocol card reading and global transit card analysis. |
+| [Seader](https://github.com/bettse/seader)                                 | A Flipper Zero application to interface with a SAM from the Flipper Zero over UART                                                                        |
+| [NFC Magic](https://lab.flipper.net/apps/nfc_magic)                        | A Flipper zero application for writing to NFC tags with modifiable sector 0                                                                               |
+| [MFOC](https://github.com/nfc-tools/mfoc)                                  | MFOC is an open source implementation of "offline nested" attack                                                                                          |
+| [PicoPass](https://lab.flipper.net/apps/picopass)|App to communicate with NFC tags using the PicoPass(iClass) format. |
+| [Mifare Fuzzer](https://lab.flipper.net/apps/mifare_fuzzer) |App emulates Mifare Classic cards with various UIDs to check how reader reacts on them. |
+| [MFKey](https://lab.flipper.net/apps/mfkey) |MIFARE Classic key recovery tool. |
 
 
-#### 6. [↑](#-content) News
+### [↑](#-content) 2.8 WiFi 
+
+| Tools                                                         | Description                                                                          |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [Aireplay-ng](https://www.aircrack-ng.org/doku.php?id=airplay-ng) | A tool for injecting frames into a wireless network to manipulate traffic.          |
+| [Aircrack-ng](https://www.aircrack-ng.org/)                    | A suite of tools for cracking WEP and WPA-PSK encryption keys.                       |
+| [Airmon-ng](https://www.aircrack-ng.org/doku.php?id=airmon-ng) | A tool to configure wireless interfaces into monitor mode for packet capture.       |
+| [Airolib-ng](https://www.aircrack-ng.org/doku.php?id=airolib-ng) | A tool to create and manage a database for cracking WPA/WPA2 networks.                |
+| [Airegeddon](https://github.com/airgeddon/airgeddon)           | A multi-purpose WiFi hacking tool focused on WPA/WPA2 PSK networks.                 |
+| [Wash](https://github.com/aircrack-ng/wash)                   | A tool to identify routers that are vulnerable to WPS attacks.                      |
+| [Reaver](https://github.com/t6x/reaver-wps-fork)              | A tool designed to crack WPS PINs of routers to gain access to WPA networks.        |
+| [Bully](https://github.com/wiire/pwning)                      | A tool for brute-forcing WPS PINs of vulnerable routers.                             |
+| [Airbase-ng](https://www.aircrack-ng.org/doku.php?id=airbase-ng) | A tool to create fake access points for testing and social engineering attacks.      |
+| [Fern WiFi Cracker](https://github.com/savio-code/fern-wifi-cracker) | A GUI-based tool to crack WEP/WPA/WPS encryption on wireless networks.              |
+| [Wifite](https://github.com/derv82/wifite)                    | A tool for automating the cracking of WEP and WPA networks.                          |
+| [Wifiphisher](https://github.com/wifiphisher/wifiphisher)      | A tool for phishing attacks targeting WiFi networks and capturing credentials.      |
+| [Ghost Phisher](https://github.com/savio-code/ghost-phisher)  | A phishing tool that creates fake access points and social engineering attacks.      |
+
+
+### [↑](#-content) 2.9 Reconnaissance
+
+| **Tool**                                                | **Description**                                                              |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Nmap](https://nmap.org)                                 | A network scanning tool used for discovering hosts, services, and vulnerabilities on a network. |
+| [Netcat](https://nc110.sourceforge.io)                  | A versatile networking tool used for port scanning, banner grabbing, and transferring files. |
+| [Wireshark](https://www.wireshark.org)                   | A network protocol analyzer that captures and inspects network packets in real-time. |
+| [Fierce](https://github.com/mschwager/fierce)            | A domain scanner that helps map out a target’s domain infrastructure, including DNS records and subdomains. |
+| [Recon-ng](https://github.com/lanmaster53/recon-ng)      | A web-based reconnaissance framework that automates OSINT gathering from various sources. |
+| [TheHarvester](https://github.com/laramies/theHarvester) | A tool to gather email addresses, subdomains, and other information through search engines and public records. |
+| [Masscan](https://github.com/robertdavidgraham/masscan)  | A fast network scanner used for scanning large IP ranges to identify open ports. |
+| [Dig](https://man7.org/linux/man-pages/man1/dig.1.html)  | A command-line tool for querying DNS records and gathering information on domain names. |
+| [Sublist3r](https://github.com/aboul3la/Sublist3r)       | A tool for discovering subdomains using open-source intelligence. |
+| [Censys](https://censys.io)                             | Provides data on devices, services, and open ports exposed to the internet, assisting in reconnaissance. |
+| [Shodan](https://www.shodan.io)                          | A search engine that scans and indexes devices connected to the internet for reconnaissance. |
+| [SpiderFoot](https://www.spiderfoot.net)                 | An automation tool for gathering intelligence about a target by querying public databases and sources. |
+| [Dnsrecon](https://github.com/darkoperator/dnsrecon)     | A tool for DNS enumeration, identifying subdomains, and extracting other DNS-related data. |
+| [Enum4linux](https://github.com/CiscoCXSecurity/enum4linux) | A tool to gather information from Windows machines by querying SMB shares and services. |
+
+
+
+### [↑](#-content) 2.10 Bug Bounty
+
+| Tool                                               | Description                                                                                      |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [123Contact Form](https://www.123contactform.com)  | A versatile form builder for websites and mobile applications.                                   |
+| [99designs](https://99designs.com)                 | A platform to connect designers with clients needing logos, websites, and more.                  |
+| [Abacus](https://www.abacus.com)                   | A tool for simplifying expense reporting and tracking for businesses.                            |
+| [Acquia](https://www.acquia.com)                   | Cloud-based solutions for managing and optimizing digital experiences on Drupal.                 |
+| [ActiveCampaign](https://www.activecampaign.com)   | A customer experience automation platform for email marketing and CRM.                           |
+| [ActiveProspect](https://activeprospect.com)       | A SaaS platform to automate lead acquisition and qualification processes.                        |
+| [Adobe](https://www.adobe.com)                     | Industry-leading software solutions for creative professionals, including Photoshop and Acrobat. |
+| [AeroFS](https://www.aerofs.com)                   | A private cloud collaboration tool for secure team file sharing.                                 |
+| [Airbitz](https://airbitz.co)                      | A secure Bitcoin wallet and platform for decentralized applications.                             |
+| [Airbnb](https://www.airbnb.com)                   | A platform for booking short-term homestays and unique travel experiences.                       |
+| [Algolia](https://www.algolia.com)                 | A search and discovery API for websites and mobile applications.                                 |
+| [Altervista](https://www.altervista.org)           | A platform for creating free blogs and websites with monetization options.                       |
+| [Altroconsumo](https://www.altroconsumo.it)        | Italy's largest consumer organization offering product reviews and advice.                       |
+| [Amara](https://amara.org)                         | A tool for creating and managing subtitles for videos collaboratively.                           |
+| [Amazon Web Services](https://aws.amazon.com)      | A comprehensive cloud platform offering computing power, storage, and other services.            |
+| [Amazon.com](https://www.amazon.com)               | The world's largest online retailer offering a vast array of products and services.              |
+| [ANCILE Solutions Inc.](https://www.ancile.com)    | Solutions for creating and delivering on-demand learning and performance support.                |
+| [Anghami](https://www.anghami.com)                 | A music streaming platform focused on Arabic content.                                            |
+| [ANXBTC](https://anxbtc.com)                       | A Bitcoin trading and exchange platform.                                                         |
+| [Apache httpd](https://httpd.apache.org)           | An open-source HTTP server for hosting websites and applications.                                |
+| [Appcelerator](https://www.appcelerator.com)       | A cross-platform mobile app development tool.                                                    |
+| [Apple](https://www.apple.com)                     | A global leader in consumer electronics, software, and online services.                          |
+| [Apptentive](https://www.apptentive.com)           | A platform for mobile app engagement and customer feedback.                                      |
+| [Aptible](https://www.aptible.com)                 | A security and compliance platform for DevOps teams.                                             |
+| [Ardour](https://ardour.org)                       | A digital audio workstation for recording, editing, and mixing sound.                            |
+| [Arkane](https://www.arkane.network)               | A blockchain wallet and API service for developers.                                              |
+| [ARM mbed](https://www.mbed.com)                   | A platform for IoT device development and deployment.                                            |
+| [Asana](https://asana.com)                         | A project management tool for team collaboration and task tracking.                              |
+| [YesWeHack](https://www.yeswehack.com)             | A global bug bounty and vulnerability disclosure platform.                                       |
+| [intigriti](https://www.intigriti.com)             | A leading European platform for crowdsourced security testing.                                   |
+| [HackerOne](https://www.hackerone.com)             | A vulnerability coordination and bug bounty platform connecting businesses with hackers.         |
+| [Bugcrowd](https://www.bugcrowd.com)               | A platform offering managed bug bounty programs and vulnerability disclosure.                    |
+| [Cobalt](https://cobalt.io)                        | A pen-testing as a service platform with a global community of security experts.                 |
+| [Bountysource](https://www.bountysource.com)       | A funding platform for open-source projects and software development bounties.                   |
+| [Bounty Factory](https://bountyfactory.io)         | A platform for launching bug bounty programs with a community of ethical hackers.                |
+| [BMW Group Bug Bounty](https://www.bmwgroup.com/en/general/Security.html)| The security of our products and services is top priority for us |
+| [Coder Bounty](https://coderbounty.com)            | A platform for developers to earn rewards by solving coding challenges.                          |
+| [FreedomSponsors](https://www.freedomsponsors.org) | A funding platform for open-source software improvements and bug fixes.                          |
+| [FOSS Factory](https://fossfactory.org)            | A platform for funding free and open-source software development.                                |
+| [Synack](https://www.synack.com)                   | A crowdsourced security platform combining automation with a network of ethical hackers.         |
+| [HackenProof](https://hackenproof.com)             | A bug bounty and vulnerability coordination platform for businesses.                             |
+| [Detectify](https://detectify.com)                 | A SaaS platform offering web vulnerability scanning and crowdsourced security.                   |
+| [Bugbountyjp](https://bugbounty.jp)                | A Japanese platform for launching and managing bug bounty programs.                              |
+| [Safehats](https://safehats.com)                   | A vulnerability coordination platform for organizations to work with ethical hackers.            |
+| [BugbountyHQ](https://www.bugbountyhq.com)         | A community platform for ethical hackers to collaborate and find bug bounty opportunities.       |
+| [Hackerhive](https://hackerhive.com)               | A security platform for crowdsourced vulnerability assessments and bug bounties.                 |
+| [Hacktrophy](https://www.hacktrophy.com)           | A Slovak bug bounty platform for finding vulnerabilities in digital assets.                      |
+| [AntiHACK](https://antihack.me)                    | A bug bounty and penetration testing platform based in Asia.                                     |
+| [CESPPA](https://cesppa.com)                       | A cybersecurity and bug bounty platform for coordinated vulnerability disclosure.                |
+|[Bug Bounty Hunting](https://www.bugbountyhunting.com/)|Bug Bounty Hunting Search Engine|
+
+
+## 3. [↑](#-content) Cryptography
+
+### 3.1 [↑](#-content) Cryptography
+
+| Tools                                            | Description                                                                            |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| [xortool](https://github.com/hellman/xortool)    | A tool to analyze multi-byte XOR cipher                                                |
+| [John the Ripper](http://www.openwall.com/john/) | A fast password cracker                                                                |
+| [Aircrack](http://www.aircrack-ng.org/)          | Aircrack is 802.11 WEP and WPA-PSK keys cracking program.                              |
+| [Ciphey](https://github.com/ciphey/ciphey)       | Automated decryption tool using artificial intelligence & natural language processing. |
+
+### [↑](#-content) 3.2 Steganographic
+
+| Tools                                                                                                                | Description                                                           |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [110 steganographic tools](http://www.jjtc.com/Steganography/tools.html)                                             | A comprehensive list of 110 steganographic tools.                     |
+| [Cloakify](https://github.com/TryCatchHCF/Cloakify)                                                                  | A tool for disguising data to bypass data loss prevention mechanisms. |
+| [Stego_Dropper](https://github.com/ahhh/Stego_Dropper)                                                               | A steganography-based dropper written in Python.                      |
+| [silenteye](https://github.com/achorein/silenteye)                                                                   | A cross-platform application for steganography.                       |
+| [deep-steg](https://github.com/alexandremuzio/deep-steg)                                                             | Deep learning based steganography tool.                               |
+| [StegX](https://github.com/Heisenberk/StegX)                                                                         | A Python-based steganography tool.                                    |
+| [js-steg](https://github.com/owencm/js-steg)                                                                         | A steganography tool using JavaScript.                                |
+| [steg](https://github.com/surg0r/steg)                                                                               | A simple steganography tool.                                          |
+| [StegoProxy](https://github.com/LabunskyA/StegoProxy)                                                                | A proxy tool that implements steganography.                           |
+| [Video-Steganography-for-Piracy-Prevention](https://github.com/adityangud/Video-Steganography-for-Piracy-Prevention) | A video steganography tool to prevent piracy.                         |
+| [openstego](https://github.com/syvaidya/openstego)                                                                   | An open-source steganography tool.                                    |
+| [steg](https://github.com/beatsbears/steg)                                                                           | Another steganography tool.                                           |
+| [Stegbook](https://github.com/lozarcher/Stegbook)                                                                    | A steganography tool for Facebook messages.                           |
+| [PDF_steganography](https://github.com/thoppe/PDF_steganography)                                                     | A tool for hiding data within PDF files.                              |
+| [steganography_talk](https://github.com/raulfraile/steganography_talk)                                               | A presentation on steganography.                                      |
+| [ascii-steganography](https://github.com/vgmoose/ascii-steganography)                                                | A tool for hiding data within ASCII text.                             |
+| [voices](https://github.com/gitbrew/voices)                                                                          | A tool for audio steganography.                                       |
+| [stego-retweet](https://github.com/daniellerch/stego-retweet)                                                        | A tool for hiding data within retweets.                               |
+| [ARMS](https://github.com/adyra/ARMS)                                                                                | Another steganography tool.                                           |
+| [stegosaurus](https://github.com/h-lame/stegosaurus)                                                                 | A simple steganography tool.                                          |
+| [Outguess](https://github.com/Rbcafe/Outguess)                                                                       | A universal steganography tool.                                       |
+| [BitStegNet](https://github.com/manmar92/BitStegNet)                                                                 | A neural network based steganography tool.                            |
+| [stego-wave](https://github.com/pboueke/stego-wave)                                                                  | A steganography tool for hiding data in audio files.                  |
+| [StegoMP3](https://github.com/maksimvrs/StegoMP3)                                                                    | A tool for MP3 steganography.                                         |
+| [jSteganographiX](https://github.com/Epredator/jSteganographiX)                                                      | A steganography tool written in Java.                                 |
+| [LSB-Steganography](https://github.com/RobinDavid/LSB-Steganography)                                                 | A tool for least significant bit steganography.                       |
+| [jsteg](https://github.com/lukechampine/jsteg)                                                                       | A steganography tool written in Go.                                   |
+| [stego-toolkit](https://github.com/DominicBreuker/stego-toolkit)                                                     | A collection of steganography tools.                                  |
+| [f5-steganography](https://code.google.com/archive/p/f5-steganography/)                                              | An implementation of the F5 steganography algorithm.                  |
+| [Matroschka](https://github.com/fbngrm/Matroschka)                                                                   | A steganography tool.                                                 |
+| [Deep-Steganography](https://github.com/harveyslash/Deep-Steganography)                                              | A deep learning based steganography tool.                             |
+| [AudioStego](https://github.com/danielcardeenas/AudioStego)                                                          | A tool for audio steganography.                                       |
+| [audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms)                          | Algorithms for audio steganography.                                   |
+| [jphs](https://github.com/h3xx/jphs)                                                                                 | A steganography tool.                                                 |
+| [StegDroid](https://github.com/fredley/StegDroid)                                                                    | A steganography tool for Android.                                     |
+| [SteCoSteg](https://github.com/cryptolok/SteCoSteg)                                                                  | A steganography tool.                                                 |
+| [PNG-Mask](https://github.com/AlphaDelta/PNG-Mask)                                                                   | A tool for hiding data in PNG images.                                 |
+| [chess-steg](https://github.com/jes/chess-steg)                                                                      | A steganography tool for hiding data in chess games.                  |
+| [strogonoff](https://github.com/jbochi/strogonoff)                                                                   | Another steganography tool.                                           |
+| [Pictograph](https://github.com/MrAdamBoyd/Pictograph)                                                               | A steganography tool for images.                                      |
+| [stegoVeritas](https://github.com/bannsec/stegoVeritas)                                                              | A steganography tool.                                                 |
+| [secretbook](https://github.com/owencm/secretbook)                                                                   | A steganography tool for Facebook messages.                           |
+| [snow10](https://github.com/beardog108/snow10)                                                                       | A steganography tool.                                                 |
+| [mp3stego](http://www.petitcolas.net/fabien/steganography/mp3stego)                                                  | A tool for MP3 steganography.                                         |
+| [stego_video](http://compression.ru/video/stego_video)                                                               | A video steganography tool.                                           |
+| [diit](http://diit.sourceforge.net/)                                                                                 | A steganography tool.                                                 |
+| [stegosploit](https://stegosploit.info/)                                                                             | A tool for embedding exploits in images.                              |
+| [stegolab](https://github.com/daniellerch/stegolab)                                                                  | A steganography tool.                                                 |
+| [stego-book-2014](https://github.com/daniellerch/stego-book-2014)                                                    | A collection of steganography tools from 2014.                        |
+| [timeshifter](https://github.com/anfractuosity/timeshifter)                                                          | A tool for covert channels based on time.                             |
+| [covertele](https://github.com/LabunskyA/covertele)                                                                  | A tool for covert communication.                                      |
+| [CCEAP](https://github.com/cdpxe/CCEAP)                                                                              | A steganography tool.                                                 |
+| [cloud-covert-channels](https://github.com/bsteen/cloud-covert-channels)                                             | A tool for covert channels in the cloud.                              |
+| [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator)                                                           | A tool for data exfiltration via DNS.                                 |
+| [StegPage](https://sourceforge.net/p/stegpage/wiki/Home/)                                                            | A source for various steganography tools.                             |
+| [CameraShy](https://sourceforge.net/projects/camerashy/)                                                             | A steganography tool.                                                 |
+| [stegUnicode](https://github.com/mindcrypt/stegUnicode)                                                              | A steganography tool using Unicode.                                   |
+| [stelin](http://stelin.sourceforge.net/)                                                                             | Another steganography tool.                                           |
+| [Hydan](http://www.crazyboy.com/hydan/)                                                                              | A steganography tool for binary files.                                |
+| [deogol](https://hord.ca/projects/deogol/intro.html)                                                                 | A steganography tool.                                                 |
+| [Hugo source code](https://jabriffa.wordpress.com/other/hugo-source-code/)                                           | Source code for a steganography tool.                                 |
+| [WOW](http://dde.binghamton.edu/download/stego_algorithms/)                                                          | Steganography algorithms.                                             |
+| [stegify](https://github.com/DimitarPetrov/stegify)                                                                  | A simple steganography tool.                                          |
+| [Steganography 101](https://pequalsnp-team.github.io/cheatsheet/steganography-101)                                   | An introductory guide to steganography.                               |
+| [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage)                                                           | A tool for embedding PowerShell scripts in images.                    |
+| [instegogram](https://github.com/endgameinc/instegogram)                                                             | A tool for steganography in Instagram images.                         |
+
+### [↑](#-content) 3.3 Steganalysis
+
+| Tool                                                                                                                                                          | Description                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [VSL](http://vsl.sourceforge.net/)                                                                                                                            | A steganographic tool that helps in hiding and detecting messages within digital images.                                                                    |
+| [HackTricks - Stego Tricks](https://book.hacktricks.xyz/stego/stego-tricks)                                                                                   | A comprehensive guide on various steganography techniques and tricks used in cybersecurity.                                                                 |
+| [zsteg](https://github.com/zed-0xff/zsteg)                                                                                                                    | A tool for detecting hidden data in PNG and BMP files.                                                                                                      |
+| [StegOnline](https://stegonline.georgeom.net/upload)                                                                                                          | An online tool for hiding and extracting hidden messages in images.                                                                                         |
+| [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve)                                                                    | A steganography analysis tool that can analyze images for hidden data.                                                                                      |
+| [StegCracker](https://github.com/th3gundy/stegCracker)                                                                                                        | A tool for brute-forcing passwords of hidden data in steganographic images.                                                                                 |
+| [StegSeek](https://github.com/RickdeJager/stegseek)                                                                                                           | A lightning-fast steganography brute-force tool for hidden data in images.                                                                                  |
+| [JJTC Steganalysis](http://www.jjtc.com/Steganalysis/)                                                                                                        | A resource for various steganalysis techniques and tools.                                                                                                   |
+| [Guillermito's Steganography](https://www.guillermito2.net/stegano/)                                                                                          | An informative site on steganography tools and techniques.                                                                                                  |
+| [Stegdetect](http://www.outguess.org)                                                                                                                         | A popular steganography detection tool capable of detecting hidden data in images.                                                                          |
+| [Spy Hunter](http://www.spy-hunter.com/stegspydownload.htm)                                                                                                   | A tool designed to detect steganography usage and hidden data.                                                                                              |
+| [Stegkit](https://www.sbir.gov/sbirsearch/detail/151266)                                                                                                      | A steganography kit used for hiding and extracting hidden messages in images.                                                                               |
+| [Stegalyzer](http://www.sarc-wv.com/products/stegalyzeras.aspx)                                                                                               | A tool designed for detecting and analyzing steganographic content in digital images.                                                                       |
+| [Stego Suite](http://www.wetstonetech.com/cgi-bin/shop.cgi?view,1)                                                                                            | A suite of tools for hiding and detecting steganographic content.                                                                                           |
+| [Stegsecret](http://stegsecret.sourceforge.net)                                                                                                               | An open-source steganography tool for embedding and extracting hidden messages in images.                                                                   |
+| [StegExpose](https://github.com/b3dk7/StegExpose)                                                                                                             | A tool for detecting hidden data in images using statistical analysis.                                                                                      |
+| [Cryptonibbles - Mr. Robot Steganography](https://cryptonibbles.blogspot.com/2016/05/why-mr-robot-does-not-know-steganography.html?m=1)                       | A blog post discussing steganography in the context of the TV show Mr. Robot.                                                                               |
+| [Forensics Analysis of Video Steganography Tools](https://www.researchgate.net/publication/277621523_Forensic_analysis_of_video_steganography_tools/download) | A research paper on forensic analysis of video steganography tools.                                                                                         |
+| [Aletheia](https://github.com/daniellerch/aletheia)                                                                                                           | A tool for image steganalysis using state-of-the-art machine learning techniques.                                                                           |
+| [Danielle Lerch's Papers](https://github.com/daniellerch/papers)                                                                                              | A collection of research papers on steganalysis and related topics.                                                                                         |
+| [Steganalysis with CNN for Same Key Images](https://github.com/rcouturier/steganalysis_with_CNN_for_same_key_images)                                          | A project for steganalysis using convolutional neural networks (CNN) for same key images.                                                                   |
+| [DeepSteg](http://www.deepsteg.com/)                                                                                                                          | Deepsteg performs visual, structural, and statistical attacks (including deep learning-based attacks) to detect files hidden within images and other files. |
+| [tf_audio_steganalysis](https://github.com/Charleswyt/tf_audio_steganalysis)                                                                                  | A project for steganalysis of audio files using TensorFlow.                                                                                                 |
+| [SteganalysisCNN](https://github.com/rabi3elbeji/SteganalysisCNN)                                                                                             | A steganalysis project using convolutional neural networks (CNN).                                                                                           |
+| [ALASKA](https://github.com/YassineYousfi/alaska)                                                                                                             | A large-scale image steganalysis dataset.                                                                                                                   |
+| [IStego100K](https://github.com/YangzlTHU/IStego100K)                                                                                                         | A large-scale image steganalysis dataset.                                                                                                                   |
+| [StegOnline](https://github.com/Ge0rg3/StegOnline)                                                                                                            | An online tool for hiding and extracting hidden messages in images.                                                                                         |
+| [Steganabara](https://github.com/quangntenemy/Steganabara)                                                                                                    | A tool for steganography analysis.                                                                                                                          |
+| [Stegasawus](https://github.com/rokkuran/stegasawus)                                                                                                          | A steganography analysis tool.                                                                                                                              |
+| [UDSS](https://github.com/rabi3elbeji/udss)                                                                                                                   | A project for universal deep steganalysis systems.                                                                                                          |
+| [BreakingSteganalysisGAN](https://github.com/Chenlang2018/BreakingSteganalysisGAN)                                                                            | A project on breaking steganalysis using generative adversarial networks (GAN).                                                                             |
+| [Steganalyse](https://github.com/jessica0x73/steganalyse)                                                                                                     | A steganalysis tool.                                                                                                                                        |
+| [StegCracker](https://github.com/Paradoxis/StegCracker)                                                                                                       | A tool for brute-forcing passwords of hidden data in steganographic images.                                                                                 |
+| [Welloganography Solver](https://github.com/welloworld/welloganography-solver)                                                                                | A steganography analysis tool.                                                                                                                              |
+| [McAfee Free Tools - Steganography](https://www.mcafee.com/enterprise/en-sg/downloads/free-tools/steganography.html)                                          | A collection of free steganography tools provided by McAfee.                                                                                                |
+| [Mistica](https://github.com/IncideDigital/Mistica)                                                                                                           | A steganography analysis tool.                                                                                                                              |
+| [Cookie Stego](https://github.com/javierwilson/cookie-stego)                                                                                                  | A steganography tool for hiding and extracting hidden messages in images.                                                                                   |
+| [AperiSolve](https://github.com/Zeecka/AperiSolve)                                                                                                            | A steganography analysis tool.                                                                                                                              |
+| [Steganalysis](https://github.com/librauee/Steganalysis)                                                                                                      | A steganalysis project.                                                                                                                                     |
+| [YeNet-Pytorch](https://github.com/Caenorst/YeNet-Pytorch)                                                                                                    | A project for steganalysis using YeNet and PyTorch.                                                                                                         |
+| [Steganalysis with CNN - Yedroudj-Net](https://github.com/yedmed/steganalysis_with_CNN_Yedroudj-Net)                                                          | A steganalysis project using convolutional neural networks (CNN) - Yedroudj-Net.                                                                            |
+| [Pytorch implementation of SRNet](https://github.com/brijeshiitg/Pytorch-implementation-of-SRNet)                                                             | A project for steganalysis using SRNet and PyTorch.                                                                                                         |
+| [LSB Toolkit](https://github.com/luca-m/lsb-toolkit)                                                                                                          | A toolkit for steganography using least significant bit (LSB) techniques.                                                                                   |
+| [CAECNNcode](https://github.com/jiangszzzzz/CAECNNcode)                                                                                                       | A project for steganalysis using convolutional neural networks (CNN).                                                                                       |
+| [Stegolab](https://github.com/daniellerch/stegolab)                                                                                                           | A steganography and steganalysis toolkit.                                                                                                                   |
+| [DL Steganalysis](https://github.com/aminfazy/DL_steganalysis)                                                                                                | A project for steganalysis using deep learning techniques.                                                                                                  |
+| [Audio Steganalysis](https://github.com/Linyuzhen/audio_steganalysis)                                                                                         | A project for steganalysis of audio files.                                                                                                                  |
+| [Audio Steganalysis CNN](https://github.com/bolin-chen/audio-steganalysis-cnn)                                                                                | A project for steganalysis of audio files using convolutional neural networks (CNN).                                                                        |
+| [DeepSteg](https://github.com/deepsteg/deepsteg)                                                                                                              | A steganalysis tool for detecting hidden data in images using deep learning techniques.                                                                     |
+| [Stegasaurus2](https://github.com/dfish13/Stegasaurus2)                                                                                                       | A steganography analysis tool.                                                                                                                              |
+
+
+## 4. [↑](#-content) Forensic & Malware Analysis
+
+### 4.1 [↑](#-content) Forensic
+
+| Tools                                                                                                  | Description                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Autopsy](http://www.sleuthkit.org/autopsy/)                                                           | Digital forensics platform and graphical interface for The Sleuth Kit and other tools.                                                                              |
+| [sleuthkit](https://github.com/sleuthkit/sleuthkit)                                                    | A collection of command-line digital forensics tools and library.                                                                                                   |
+| [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx)                | Suite of digital investigation products by Guidance Software.                                                                                                       |
+| [malzilla](http://malzilla.sourceforge.net/)                                                           | Malware hunting tool for analysis and detection.                                                                                                                    |
+| [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) | Brazilian Federal Police forensic investigation tool.                                                                                                               |
+| [CyLR](https://github.com/orlikoski/CyLR)                                                              | NTFS forensic image collector for forensic investigations.                                                                                                          |
+| [CAINE](https://www.caine-live.net/)                                                                   | Ubuntu-based tool that provides a complete forensic environment with a graphical interface.                                                                         |
+| [Volatility](https://www.volatilityfoundation.org/)                                                    | Framework for memory forensics and analysis of volatile memory.                                                                                                     |
+| [Redline](https://www.fireeye.com/services/freeware/redline.html)                                      | Host investigation and data acquisition tool.                                                                                                                       |
+| [REKALL](https://github.com/google/rekall)                                                             | Memory analysis and forensics framework.                                                                                                                            |
+| [Log2Timeline (Plaso)](https://plaso.readthedocs.io/)                                                  | Tool for creating timelines for forensic analysis.                                                                                                                  |
+| [Cyber Triage](https://cybersectools.com/tools/cyber-triage)                                           | Automated DFIR software for investigating malware, ransomware, and account takeovers.                                                                               |
+| [Dumpzilla](https://cybersectools.com/tools/dumpzilla)                                                 | Tool to extract forensic data from Firefox, Iceweasel, and Seamonkey browsers.                                                                                      |
+| [DFTimewolf](https://cybersectools.com/tools/dftimewolf)                                               | Framework for orchestrating forensic collection, processing, and export.                                                                                            |
+| [IPED Digital Forensic Tool](https://cybersectools.com/tools/iped-digital-forensic-tool)               | Open-source tool for analyzing disk images and file systems.                                                                                                        |
+| [Volatility 3](https://cybersectools.com/tools/volatility-3)                                           | Framework for extracting data from volatile memory for system state analysis.                                                                                       |
+| [Binalyze AIR](https://cybersectools.com/tools/binalyze-air)                                           | Digital forensics platform for comprehensive incident response.                                                                                                     |
+| [TestDisk](https://cybersectools.com/tools/testdisk)                                                   | Data recovery software for recovering lost partitions and undeleting files.                                                                                         |
+| [WinHex](https://cybersectools.com/tools/winhex)                                                       | Universal hex editor for forensics, data recovery, and IT security tasks.                                                                                           |
+| [Skadi](https://cybersectools.com/tools/skadi)                                                         | Open-source tools for forensic artifact and image analysis.                                                                                                         |
+| [Hoarder](https://cybersectools.com/tools/hoarder)                                                     | Tool for collecting and parsing Windows artifacts for digital forensics.                                                                                            |
+| [libregf](https://cybersectools.com/tools/libregf)                                                     | Library for accessing and parsing Windows NT Registry files.                                                                                                        |
+| [Radare2](https://cybersectools.com/tools/radare2)                                                     | Powerful framework for reverse engineering and binary analysis.                                                                                                     |
+| [Silk Guardian](https://cybersectools.com/tools/silk-guardian)                                         | Anti-forensic Linux kernel module that acts as a USB port kill-switch.                                                                                              |
+| [evtkit](https://cybersectools.com/tools/evtkit)                                                       | Tool for fixing acquired Windows Event Log files.                                                                                                                   |
+| [Pancake Viewer](https://cybersectools.com/tools/pancake-viewer)                                       | DFVFS-backed viewer for file extraction and viewing.                                                                                                                |
+| [Mobile Verification Toolkit (MVT)](https://cybersectools.com/tools/mobile-verification-toolkit)       | Forensic tool for gathering traces from Android and iOS devices.                                                                                                    |
+| [Turbinia](https://cybersectools.com/tools/turbinia)                                                   | Framework for automating forensic processing in cloud environments.                                                                                                 |
+| [Belkasoft Evidence Center](https://cybersectools.com/tools/belkasoft-evidence-center)                 | Comprehensive digital forensics and incident response platform.                                                                                                     |
+| [libevt](https://cybersectools.com/tools/libevt)                                                       | Library for parsing Windows Event Logs for forensic analysis.                                                                                                       |
+| [Sherloq](https://github.com/GuidoBartoli/sherloq)                                                     | An open-source digital image forensic toolset.                                                                                                                      |
+| [Kuiper](https://github.com/DFIRKuiper/Kuiper)                                                         | Kuiper is a digital investigation platform that provides a capabilities for the investigation team and individuals to parse, search, visualize collected evidences. |
+| [RegRipper4.0](https://github.com/keydet89/RegRipper4.0)                                               | The key tool for forensic analysis of Windows DAT.                                                                                                                  |
+
+### 4.2 [↑](#-content) Hex editors
+
+| Tools                                             | Description                                                                                                                 |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| [HxD](http://mh-nexus.de/en/hxd/)                 | A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size          |
+| [WinHex](http://www.winhex.com/winhex/)           | A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security |
+| [wxHexEditor](https://github.com/EUA/wxHexEditor) |                                                                                                                             |
+| [Synalize It](https://www.synalysis.net/)         |                                                                                                                             |
+| [Hexinator](https://hexinator.com/)               |                                                                                                                             |
+| [010 Editor](https://www.sweetscape.com/010editor/) |Edit text files, XML, HTML, Unicode and UTF-8 files, C/C++ source code, PHP, etc. Unlimited undo and powerful editing and scripting tools.  |
+| [ImHex](https://github.com/WerWolv/ImHex) |A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. Fully free. |
+
+## 4.3 [↑](#-content) Execution logging and tracing
+
+| Tools                                                                                                                                                                                                        | Description                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| [Wireshark](https://www.wireshark.org/)                                                                                                                                                                      | A free and open-source packet analyzer for network protocol analysis.                                      |
+| [tcpdump](http://www.tcpdump.org/)                                                                                                                                                                           | A powerful command-line packet analyzer, along with libpcap for network traffic capture.                   |
+| [mitmproxy](https://github.com/mitmproxy/mitmproxy)                                                                                                                                                          | An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.                     |
+| [Charles Proxy](https://charlesproxy.com)                                                                                                                                                                    | A cross-platform GUI web debugging proxy for viewing intercepted HTTP and HTTPS/SSL live traffic.          |
+| [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt)                                                                                                                                            | USB capture tool for Linux, used for monitoring USB traffic.                                               |
+| [USBPcap](https://github.com/desowin/usbpcap)                                                                                                                                                                | USB capture tool for Windows, useful for monitoring USB traffic.                                           |
+| [dynStruct](https://github.com/ampotos/dynStruct)                                                                                                                                                            | A tool for structure recovery via dynamic instrumentation.                                                 |
+| [drltrace](https://github.com/mxmssh/drltrace)                                                                                                                                                               | A tool for tracing shared library calls.                                                                   |
+| [Research on CMSTP.exe](https://msitpros.com/?p=3960)                                                                                                                                                        | Detailed research on using CMSTP.exe for bypassing security restrictions and executing arbitrary code.     |
+| [Windows oneliners to download remote payload and execute arbitrary code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)                | Explains one-liner PowerShell commands for downloading and executing malicious payloads.                   |
+| [Executing Commands and Bypassing AppLocker with PowerShell Diagnostic Scripts](https://bohops.com/2017/12/02/clickonce-twice-or-thrice-a-technique-for-social-engineering-and-untrusted-command-execution/) | Demonstrates techniques for bypassing AppLocker and executing commands with PowerShell diagnostic scripts. |
+| [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)                                                                                                           | A case study on exploiting Windows Script Host (WSH) injection for command execution.                      |
+| [Gscript Dropper](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)                                                                                                            | Introduction to using Gscript as a dropper tool in red team operations.                                    |
+
+### [↑](#-content) 4.4 Malware Analysis
+
+| Tool                                                                                       | Description                                                                   |
+| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| [Yabin](https://cybersectools.com/tools/yabin)                                             | Creates Yara signatures from malware to identify similar samples.             |
+| [Any Run](https://cybersectools.com/tools/anyrun)                                          | Interactive malware sandbox for real-time analysis and threat intelligence.   |
+| [Bluepot](https://cybersectools.com/tools/bluepot)                                         | Bluetooth honeypot for monitoring and capturing malicious activity.           |
+| [Elastic Security YARA Rules](https://cybersectools.com/tools/elastic-security-yara-rules) | Signature-based YARA rules for detecting threats across multiple platforms.   |
+| [YARA-Signator](https://cybersectools.com/tools/yara-signator)                             | Automatically generates YARA rules for malware repositories.                  |
+| [MalShare](https://cybersectools.com/tools/malshare)                                       | Platform for uploading, searching, and downloading malware samples.           |
+| [The DFIR Report](https://cybersectools.com/tools/dfir-report)                             | In-depth threat intelligence reports and services.                            |
+| [Mobile Audit](https://cybersectools.com/tools/mobile-audit)                               | SAST and malware analysis tool for Android APKs.                              |
+| [Mastiff](https://cybersectools.com/tools/mastiff)                                         | Static analysis framework for extracting key characteristics from files.      |
+| [Malheur](https://cybersectools.com/tools/malheur)                                         | Tool for automatic analysis of malware behavior using machine learning.       |
+| [PyaraScanner](https://cybersectools.com/tools/pyarascanner)                               | Multithreaded YARA scanner for incident response or malware zoos.             |
+| [Static File Analyzer (SFA)](https://cybersectools.com/tools/static-file-analyzer)         | A deep analysis tool for malicious files using ClamAV and YARA rules.         |
+| [Yara Decompressor](https://cybersectools.com/tools/yara-decompressor)                     | Tool to decompress malware samples for running YARA rules.                    |
+| [Shotgunyara](https://cybersectools.com/tools/shotgunyara)                                 | Generates YARA rules for various string and encoded malware variations.       |
+| [VxSig](https://cybersectools.com/tools/vxsig)                                             | Automatically generates AV byte signatures for similar binaries.              |
+| [Hybrid-Analysis](https://cybersectools.com/tools/hybrid-analysis)                         | Provides in-depth static and dynamic analysis of files.                       |
+| [Findom-XSS](https://cybersectools.com/tools/findom-xss)                                   | A simple DOM-based XSS vulnerability scanner.                                 |
+| [Dalfox](https://cybersectools.com/tools/dalfox)                                           | Powerful open-source XSS scanner for automation.                              |
+| [PyLibEmu](https://cybersectools.com/tools/pylibemu)                                       | Python wrapper for Libemu for shellcode analysis.                             |
+| [Yara Station](https://cybersectools.com/tools/yara-station)                               | Management portal for LoKi scanner with a centralized database.               |
+| [NodeYara](https://cybersectools.com/tools/nodeyara)                                       | Yara module for Node.js for scanning with Yara rules.                         |
+| [Malware Traffic Analysis](https://cybersectools.com/tools/malware-traffic-analysis)       | Analyzes malicious network traffic to detect malware activity.                |
+| [Yara-Rust](https://cybersectools.com/tools/yara-rust)                                     | Yara bindings for Rust supporting various features like rule compilation.     |
+| [Yara Rule Generator](https://cybersectools.com/tools/yara-rule-generator)                 | A tool for creating YARA rules quickly to isolate malware families.           |
+| [StringSifter](https://cybersectools.com/tools/stringsifter)                               | A machine learning tool for ranking strings for malware analysis.             |
+| [Inlyse](https://cybersectools.com/tools/inlyse)                                           | AI-based IT security platform for identifying and stopping advanced malware.  |
+| [yarGen](https://cybersectools.com/tools/yargen)                                           | Generates YARA rules by extracting strings from malware files.                |
+| [Cuckoo Sandbox](https://cybersectools.com/tools/cuckoo-sandbox)                           | Automated malware analysis and detection in an isolated environment.          |
+| [Vaya-Ciego-Nen](https://cybersectools.com/tools/vaya-cego-nen)                            | Tool to detect and exploit Blind XSS vulnerabilities.                         |
+| [BruteXSS](https://cybersectools.com/tools/brutexss)                                       | Finds Cross-Site Scripting (XSS) vulnerabilities in web applications.         |
+| [Findsploit](https://cybersectools.com/tools/findsploit)                                   | Instantly find exploits from local and online databases.                      |
+| [xssor2](https://cybersectools.com/tools/xssor2)                                           | Tool for testing and exploiting XSS vulnerabilities.                          |
+| [CFR](https://cybersectools.com/tools/cfr)                                                 | Java decompiler supporting features up to Java 14.                            |
+| [ReFlutter](https://cybersectools.com/tools/reflutter)                                     | Framework for reverse engineering Flutter apps.                               |
+| [Dwarf Debugger](https://cybersectools.com/tools/dwarf-debugger)                           | A debugger for reverse engineers and security analysts.                       |
+| [Triton](https://cybersectools.com/tools/triton)                                           | Dynamic binary analysis library with emulation capabilities.                  |
+| [Klara](https://cybersectools.com/tools/klara)                                             | Distributed Python system to help hunt for new malware using Yara rules.      |
+| [Android Malware Sandbox](https://cybersectools.com/tools/android-malware-sandbox)         | Sandbox for analyzing Android malware.                                        |
+| [Fabric Platform](https://cybersectools.com/tools/fabric-platform)                         | Automates cybersecurity reporting with open-source tools and templates.       |
+| [Wiz](https://cybersectools.com/tools/wiz)                                                 | Cloud-native security platform for detecting and preventing security threats. |
+| [XSSCon](https://cybersectools.com/tools/xsscon)                                           | A simple XSS scanner for detecting vulnerabilities.                           |
+| [GitHunter](https://cybersectools.com/tools/githunter)                                     | Searches Git repositories for sensitive data.                                 |
+| [jwt-key-id-injector](https://cybersectools.com/tools/jwt-key-id-injector)                 | Python script to test for JWT vulnerabilities.                                |
+| [qsfuzz](https://cybersectools.com/tools/qsfuzz)                                           | Fuzzes query strings to identify security vulnerabilities.                    |
+| [Weaponised-XSS-payloads](https://cybersectools.com/tools/weaponised-xss-payloads)         | A collection of XSS payloads for exploiting web vulnerabilities.              |
+| [XSSor](https://cybersectools.com/tools/xssor)                                             | A tool for exploiting and testing XSS vulnerabilities in web apps.            |
+| [ReClass](https://cybersectools.com/tools/reclass)                                         | A reverse engineering tool for Windows executable analysis.                   |
+| [Malwover](https://cybersectools.com/tools/malwover)                                       | Malware detection and prevention for advanced cyber threats.                  |
+| [Odin](https://cybersectools.com/tools/odin)                                               | Malware analysis platform with advanced threat detection.                     |
+| [Distribute](https://cybersectools.com/tools/distribute)                                   | Malware analysis tool that helps distribute files for analysis.               |
+| [YaraStation](https://cybersectools.com/tools/yarastation)                                 | Management portal for Yara rule-based malware scanning.                       |
+| [CAPE](https://cybersectools.com/tools/cape)                                               | Malware sandbox designed for executing and analyzing malicious files.         |
+| [Sandboxie-Plus](https://sandboxie-plus.com/downloads)                                     | Another Malaware sandbox and might be a better option if your testing runs.   |
+| [Hybrid-Analysis](https://www.hybrid-analysis.com)    | Hybrid Analysis is a Malaware analysis service it's free and has ai or someone does it for free it's reliable and more accurate than total virus.    |
+
+
+## 5. [↑](#-content) Anonymity and Security Tools
+
+### [↑](#-content) 5.1 Delete Your Trace
+
+| Tool                                      | Description                                               |
+| ----------------------------------------- | --------------------------------------------------------- |
+| [Redact](https://redact.dev/)             | Delete all you comments, likes... of your social acounts. |
+| [DeleteMe](https://joindeleteme.com/)     | Delete your information on all your accounts.             |
+| [incogni](https://incogni.com/)           | Delete your information of databrokers.                   |
+| [JustDeleteMe](https://justdeleteme.xyz/) | Delete your accounts.                                     |
+
+
+### [↑](#-content) 5.2 Password Managers
+
+| Resource                         | Price | Description                                        |
+| -------------------------------- | ----- | -------------------------------------------------- |
+| [Keepass](https://keepass.info/) | Free  | Available on windows, linux, mac, IOS and Android. |
+| [Bitwarden](https://bitwarden.com/)                    | Freemium | A password manager that securely stores manages and syncs credentials across any browsers or devices. |
+
+### [↑](#-content) 5.3 VPNs
+
+| Resource                             | Price                      | Description                                                                                                                                        |
+| ------------------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Mullvad VPN](https://mullvad.net/)  | 5€/month                   | A privacy-focused VPN service that offers anonymous internet browsing with no personal information required for registration.                      |
+| [Proton VPN](https://protonvpn.com/) | Free & Paid (Subscription) | A secure VPN service that prioritizes privacy, offering both free and premium plans with strong encryption and no-logs policy.                     |
+| [IVPN](https://www.ivpn.net/)        | Paid (Subscription)        | A privacy-focused VPN service offering strong encryption, a strict no-logs policy, and advanced features like multi-hop VPN for enhanced security. |
+
+
+## 6. [↑](#-content) Utility & Miscellaneous
+
+### 6.1 [↑](#-content) Utility
+
+| **Tool**                                                                                           | **Description**                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Hashcat Pass Recovery](https://hashcat.net/cap2hashcat/)                                          | Password recovery utility for cracking hashes.                                                                                                                                              |
+| [BrowserLeaks](https://browserleaks.com)                                                           | Suite of tools to test the security and privacy of your web browser.                                                                                                                        |
+| [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)                     | Check if your email address or domain was compromised in global Infostealer malware attacks                                                                                                 |
+| [CavalierGPT - The First Comprehensive Infostealers AI Bot](http://www.hudsonrock.com/cavaliergpt) | CavalierGPT retrieves and curates information from various Hudson Rock endpoints, enabling investigators to delve deeper into cybersecurity threats with unprecedented ease and efficiency. |
+| [Gravwell Community Edition](https://www.gravwell.io/gravwell-community-edition-plan)              | Full featured unstructured log SIEM/Security Data Lake with raw binary/pcap support                                                                                                         |
+| [VigilantOnion](https://github.com/andreyglauzer/VigilantOnion)                                    | Crawls and monitors .onion sites for specified keywords or changes.                                                                                                                         |
+| [OnionIngestor](https://github.com/danieleperera/OnionIngestor)                                    | Gathers data from Tor hidden services for analysis or intelligence purposes.                                                                                                                |
+| [DumpsterDiver](https://github.com/securing/DumpsterDiver)                                                           | DumpsterDiver is a tool, which can analyze big volumes of data in search of hardcoded secrets like keys (e.g. AWS Access Key, Azure Share Key or SSH keys) or passwords.                                                                                                                        |
+
+### 6.2 [↑](#-content) Miscellaneous
+
+| **Tool**                                                                                                                                               | **Description**                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| [GetAllURLs (gau)](https://cybersectools.com/tools/getallurls-gau)                                                                                     | Collects existing URLs for a domain from sources like Wayback Machine, URLScan, and AlienVault. |
+| [Guardey](https://cybersectools.com/tools/guardey)                                                                                                     | Offers gamified training and content for improving cybersecurity awareness.                     |
+| [NightShade](https://cybersectools.com/tools/nightshade)                                                                                               | Framework for designing and executing CTF challenges with a focus on security.                  |
+| [Smali/Baksmali mode for Emacs](https://cybersectools.com/tools/smali-baksmali-mode-for-emacs)                                                         | Improves Emacs usability for reading Smali code, aiding Android reverse engineering.            |
+| [Ctf-writeups](https://cybersectools.com/tools/ctf-writeups)                                                                                           | Detailed explanations and solutions for Capture the Flag (CTF) challenges.                      |
+| [Secrets of a High Performance Security-Focused Agile Team](https://cybersectools.com/tools/secrets-of-a-high-performance-security-focused-agile-team) | Best practices for incorporating security into agile development processes.                     |
+| [Dalvik Opcodes](https://cybersectools.com/tools/dalvik-opcodes)                                                                                       | A guide to Dalvik VM instructions, useful for analyzing Android applications.                   |
+| [AWS Config](https://cybersectools.com/tools/aws-config)                                                                                               | Evaluates and audits AWS resource configurations for compliance and security.                   |
+| [DeepDarkCTI](https://github.com/fastfire/deepdarkCTI)                                                                                                 | Cyber threat intelligence tool for monitoring and analyzing the dark web.                       |
+
+
+
+### 6.3 [↑](#-content) News
 
 | Tools                                               | Description                                                                                                                                                      |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [WolrdEinnwes](https://world.einnews.com)           | News and search engine tools.                                                                                                                                    |
 | [IT Security Guru](https://www.itsecurityguru.org/) | IT Security Guru is a top resource for the latest cybersecurity news, covering threats, data breaches, and expert insights to help you stay informed and secure. |
 
-#### 7. [↑](#-content) Search Engines
+### 6.4 [↑](#-content) Search Engines
 
 | Tools                                                                | Description                                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -570,7 +1090,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [DorkGPT](https://www.dorkgpt.com/)                                  | OSINT tool for automated Google dorking and advanced searches.                                                                                                                                                                                        |
 | [ZoomEye](https://ZoomEye.ai)                                        | ZoomEye is a cyberspace search engine for detailed website investigation and cybersecurity analysis.                                                                                                                                                                                                     |
 
-#### 8. [↑](#-content) DNS/IP
+### 6.5 [↑](#-content) DNS/IP
 
 | Tools                                                                                                                                   | Description                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -621,194 +1141,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Check-The-Sum](https://www.checkthesum.com)                                                                                            | A database of malicious files, IPs, and domains collected from honeypots.                           |
 | [Adalanche](https://github.com/lkarlslund/Adalanche?tab=readme-ov-file)                                                                 | Open Source Active Directory ACL Visualizer and Explorer.                                           |
 
-#### 9. [↑](#-content) Post Explotation
-
-| Tools                                                         | Description                                                                         |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [Empire](https://github.com/EmpireProject/Empire)             | A post exploitation framework for powershell and python.                            |
-| [Silentrinity](https://github.com/byt3bl33d3r/SILENTTRINITY)  | A post exploitation tool that uses iron python to get past powershell restrictions. |
-| [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | A PowerShell post exploitation framework.                                           |
-| [ebowla](https://github.com/Genetic-Malware/Ebowla)           | Framework for Making Environmental Keyed Payloads.                                  |
-
-#### 10. [↑](#-content) Deobfuscators
-
-| Tools                                     | Description                                                                                    |
-| ----------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [JS Nice](http://jsnice.org/)             | Web service guessing JS variables names and types based on the model derived from open source. |
-| [de4dot](https://github.com/0xd4d/de4dot) | .NET deobfuscator and unpacker.                                                                |
-
-#### 11. [↑](#-content) Decompilers
-
-| Tools                                                    | Description                                                                                                                                          |
-| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [uncompyle6](https://github.com/rocky/python-uncompyle6) | Decompiler for the over 20 releases and 20 years of CPython.                                                                                         |
-| [Hopper](https://www.hopperapp.com/)                     | A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.                                                            |
-| [Karkatau](https://github.com/Storyyeller/Krakatau)      | The best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully. |
-| [dnSpy](https://github.com/0xd4d/dnSpy)                  | .NET assembly editor, decompiler, and debugger                                                                                                       |
-| [ILSpy](https://github.com/icsharpcode/ILSpy/)           | An open-source .NET assembly browser and decompiler                                                                                                  |
-| [DotPeek](https://www.jetbrains.com/decompiler/)         | A free-of-charge .NET decompiler from JetBrains                                                                                                      |
-| [JADX](https://github.com/skylot/jadx)                   | Decompiler for Android apps. Not related to JAD.                                                                                                     |
-| [JAD](http://varaneckas.com/jad/)                        | JAD Java Decompiler (closed-source, unmaintained)                                                                                                    |
-| [Luyten](https://github.com/deathmarine/Luyten)          | One of the best, though a bit slow, hangs on some binaries and not very well maintained.                                                             |
-| [R2Dec](https://github.com/wargio/r2dec-js)              | Decompiler plugin for radare2                                                                                                                        |
-| [Decai](https://github.com/radareorg/r2ai)               | LLM-based decompiler for radare2                                                                                                                     |
-| [BinaryNinja](https://binary.ninja/) | Binary Ninja is an interactive decompiler, disassembler, debugger, and binary analysis platform built by reverse engineers, for reverse engineers. |
-
-#### 12. [↑](#-content) Disassembler and debuggers
-
-| Tools                                                 | Description                                                                                     |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [IDA](https://www.hex-rays.com/products/ida/)         | Multi-platform disassembler and debugger for Windows, Linux, and macOS.                         |
-| [Olly](http://www.ollydbg.de/)                        | 32-bit assembler-level debugging tool for Windows.                                              |
-| [plasma](https://github.com/joelpx/plasma)            | Interactive disassembler for x86, ARM, and MIPS, with indented pseudo-code and syntax coloring. |
-| [radare2](https://github.com/radare/radare2)          | Portable and versatile reverse engineering framework.                                           |
-| [iaito](https://github.com/radareorg/iaito)           | Graphical interface for the radare2 reverse engineering framework.                              |
-| [x64dbg](https://github.com/x64dbg/x64dbg)            | Open-source debugger for x64 and x32 applications on Windows.                                   |
-| [ScratchABit](https://github.com/pfalcon/ScratchABit) | Customizable and hackable disassembler with support for IDAPython-compatible plugins.           |
-| [Ghidra](https://ghidra-sre.org/)                     | Comprehensive reverse engineering suite developed by the NSA.                                   |
-
-#### 13. [↑](#-content) Web
-
-| Web                                                       | Description                                                                                                                                 |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Cyberbro](https://github.com/stanfrbd/cyberbro)          | A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services (API and scraping). |
-| [recon-ng](https://github.com/lanmaster53/recon-ng)       | Web reconnaissance framework for gathering OSINT.                                                                                           |
-| [Katana](https://github.com/projectdiscovery/katana)                                                  | A web reconnaissance tool, recognized for web crawling and spidering.                                     |
-| [Waybackurls](https://github.com/tomnomnom/waybackurls)                                               | A tool for extracting historical URLs from the Wayback Machine, helping to discover hidden or outdated web resources.                                       |
-| [SpySe](https://spyse.com/)                               | Data gathering service offering detailed information on IPs, domains, ports, technologies, and more through OSINT.                          |
-| [Git-Scanner](https://github.com/HightechSec/git-scanner) | Tool for bug hunting or penetration testing to find exposed .git repositories.                                                              |
-| [Keyscope](https://github.com/SpectralOps/keyscope)       | Key and secret auditing tool that checks secrets against multiple SaaS platforms.                                                           |
-| [VHostScan](https://github.com/codingo/VHostScan)         | Virtual host scanner that performs reverse lookups and detects dynamic default pages, aliases, and catch-all configurations.                |
-| [Shodan](https://www.shodan.io/)                          | Search engine for finding servers and devices connected to the internet.                                                                    |
-| [SubFinder](https://github.com/subfinder/subfinder)       | Tool for discovering valid subdomains through passive online sources.                                                                       |
-| [sqlmap](https://github.com/sqlmapproject/sqlmap)         | Automatic SQL injection tool for database takeover.                                                                                         |
-| [URLVoid](https://www.urlvoid.com/)                       | Website reputation checker that scans URLs for safety using multiple security engines and blocklists.                  |
-| [Gobuster](https://github.com/OJ/gobuster/releases/tag/v3.6.0)                       | Gobuster is a fast and efficient tool used in penetration testing and ethical hacking for discovering hidden directories, files, DNS subdomains, and virtual hostnames on a web server. It works by brute-forcing web server paths or subdomains using wordlists.                                |
-| [Ffuf](https://github.com/ffuf/ffuf)                                                                  | An alternative for fast web fuzzing based on Golang, used for discovering hidden files, directories, sub-domains, VHosts and resources by brute-forcing URL paths.                                                                                                |
-| [Httpx](https://github.com/projectdiscovery/httpx)                                                    | A fast and efficient multi-purpose tool for probing and discovering HTTP-based services, performing various checks like SSL/TLS, redirects, and more.                                                                                                             |
-| [SecLists](https://github.com/danielmiessler/SecLists) | Seclist is a depository full if word list I use it for Gobuster and other brute forcing aapplications. It has a variety of wordlists for your needs of small wordlists to large wordlists.|
-| [Burp Suite](https://portswigger.net/burp/documentation/desktop/getting-started/download-and-install) | A powerful GUI based integrated platform for web application security testing, offering tools for intercepting traffic, scanning vulnerabilities, brute-forcing and exploiting security flaws.                                                                    |
 
 
-#### 14. [↑](#-content) Network
-
-| Tools                                                                 | Description                                                                                      |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [NetworkMiner](http://www.netresec.com/?page=NetworkMiner)            | Network Forensic Analysis Tool (NFAT) for analyzing network traffic.                             |
-| [Paros](http://sourceforge.net/projects/paros/)                       | Java-based HTTP/HTTPS proxy for web application vulnerability assessment.                        |
-| [pig](https://github.com/rafael-santiago/pig)                         | Linux-based packet crafting tool.                                                                |
-| [cirt-fuzzer](http://www.cirt.dk/)                                    | Simple TCP/UDP protocol fuzzer for vulnerability testing.                                        |
-| [ASlookup](https://aslookup.com/)                                     | Tool for exploring autonomous systems with related data (CIDR, ASN, Org).                        |
-| [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) | Integrated penetration testing tool for identifying vulnerabilities in web applications.         |
-| [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j)                 | Man-in-the-middle SOCKS proxy for Java.                                                          |
-| [ssh-mitm](https://github.com/jtesta/ssh-mitm)                        | SSH/SFTP man-in-the-middle tool for logging sessions and passwords.                              |
-| [nmap](https://nmap.org/)                                             | Security scanner for network exploration and vulnerability scanning.                             |
-| [Nipe](https://github.com/GouveaHeitor/nipe)                          | Script to route traffic through the Tor network.                                                 |
-| [Habu](https://github.com/portantier/habu)                            | Python toolkit for network hacking.                                                              |
-| [Wifi Jammer](https://n0where.net/wifijammer/)                        | Program to jam all Wi-Fi clients in range.                                                       |
-| [Firesheep](https://codebutler.github.io/firesheep/)                  | HTTP session hijacking attack tool.                                                              |
-| [Scapy](https://github.com/secdev/awesome-scapy)                      | Python tool for creating and manipulating network packets.                                       |
-| [Amass](https://github.com/OWASP/Amass)                               | Subdomain enumeration tool with scraping, brute forcing, crawling, and reverse DNS capabilities. |
-| [sniffglue](https://github.com/kpcyrd/sniffglue)                      | Multithreaded secure packet sniffer.                                                             |
-| [Netz](https://github.com/spectralops/netz)                           | Tool for discovering internet-wide misconfigurations using zgrab2.                               |
-| [RustScan](https://github.com/rustscan/rustscan)                      | Fast port scanner using Rust, designed for quick scanning and integration with Nmap.             |
-| [PETEP](https://github.com/Warxim/petep)                              | Extensible TCP/UDP proxy for traffic analysis and modification with SSL/TLS support.             |
-| [TorCrawl](https://github.com/MikeMeliz/TorCrawl.py)                  | Python-based tool to crawl .onion websites efficiently.                                          |
-| [Midnight Sea](https://github.com/RicYaben/midnight_sea)              | A dark web crawler designed for flexibility and integration with analysis tools.                 |
-| [Wireshark](https://www.wireshark.org/)                        | A network protocol analyzer for capturing and analyzing network packets.            |
-| [Bettercap](https://www.bettercap.org/)                       | A powerful tool for man-in-the-middle attacks, network sniffing, and WiFi exploitation. |
-| [Ettercap](https://github.com/Ettercap/ettercap)              | A comprehensive suite for man-in-the-middle attacks on LANs and WiFi networks.       |
-| [Kismet](https://kismetwireless.net/)                          | A wireless network detector, sniffer, and intrusion detection system.                |
-| [Tcpdump](https://www.tcpdump.org/)                           | A command-line packet analyzer for capturing and analyzing network traffic.         |
-| [Netcat](https://nmap.org/ncat/)                              | A networking utility for reading and writing data across networks, often used for debugging. |
-| [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)   | A post-exploitation tool for pentesters to automate common tasks against networks.   |
-| [Burp Suite](https://portswigger.net/burp)                    | A comprehensive suite for web application security testing, including WiFi-related vulnerabilities. |
-| [Responder](https://github.com/SpiderLabs/Responder)          | A tool for poisoning network traffic and conducting man-in-the-middle attacks.       |
-| [SSLstrip](https://github.com/moxie0/sslstrip)                | A tool that downgrades HTTPS connections to HTTP, enabling interception of traffic.  |
-| [dnschef](https://github.com/iphelix/dnschef)                 | A DNS proxy tool that allows for DNS manipulation and phishing attacks.              |
-| [Fierce](https://github.com/darkoperator/fierce)              | A domain scanner tool for DNS reconnaissance, useful for network mapping.           |
-| [MitM](https://github.com/oxagast/mitm)                       | A man-in-the-middle framework for intercepting, modifying, and injecting traffic.    |
-| [HTTP Toolkit](https://httptoolkit.com/) |HTTP Toolkit is an open-source tool for debugging, testing and building with HTTP on Windows, Linux & Mac. 1 click setup for rooted devices. |
-
-
-#### 15. [↑](#-content) Cryptography
-
-| Tools                                            | Description                                                                            |
-| ------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| [xortool](https://github.com/hellman/xortool)    | A tool to analyze multi-byte XOR cipher                                                |
-| [John the Ripper](http://www.openwall.com/john/) | A fast password cracker                                                                |
-| [Aircrack](http://www.aircrack-ng.org/)          | Aircrack is 802.11 WEP and WPA-PSK keys cracking program.                              |
-| [Ciphey](https://github.com/ciphey/ciphey)       | Automated decryption tool using artificial intelligence & natural language processing. |
-
-#### 16. [↑](#-content) Forensic
-
-| Tools                                                                                                  | Description                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Autopsy](http://www.sleuthkit.org/autopsy/)                                                           | Digital forensics platform and graphical interface for The Sleuth Kit and other tools.                                                                              |
-| [sleuthkit](https://github.com/sleuthkit/sleuthkit)                                                    | A collection of command-line digital forensics tools and library.                                                                                                   |
-| [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx)                | Suite of digital investigation products by Guidance Software.                                                                                                       |
-| [malzilla](http://malzilla.sourceforge.net/)                                                           | Malware hunting tool for analysis and detection.                                                                                                                    |
-| [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) | Brazilian Federal Police forensic investigation tool.                                                                                                               |
-| [CyLR](https://github.com/orlikoski/CyLR)                                                              | NTFS forensic image collector for forensic investigations.                                                                                                          |
-| [CAINE](https://www.caine-live.net/)                                                                   | Ubuntu-based tool that provides a complete forensic environment with a graphical interface.                                                                         |
-| [Volatility](https://www.volatilityfoundation.org/)                                                    | Framework for memory forensics and analysis of volatile memory.                                                                                                     |
-| [Redline](https://www.fireeye.com/services/freeware/redline.html)                                      | Host investigation and data acquisition tool.                                                                                                                       |
-| [REKALL](https://github.com/google/rekall)                                                             | Memory analysis and forensics framework.                                                                                                                            |
-| [Log2Timeline (Plaso)](https://plaso.readthedocs.io/)                                                  | Tool for creating timelines for forensic analysis.                                                                                                                  |
-| [Cyber Triage](https://cybersectools.com/tools/cyber-triage)                                           | Automated DFIR software for investigating malware, ransomware, and account takeovers.                                                                               |
-| [Dumpzilla](https://cybersectools.com/tools/dumpzilla)                                                 | Tool to extract forensic data from Firefox, Iceweasel, and Seamonkey browsers.                                                                                      |
-| [DFTimewolf](https://cybersectools.com/tools/dftimewolf)                                               | Framework for orchestrating forensic collection, processing, and export.                                                                                            |
-| [IPED Digital Forensic Tool](https://cybersectools.com/tools/iped-digital-forensic-tool)               | Open-source tool for analyzing disk images and file systems.                                                                                                        |
-| [Volatility 3](https://cybersectools.com/tools/volatility-3)                                           | Framework for extracting data from volatile memory for system state analysis.                                                                                       |
-| [Binalyze AIR](https://cybersectools.com/tools/binalyze-air)                                           | Digital forensics platform for comprehensive incident response.                                                                                                     |
-| [TestDisk](https://cybersectools.com/tools/testdisk)                                                   | Data recovery software for recovering lost partitions and undeleting files.                                                                                         |
-| [WinHex](https://cybersectools.com/tools/winhex)                                                       | Universal hex editor for forensics, data recovery, and IT security tasks.                                                                                           |
-| [Skadi](https://cybersectools.com/tools/skadi)                                                         | Open-source tools for forensic artifact and image analysis.                                                                                                         |
-| [Hoarder](https://cybersectools.com/tools/hoarder)                                                     | Tool for collecting and parsing Windows artifacts for digital forensics.                                                                                            |
-| [libregf](https://cybersectools.com/tools/libregf)                                                     | Library for accessing and parsing Windows NT Registry files.                                                                                                        |
-| [Radare2](https://cybersectools.com/tools/radare2)                                                     | Powerful framework for reverse engineering and binary analysis.                                                                                                     |
-| [Silk Guardian](https://cybersectools.com/tools/silk-guardian)                                         | Anti-forensic Linux kernel module that acts as a USB port kill-switch.                                                                                              |
-| [evtkit](https://cybersectools.com/tools/evtkit)                                                       | Tool for fixing acquired Windows Event Log files.                                                                                                                   |
-| [Pancake Viewer](https://cybersectools.com/tools/pancake-viewer)                                       | DFVFS-backed viewer for file extraction and viewing.                                                                                                                |
-| [Mobile Verification Toolkit (MVT)](https://cybersectools.com/tools/mobile-verification-toolkit)       | Forensic tool for gathering traces from Android and iOS devices.                                                                                                    |
-| [Turbinia](https://cybersectools.com/tools/turbinia)                                                   | Framework for automating forensic processing in cloud environments.                                                                                                 |
-| [Belkasoft Evidence Center](https://cybersectools.com/tools/belkasoft-evidence-center)                 | Comprehensive digital forensics and incident response platform.                                                                                                     |
-| [libevt](https://cybersectools.com/tools/libevt)                                                       | Library for parsing Windows Event Logs for forensic analysis.                                                                                                       |
-| [Sherloq](https://github.com/GuidoBartoli/sherloq)                                                     | An open-source digital image forensic toolset.                                                                                                                      |
-| [Kuiper](https://github.com/DFIRKuiper/Kuiper)                                                         | Kuiper is a digital investigation platform that provides a capabilities for the investigation team and individuals to parse, search, visualize collected evidences. |
-| [RegRipper4.0](https://github.com/keydet89/RegRipper4.0)                                               | The key tool for forensic analysis of Windows DAT.                                                                                                                  |
-
-#### 17. [↑](#-content) Hex editors
-
-| Tools                                             | Description                                                                                                                 |
-| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [HxD](http://mh-nexus.de/en/hxd/)                 | A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size          |
-| [WinHex](http://www.winhex.com/winhex/)           | A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security |
-| [wxHexEditor](https://github.com/EUA/wxHexEditor) |                                                                                                                             |
-| [Synalize It](https://www.synalysis.net/)         |                                                                                                                             |
-| [Hexinator](https://hexinator.com/)               |                                                                                                                             |
-| [010 Editor](https://www.sweetscape.com/010editor/) |Edit text files, XML, HTML, Unicode and UTF-8 files, C/C++ source code, PHP, etc. Unlimited undo and powerful editing and scripting tools.  |
-| [ImHex](https://github.com/WerWolv/ImHex) |A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. Fully free. |
-
-#### 18. [↑](#-content) Execution logging and tracing
-
-| Tools                                                                                                                                                                                                        | Description                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| [Wireshark](https://www.wireshark.org/)                                                                                                                                                                      | A free and open-source packet analyzer for network protocol analysis.                                      |
-| [tcpdump](http://www.tcpdump.org/)                                                                                                                                                                           | A powerful command-line packet analyzer, along with libpcap for network traffic capture.                   |
-| [mitmproxy](https://github.com/mitmproxy/mitmproxy)                                                                                                                                                          | An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.                     |
-| [Charles Proxy](https://charlesproxy.com)                                                                                                                                                                    | A cross-platform GUI web debugging proxy for viewing intercepted HTTP and HTTPS/SSL live traffic.          |
-| [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt)                                                                                                                                            | USB capture tool for Linux, used for monitoring USB traffic.                                               |
-| [USBPcap](https://github.com/desowin/usbpcap)                                                                                                                                                                | USB capture tool for Windows, useful for monitoring USB traffic.                                           |
-| [dynStruct](https://github.com/ampotos/dynStruct)                                                                                                                                                            | A tool for structure recovery via dynamic instrumentation.                                                 |
-| [drltrace](https://github.com/mxmssh/drltrace)                                                                                                                                                               | A tool for tracing shared library calls.                                                                   |
-| [Research on CMSTP.exe](https://msitpros.com/?p=3960)                                                                                                                                                        | Detailed research on using CMSTP.exe for bypassing security restrictions and executing arbitrary code.     |
-| [Windows oneliners to download remote payload and execute arbitrary code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)                | Explains one-liner PowerShell commands for downloading and executing malicious payloads.                   |
-| [Executing Commands and Bypassing AppLocker with PowerShell Diagnostic Scripts](https://bohops.com/2017/12/02/clickonce-twice-or-thrice-a-technique-for-social-engineering-and-untrusted-command-execution/) | Demonstrates techniques for bypassing AppLocker and executing commands with PowerShell diagnostic scripts. |
-| [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)                                                                                                           | A case study on exploiting Windows Script Host (WSH) injection for command execution.                      |
-| [Gscript Dropper](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)                                                                                                            | Introduction to using Gscript as a dropper tool in red team operations.                                    |
-
-#### 19. [↑](#-content) System
+### 6.6 [↑](#-content) System
 
 | Tools                                                                                                           | Description                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -820,133 +1155,40 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Everything](https://www.voidtools.com/)                                                                        | A fast file and folder search tool for Windows, allowing instant results with minimal system resource usage.                                        |
 
 
-### [↑](#-content) 20. Steganographic
 
-| Tools                                                                                                                | Description                                                           |
-| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [110 steganographic tools](http://www.jjtc.com/Steganography/tools.html)                                             | A comprehensive list of 110 steganographic tools.                     |
-| [Cloakify](https://github.com/TryCatchHCF/Cloakify)                                                                  | A tool for disguising data to bypass data loss prevention mechanisms. |
-| [Stego_Dropper](https://github.com/ahhh/Stego_Dropper)                                                               | A steganography-based dropper written in Python.                      |
-| [silenteye](https://github.com/achorein/silenteye)                                                                   | A cross-platform application for steganography.                       |
-| [deep-steg](https://github.com/alexandremuzio/deep-steg)                                                             | Deep learning based steganography tool.                               |
-| [StegX](https://github.com/Heisenberk/StegX)                                                                         | A Python-based steganography tool.                                    |
-| [js-steg](https://github.com/owencm/js-steg)                                                                         | A steganography tool using JavaScript.                                |
-| [steg](https://github.com/surg0r/steg)                                                                               | A simple steganography tool.                                          |
-| [StegoProxy](https://github.com/LabunskyA/StegoProxy)                                                                | A proxy tool that implements steganography.                           |
-| [Video-Steganography-for-Piracy-Prevention](https://github.com/adityangud/Video-Steganography-for-Piracy-Prevention) | A video steganography tool to prevent piracy.                         |
-| [openstego](https://github.com/syvaidya/openstego)                                                                   | An open-source steganography tool.                                    |
-| [steg](https://github.com/beatsbears/steg)                                                                           | Another steganography tool.                                           |
-| [Stegbook](https://github.com/lozarcher/Stegbook)                                                                    | A steganography tool for Facebook messages.                           |
-| [PDF_steganography](https://github.com/thoppe/PDF_steganography)                                                     | A tool for hiding data within PDF files.                              |
-| [steganography_talk](https://github.com/raulfraile/steganography_talk)                                               | A presentation on steganography.                                      |
-| [ascii-steganography](https://github.com/vgmoose/ascii-steganography)                                                | A tool for hiding data within ASCII text.                             |
-| [voices](https://github.com/gitbrew/voices)                                                                          | A tool for audio steganography.                                       |
-| [stego-retweet](https://github.com/daniellerch/stego-retweet)                                                        | A tool for hiding data within retweets.                               |
-| [ARMS](https://github.com/adyra/ARMS)                                                                                | Another steganography tool.                                           |
-| [stegosaurus](https://github.com/h-lame/stegosaurus)                                                                 | A simple steganography tool.                                          |
-| [Outguess](https://github.com/Rbcafe/Outguess)                                                                       | A universal steganography tool.                                       |
-| [BitStegNet](https://github.com/manmar92/BitStegNet)                                                                 | A neural network based steganography tool.                            |
-| [stego-wave](https://github.com/pboueke/stego-wave)                                                                  | A steganography tool for hiding data in audio files.                  |
-| [StegoMP3](https://github.com/maksimvrs/StegoMP3)                                                                    | A tool for MP3 steganography.                                         |
-| [jSteganographiX](https://github.com/Epredator/jSteganographiX)                                                      | A steganography tool written in Java.                                 |
-| [LSB-Steganography](https://github.com/RobinDavid/LSB-Steganography)                                                 | A tool for least significant bit steganography.                       |
-| [jsteg](https://github.com/lukechampine/jsteg)                                                                       | A steganography tool written in Go.                                   |
-| [stego-toolkit](https://github.com/DominicBreuker/stego-toolkit)                                                     | A collection of steganography tools.                                  |
-| [f5-steganography](https://code.google.com/archive/p/f5-steganography/)                                              | An implementation of the F5 steganography algorithm.                  |
-| [Matroschka](https://github.com/fbngrm/Matroschka)                                                                   | A steganography tool.                                                 |
-| [Deep-Steganography](https://github.com/harveyslash/Deep-Steganography)                                              | A deep learning based steganography tool.                             |
-| [AudioStego](https://github.com/danielcardeenas/AudioStego)                                                          | A tool for audio steganography.                                       |
-| [audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms)                          | Algorithms for audio steganography.                                   |
-| [jphs](https://github.com/h3xx/jphs)                                                                                 | A steganography tool.                                                 |
-| [StegDroid](https://github.com/fredley/StegDroid)                                                                    | A steganography tool for Android.                                     |
-| [SteCoSteg](https://github.com/cryptolok/SteCoSteg)                                                                  | A steganography tool.                                                 |
-| [PNG-Mask](https://github.com/AlphaDelta/PNG-Mask)                                                                   | A tool for hiding data in PNG images.                                 |
-| [chess-steg](https://github.com/jes/chess-steg)                                                                      | A steganography tool for hiding data in chess games.                  |
-| [strogonoff](https://github.com/jbochi/strogonoff)                                                                   | Another steganography tool.                                           |
-| [Pictograph](https://github.com/MrAdamBoyd/Pictograph)                                                               | A steganography tool for images.                                      |
-| [stegoVeritas](https://github.com/bannsec/stegoVeritas)                                                              | A steganography tool.                                                 |
-| [secretbook](https://github.com/owencm/secretbook)                                                                   | A steganography tool for Facebook messages.                           |
-| [snow10](https://github.com/beardog108/snow10)                                                                       | A steganography tool.                                                 |
-| [mp3stego](http://www.petitcolas.net/fabien/steganography/mp3stego)                                                  | A tool for MP3 steganography.                                         |
-| [stego_video](http://compression.ru/video/stego_video)                                                               | A video steganography tool.                                           |
-| [diit](http://diit.sourceforge.net/)                                                                                 | A steganography tool.                                                 |
-| [stegosploit](https://stegosploit.info/)                                                                             | A tool for embedding exploits in images.                              |
-| [stegolab](https://github.com/daniellerch/stegolab)                                                                  | A steganography tool.                                                 |
-| [stego-book-2014](https://github.com/daniellerch/stego-book-2014)                                                    | A collection of steganography tools from 2014.                        |
-| [timeshifter](https://github.com/anfractuosity/timeshifter)                                                          | A tool for covert channels based on time.                             |
-| [covertele](https://github.com/LabunskyA/covertele)                                                                  | A tool for covert communication.                                      |
-| [CCEAP](https://github.com/cdpxe/CCEAP)                                                                              | A steganography tool.                                                 |
-| [cloud-covert-channels](https://github.com/bsteen/cloud-covert-channels)                                             | A tool for covert channels in the cloud.                              |
-| [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator)                                                           | A tool for data exfiltration via DNS.                                 |
-| [StegPage](https://sourceforge.net/p/stegpage/wiki/Home/)                                                            | A source for various steganography tools.                             |
-| [CameraShy](https://sourceforge.net/projects/camerashy/)                                                             | A steganography tool.                                                 |
-| [stegUnicode](https://github.com/mindcrypt/stegUnicode)                                                              | A steganography tool using Unicode.                                   |
-| [stelin](http://stelin.sourceforge.net/)                                                                             | Another steganography tool.                                           |
-| [Hydan](http://www.crazyboy.com/hydan/)                                                                              | A steganography tool for binary files.                                |
-| [deogol](https://hord.ca/projects/deogol/intro.html)                                                                 | A steganography tool.                                                 |
-| [Hugo source code](https://jabriffa.wordpress.com/other/hugo-source-code/)                                           | Source code for a steganography tool.                                 |
-| [WOW](http://dde.binghamton.edu/download/stego_algorithms/)                                                          | Steganography algorithms.                                             |
-| [stegify](https://github.com/DimitarPetrov/stegify)                                                                  | A simple steganography tool.                                          |
-| [Steganography 101](https://pequalsnp-team.github.io/cheatsheet/steganography-101)                                   | An introductory guide to steganography.                               |
-| [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage)                                                           | A tool for embedding PowerShell scripts in images.                    |
-| [instegogram](https://github.com/endgameinc/instegogram)                                                             | A tool for steganography in Instagram images.                         |
 
-### [↑](#-content) 21. Steganalysis
 
-| Tool                                                                                                                                                          | Description                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [VSL](http://vsl.sourceforge.net/)                                                                                                                            | A steganographic tool that helps in hiding and detecting messages within digital images.                                                                    |
-| [HackTricks - Stego Tricks](https://book.hacktricks.xyz/stego/stego-tricks)                                                                                   | A comprehensive guide on various steganography techniques and tricks used in cybersecurity.                                                                 |
-| [zsteg](https://github.com/zed-0xff/zsteg)                                                                                                                    | A tool for detecting hidden data in PNG and BMP files.                                                                                                      |
-| [StegOnline](https://stegonline.georgeom.net/upload)                                                                                                          | An online tool for hiding and extracting hidden messages in images.                                                                                         |
-| [Stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve)                                                                    | A steganography analysis tool that can analyze images for hidden data.                                                                                      |
-| [StegCracker](https://github.com/th3gundy/stegCracker)                                                                                                        | A tool for brute-forcing passwords of hidden data in steganographic images.                                                                                 |
-| [StegSeek](https://github.com/RickdeJager/stegseek)                                                                                                           | A lightning-fast steganography brute-force tool for hidden data in images.                                                                                  |
-| [JJTC Steganalysis](http://www.jjtc.com/Steganalysis/)                                                                                                        | A resource for various steganalysis techniques and tools.                                                                                                   |
-| [Guillermito's Steganography](https://www.guillermito2.net/stegano/)                                                                                          | An informative site on steganography tools and techniques.                                                                                                  |
-| [Stegdetect](http://www.outguess.org)                                                                                                                         | A popular steganography detection tool capable of detecting hidden data in images.                                                                          |
-| [Spy Hunter](http://www.spy-hunter.com/stegspydownload.htm)                                                                                                   | A tool designed to detect steganography usage and hidden data.                                                                                              |
-| [Stegkit](https://www.sbir.gov/sbirsearch/detail/151266)                                                                                                      | A steganography kit used for hiding and extracting hidden messages in images.                                                                               |
-| [Stegalyzer](http://www.sarc-wv.com/products/stegalyzeras.aspx)                                                                                               | A tool designed for detecting and analyzing steganographic content in digital images.                                                                       |
-| [Stego Suite](http://www.wetstonetech.com/cgi-bin/shop.cgi?view,1)                                                                                            | A suite of tools for hiding and detecting steganographic content.                                                                                           |
-| [Stegsecret](http://stegsecret.sourceforge.net)                                                                                                               | An open-source steganography tool for embedding and extracting hidden messages in images.                                                                   |
-| [StegExpose](https://github.com/b3dk7/StegExpose)                                                                                                             | A tool for detecting hidden data in images using statistical analysis.                                                                                      |
-| [Cryptonibbles - Mr. Robot Steganography](https://cryptonibbles.blogspot.com/2016/05/why-mr-robot-does-not-know-steganography.html?m=1)                       | A blog post discussing steganography in the context of the TV show Mr. Robot.                                                                               |
-| [Forensics Analysis of Video Steganography Tools](https://www.researchgate.net/publication/277621523_Forensic_analysis_of_video_steganography_tools/download) | A research paper on forensic analysis of video steganography tools.                                                                                         |
-| [Aletheia](https://github.com/daniellerch/aletheia)                                                                                                           | A tool for image steganalysis using state-of-the-art machine learning techniques.                                                                           |
-| [Danielle Lerch's Papers](https://github.com/daniellerch/papers)                                                                                              | A collection of research papers on steganalysis and related topics.                                                                                         |
-| [Steganalysis with CNN for Same Key Images](https://github.com/rcouturier/steganalysis_with_CNN_for_same_key_images)                                          | A project for steganalysis using convolutional neural networks (CNN) for same key images.                                                                   |
-| [DeepSteg](http://www.deepsteg.com/)                                                                                                                          | Deepsteg performs visual, structural, and statistical attacks (including deep learning-based attacks) to detect files hidden within images and other files. |
-| [tf_audio_steganalysis](https://github.com/Charleswyt/tf_audio_steganalysis)                                                                                  | A project for steganalysis of audio files using TensorFlow.                                                                                                 |
-| [SteganalysisCNN](https://github.com/rabi3elbeji/SteganalysisCNN)                                                                                             | A steganalysis project using convolutional neural networks (CNN).                                                                                           |
-| [ALASKA](https://github.com/YassineYousfi/alaska)                                                                                                             | A large-scale image steganalysis dataset.                                                                                                                   |
-| [IStego100K](https://github.com/YangzlTHU/IStego100K)                                                                                                         | A large-scale image steganalysis dataset.                                                                                                                   |
-| [StegOnline](https://github.com/Ge0rg3/StegOnline)                                                                                                            | An online tool for hiding and extracting hidden messages in images.                                                                                         |
-| [Steganabara](https://github.com/quangntenemy/Steganabara)                                                                                                    | A tool for steganography analysis.                                                                                                                          |
-| [Stegasawus](https://github.com/rokkuran/stegasawus)                                                                                                          | A steganography analysis tool.                                                                                                                              |
-| [UDSS](https://github.com/rabi3elbeji/udss)                                                                                                                   | A project for universal deep steganalysis systems.                                                                                                          |
-| [BreakingSteganalysisGAN](https://github.com/Chenlang2018/BreakingSteganalysisGAN)                                                                            | A project on breaking steganalysis using generative adversarial networks (GAN).                                                                             |
-| [Steganalyse](https://github.com/jessica0x73/steganalyse)                                                                                                     | A steganalysis tool.                                                                                                                                        |
-| [StegCracker](https://github.com/Paradoxis/StegCracker)                                                                                                       | A tool for brute-forcing passwords of hidden data in steganographic images.                                                                                 |
-| [Welloganography Solver](https://github.com/welloworld/welloganography-solver)                                                                                | A steganography analysis tool.                                                                                                                              |
-| [McAfee Free Tools - Steganography](https://www.mcafee.com/enterprise/en-sg/downloads/free-tools/steganography.html)                                          | A collection of free steganography tools provided by McAfee.                                                                                                |
-| [Mistica](https://github.com/IncideDigital/Mistica)                                                                                                           | A steganography analysis tool.                                                                                                                              |
-| [Cookie Stego](https://github.com/javierwilson/cookie-stego)                                                                                                  | A steganography tool for hiding and extracting hidden messages in images.                                                                                   |
-| [AperiSolve](https://github.com/Zeecka/AperiSolve)                                                                                                            | A steganography analysis tool.                                                                                                                              |
-| [Steganalysis](https://github.com/librauee/Steganalysis)                                                                                                      | A steganalysis project.                                                                                                                                     |
-| [YeNet-Pytorch](https://github.com/Caenorst/YeNet-Pytorch)                                                                                                    | A project for steganalysis using YeNet and PyTorch.                                                                                                         |
-| [Steganalysis with CNN - Yedroudj-Net](https://github.com/yedmed/steganalysis_with_CNN_Yedroudj-Net)                                                          | A steganalysis project using convolutional neural networks (CNN) - Yedroudj-Net.                                                                            |
-| [Pytorch implementation of SRNet](https://github.com/brijeshiitg/Pytorch-implementation-of-SRNet)                                                             | A project for steganalysis using SRNet and PyTorch.                                                                                                         |
-| [LSB Toolkit](https://github.com/luca-m/lsb-toolkit)                                                                                                          | A toolkit for steganography using least significant bit (LSB) techniques.                                                                                   |
-| [CAECNNcode](https://github.com/jiangszzzzz/CAECNNcode)                                                                                                       | A project for steganalysis using convolutional neural networks (CNN).                                                                                       |
-| [Stegolab](https://github.com/daniellerch/stegolab)                                                                                                           | A steganography and steganalysis toolkit.                                                                                                                   |
-| [DL Steganalysis](https://github.com/aminfazy/DL_steganalysis)                                                                                                | A project for steganalysis using deep learning techniques.                                                                                                  |
-| [Audio Steganalysis](https://github.com/Linyuzhen/audio_steganalysis)                                                                                         | A project for steganalysis of audio files.                                                                                                                  |
-| [Audio Steganalysis CNN](https://github.com/bolin-chen/audio-steganalysis-cnn)                                                                                | A project for steganalysis of audio files using convolutional neural networks (CNN).                                                                        |
-| [DeepSteg](https://github.com/deepsteg/deepsteg)                                                                                                              | A steganalysis tool for detecting hidden data in images using deep learning techniques.                                                                     |
-| [Stegasaurus2](https://github.com/dfish13/Stegasaurus2)                                                                                                       | A steganography analysis tool.                                                                                                                              |
+## 7. [↑](#-content) AI Tools
 
-### [↑](#-content) 22. Cryptocurrency
+### 7.1 [↑](#-content) AI Programming
+
+| Tool                                                  | Description                                                                                                                                                                                                           |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Cursor](https://cursor.sh/)                          | Function: Development environment focused on seamless AI interaction in code. Less known than Copilot but highly valued for assisted workflows. Advantage: Strong real-time AI/code collaboration integration.        |
+| [WindSurf](https://www.windsurf.io/)                  | Function: Documentation-focused completion and search system, enabling efficient explanation and navigation of complex projects. Advantage: Simplifies code understanding and exploration, useful for large projects. |
+| [Bolt](https://boltai.com/)                           | Function: Fast and minimalist code completion, optimized for speed and specific contexts. Advantage: Focuses on local performance rather than cloud solutions.                                                        |
+| [GitHub Copilot](https://github.com/features/copilot) | Function: Custom code generation powered by GPT-4 (or similar). Advantage: Perfect for a broad audience, though sometimes lacks advanced customization.                                                               |
+| [Tabnine](https://www.tabnine.com/)                   | Function: Uses AI models for local or cloud-based suggestions. Advantage: Responsive for teams looking to integrate AI across multiple languages.                                                                     |
+| [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources (like cybersources but with ai)|
+
+
+### 7.2 [↑](#-content) AI Cybersecurity
+
+| Tool                                               | Description                                                                                                                                                                                       |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Darktrace](https://www.darktrace.com/)            | Function: Real-time threat detection using machine learning algorithms. Advantage: Identifies unusual network behaviors to prevent cyberattacks before they occur.                                |
+| [CrowdStrike Falcon](https://www.crowdstrike.com/) | Function: AI-based Endpoint Protection Platform. Advantage: Offers proactive defense with advanced malware detection and rapid incident response.                                                 |
+| [Vectra AI](https://www.vectra.ai/)                | Function: Network traffic analysis for detecting internal and external threats. Advantage: Focuses on detecting complex attacks like lateral movements or data exfiltration.                      |
+| [Cynet 360](https://www.cynet.com/)                | Function: All-in-one security platform combining threat detection, incident response, and automation. Advantage: Particularly suitable for small businesses with limited cybersecurity resources. |
+| [Reveelium](https://www.alsego.com/reveelium/)     | Function: Anomaly detection and event correlation in information systems. Advantage: Ideal for identifying unusual behavior in logs of large organizations.     |
+| [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources.|
+| [PentestGPT](https://pentestgpt.ai/)| PentestGPT provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly.|
+
+
+
+## [↑](#-content) 8. Specialized Tools
+
+### [↑](#-content) 8.1 Cryptocurrency
 
 | Tool                                                                                     | Description                                                                         |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -962,16 +1204,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Addresschecker.eu](https://www.addresschecker.eu)                                       | Tool for verifying and checking the validity of cryptocurrency addresses.           |
 | [Cryptocurrency Alerting](https://www.cryptocurrencyalerting.com)                        | Real-time customizable price alerts for cryptocurrencies, stocks, and coins.        |
 
-### [↑](#-content) 23. Delete Your Trace
 
-| Tool                                      | Description                                               |
-| ----------------------------------------- | --------------------------------------------------------- |
-| [Redact](https://redact.dev/)             | Delete all you comments, likes... of your social acounts. |
-| [DeleteMe](https://joindeleteme.com/)     | Delete your information on all your accounts.             |
-| [incogni](https://incogni.com/)           | Delete your information of databrokers.                   |
-| [JustDeleteMe](https://justdeleteme.xyz/) | Delete your accounts.                                     |
-
-### [↑](#-content) 24. Playbooks
+### [↑](#-content) 8.2 Playbooks
 
 | Tool                                                                                                | Description                                                    |
 | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -983,165 +1217,17 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [IRP-Ransom](https://github.com/socfortress/Playbooks/tree/main/IRP-Ransom)                         | Playbook for handling ransomware incidents.                    |
 | [Hive-Templates](https://github.com/socfortress/Playbooks/tree/main/Hive-Templates)                 | Templates for incident tracking in Hive.                       |
 
-### [↑](#-content) 25. Malware Analysis
 
-| Tool                                                                                       | Description                                                                   |
-| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| [Yabin](https://cybersectools.com/tools/yabin)                                             | Creates Yara signatures from malware to identify similar samples.             |
-| [Any Run](https://cybersectools.com/tools/anyrun)                                          | Interactive malware sandbox for real-time analysis and threat intelligence.   |
-| [Bluepot](https://cybersectools.com/tools/bluepot)                                         | Bluetooth honeypot for monitoring and capturing malicious activity.           |
-| [Elastic Security YARA Rules](https://cybersectools.com/tools/elastic-security-yara-rules) | Signature-based YARA rules for detecting threats across multiple platforms.   |
-| [YARA-Signator](https://cybersectools.com/tools/yara-signator)                             | Automatically generates YARA rules for malware repositories.                  |
-| [MalShare](https://cybersectools.com/tools/malshare)                                       | Platform for uploading, searching, and downloading malware samples.           |
-| [The DFIR Report](https://cybersectools.com/tools/dfir-report)                             | In-depth threat intelligence reports and services.                            |
-| [Mobile Audit](https://cybersectools.com/tools/mobile-audit)                               | SAST and malware analysis tool for Android APKs.                              |
-| [Mastiff](https://cybersectools.com/tools/mastiff)                                         | Static analysis framework for extracting key characteristics from files.      |
-| [Malheur](https://cybersectools.com/tools/malheur)                                         | Tool for automatic analysis of malware behavior using machine learning.       |
-| [PyaraScanner](https://cybersectools.com/tools/pyarascanner)                               | Multithreaded YARA scanner for incident response or malware zoos.             |
-| [Static File Analyzer (SFA)](https://cybersectools.com/tools/static-file-analyzer)         | A deep analysis tool for malicious files using ClamAV and YARA rules.         |
-| [Yara Decompressor](https://cybersectools.com/tools/yara-decompressor)                     | Tool to decompress malware samples for running YARA rules.                    |
-| [Shotgunyara](https://cybersectools.com/tools/shotgunyara)                                 | Generates YARA rules for various string and encoded malware variations.       |
-| [VxSig](https://cybersectools.com/tools/vxsig)                                             | Automatically generates AV byte signatures for similar binaries.              |
-| [Hybrid-Analysis](https://cybersectools.com/tools/hybrid-analysis)                         | Provides in-depth static and dynamic analysis of files.                       |
-| [Findom-XSS](https://cybersectools.com/tools/findom-xss)                                   | A simple DOM-based XSS vulnerability scanner.                                 |
-| [Dalfox](https://cybersectools.com/tools/dalfox)                                           | Powerful open-source XSS scanner for automation.                              |
-| [PyLibEmu](https://cybersectools.com/tools/pylibemu)                                       | Python wrapper for Libemu for shellcode analysis.                             |
-| [Yara Station](https://cybersectools.com/tools/yara-station)                               | Management portal for LoKi scanner with a centralized database.               |
-| [NodeYara](https://cybersectools.com/tools/nodeyara)                                       | Yara module for Node.js for scanning with Yara rules.                         |
-| [Malware Traffic Analysis](https://cybersectools.com/tools/malware-traffic-analysis)       | Analyzes malicious network traffic to detect malware activity.                |
-| [Yara-Rust](https://cybersectools.com/tools/yara-rust)                                     | Yara bindings for Rust supporting various features like rule compilation.     |
-| [Yara Rule Generator](https://cybersectools.com/tools/yara-rule-generator)                 | A tool for creating YARA rules quickly to isolate malware families.           |
-| [StringSifter](https://cybersectools.com/tools/stringsifter)                               | A machine learning tool for ranking strings for malware analysis.             |
-| [Inlyse](https://cybersectools.com/tools/inlyse)                                           | AI-based IT security platform for identifying and stopping advanced malware.  |
-| [yarGen](https://cybersectools.com/tools/yargen)                                           | Generates YARA rules by extracting strings from malware files.                |
-| [Cuckoo Sandbox](https://cybersectools.com/tools/cuckoo-sandbox)                           | Automated malware analysis and detection in an isolated environment.          |
-| [Vaya-Ciego-Nen](https://cybersectools.com/tools/vaya-cego-nen)                            | Tool to detect and exploit Blind XSS vulnerabilities.                         |
-| [BruteXSS](https://cybersectools.com/tools/brutexss)                                       | Finds Cross-Site Scripting (XSS) vulnerabilities in web applications.         |
-| [Findsploit](https://cybersectools.com/tools/findsploit)                                   | Instantly find exploits from local and online databases.                      |
-| [xssor2](https://cybersectools.com/tools/xssor2)                                           | Tool for testing and exploiting XSS vulnerabilities.                          |
-| [CFR](https://cybersectools.com/tools/cfr)                                                 | Java decompiler supporting features up to Java 14.                            |
-| [ReFlutter](https://cybersectools.com/tools/reflutter)                                     | Framework for reverse engineering Flutter apps.                               |
-| [Dwarf Debugger](https://cybersectools.com/tools/dwarf-debugger)                           | A debugger for reverse engineers and security analysts.                       |
-| [Triton](https://cybersectools.com/tools/triton)                                           | Dynamic binary analysis library with emulation capabilities.                  |
-| [Klara](https://cybersectools.com/tools/klara)                                             | Distributed Python system to help hunt for new malware using Yara rules.      |
-| [Android Malware Sandbox](https://cybersectools.com/tools/android-malware-sandbox)         | Sandbox for analyzing Android malware.                                        |
-| [Fabric Platform](https://cybersectools.com/tools/fabric-platform)                         | Automates cybersecurity reporting with open-source tools and templates.       |
-| [Wiz](https://cybersectools.com/tools/wiz)                                                 | Cloud-native security platform for detecting and preventing security threats. |
-| [XSSCon](https://cybersectools.com/tools/xsscon)                                           | A simple XSS scanner for detecting vulnerabilities.                           |
-| [GitHunter](https://cybersectools.com/tools/githunter)                                     | Searches Git repositories for sensitive data.                                 |
-| [jwt-key-id-injector](https://cybersectools.com/tools/jwt-key-id-injector)                 | Python script to test for JWT vulnerabilities.                                |
-| [qsfuzz](https://cybersectools.com/tools/qsfuzz)                                           | Fuzzes query strings to identify security vulnerabilities.                    |
-| [Weaponised-XSS-payloads](https://cybersectools.com/tools/weaponised-xss-payloads)         | A collection of XSS payloads for exploiting web vulnerabilities.              |
-| [XSSor](https://cybersectools.com/tools/xssor)                                             | A tool for exploiting and testing XSS vulnerabilities in web apps.            |
-| [ReClass](https://cybersectools.com/tools/reclass)                                         | A reverse engineering tool for Windows executable analysis.                   |
-| [Malwover](https://cybersectools.com/tools/malwover)                                       | Malware detection and prevention for advanced cyber threats.                  |
-| [Odin](https://cybersectools.com/tools/odin)                                               | Malware analysis platform with advanced threat detection.                     |
-| [Distribute](https://cybersectools.com/tools/distribute)                                   | Malware analysis tool that helps distribute files for analysis.               |
-| [YaraStation](https://cybersectools.com/tools/yarastation)                                 | Management portal for Yara rule-based malware scanning.                       |
-| [CAPE](https://cybersectools.com/tools/cape)                                               | Malware sandbox designed for executing and analyzing malicious files.         |
-| [Sandboxie-Plus](https://sandboxie-plus.com/downloads)                                     | Another Malaware sandbox and might be a better option if your testing runs.   |
-| [Hybrid-Analysis](https://www.hybrid-analysis.com)    | Hybrid Analysis is a Malaware analysis service it's free and has ai or someone does it for free it's reliable and more accurate than total virus.    |
-
-### [↑](#-content) 26. SIEM
+### [↑](#-content) 8.3 SIEM
 
 | Tool                                  | Description                                                                                     |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Cybersec](https://cybersectools.com) | A cybersecurity platform that integrates with SIEM solutions for centralized threat management. |
 
-### [↑](#-content) 27. Password Managers
 
-| Resource                         | Price | Description                                        |
-| -------------------------------- | ----- | -------------------------------------------------- |
-| [Keepass](https://keepass.info/) | Free  | Available on windows, linux, mac, IOS and Android. |
-| [Bitwarden](https://bitwarden.com/)                    | Freemium | A password manager that securely stores manages and syncs credentials across any browsers or devices. |
+## [↑](#-content) 9. Hardware & Operating Systems
 
-### [↑](#-content) 28. VPNs
-
-| Resource                             | Price                      | Description                                                                                                                                        |
-| ------------------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Mullvad VPN](https://mullvad.net/)  | 5€/month                   | A privacy-focused VPN service that offers anonymous internet browsing with no personal information required for registration.                      |
-| [Proton VPN](https://protonvpn.com/) | Free & Paid (Subscription) | A secure VPN service that prioritizes privacy, offering both free and premium plans with strong encryption and no-logs policy.                     |
-| [IVPN](https://www.ivpn.net/)        | Paid (Subscription)        | A privacy-focused VPN service offering strong encryption, a strict no-logs policy, and advanced features like multi-hop VPN for enhanced security. |
-
-### [↑](#-content) 29. RFID
-
-| Tool                                                                       | Description                                                                                                                                               |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Proxmark3](https://proxmark.com/)                                         | A powerful tool for reading, writing, and analyzing RFID and NFC cards.                                                                                   |
-| [ChameleonMini](https://github.com/emsec/ChameleonMini)                    | An RFID emulator for security analysis.                                                                                                                   |
-| [Flipper Zero](https://flipperzero.one/)                                   | A versatile multi-tool device for interacting with RFID, NFC, and other protocols.                                                                        |
-| [ACR122U](https://www.acs.com.hk/en/products/92/acr122u-usb-nfc-reader/)   | A USB-based NFC reader and writer commonly used for RFID development and testing.                                                                         |
-| [LibNFC](https://github.com/nfc-tools/libnfc)                              | An open-source library for using NFC readers and performing RFID interactions.                                                                            |
-| [MIFARE Classic Tool (MCT)](https://github.com/ikarus23/MifareClassicTool) | A mobile app for interacting with MIFARE Classic cards, reading, writing, and analyzing their data.                                                       |
-| [Cardpeek](https://github.com/L1L1/cardpeek)                               | A tool for analyzing smart cards, including Calypso-based transit cards, with a focus on data parsing and visualization.                                  |
-| [Metrodroid](https://github.com/metrodroid/metrodroid)                     | A mobile app for reading and analyzing transit cards, providing insights into metro card data.                                                            |
-| [Metroflip](https://lab.flipper.net/apps/metroflip)                        | A Flipper Zero app for reading and parsing metro cards, inspired by Metrodroid. It supports multi-protocol card reading and global transit card analysis. |
-| [Seader](https://github.com/bettse/seader)                                 | A Flipper Zero application to interface with a SAM from the Flipper Zero over UART                                                                        |
-| [NFC Magic](https://lab.flipper.net/apps/nfc_magic)                        | A Flipper zero application for writing to NFC tags with modifiable sector 0                                                                               |
-| [MFOC](https://github.com/nfc-tools/mfoc)                                  | MFOC is an open source implementation of "offline nested" attack                                                                                          |
-| [PicoPass](https://lab.flipper.net/apps/picopass)|App to communicate with NFC tags using the PicoPass(iClass) format. |
-| [Mifare Fuzzer](https://lab.flipper.net/apps/mifare_fuzzer) |App emulates Mifare Classic cards with various UIDs to check how reader reacts on them. |
-| [MFKey](https://lab.flipper.net/apps/mfkey) |MIFARE Classic key recovery tool. |
-
-
-### [↑](#-content) 30. Bug Bounty
-
-| Tool                                               | Description                                                                                      |
-| -------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [123Contact Form](https://www.123contactform.com)  | A versatile form builder for websites and mobile applications.                                   |
-| [99designs](https://99designs.com)                 | A platform to connect designers with clients needing logos, websites, and more.                  |
-| [Abacus](https://www.abacus.com)                   | A tool for simplifying expense reporting and tracking for businesses.                            |
-| [Acquia](https://www.acquia.com)                   | Cloud-based solutions for managing and optimizing digital experiences on Drupal.                 |
-| [ActiveCampaign](https://www.activecampaign.com)   | A customer experience automation platform for email marketing and CRM.                           |
-| [ActiveProspect](https://activeprospect.com)       | A SaaS platform to automate lead acquisition and qualification processes.                        |
-| [Adobe](https://www.adobe.com)                     | Industry-leading software solutions for creative professionals, including Photoshop and Acrobat. |
-| [AeroFS](https://www.aerofs.com)                   | A private cloud collaboration tool for secure team file sharing.                                 |
-| [Airbitz](https://airbitz.co)                      | A secure Bitcoin wallet and platform for decentralized applications.                             |
-| [Airbnb](https://www.airbnb.com)                   | A platform for booking short-term homestays and unique travel experiences.                       |
-| [Algolia](https://www.algolia.com)                 | A search and discovery API for websites and mobile applications.                                 |
-| [Altervista](https://www.altervista.org)           | A platform for creating free blogs and websites with monetization options.                       |
-| [Altroconsumo](https://www.altroconsumo.it)        | Italy's largest consumer organization offering product reviews and advice.                       |
-| [Amara](https://amara.org)                         | A tool for creating and managing subtitles for videos collaboratively.                           |
-| [Amazon Web Services](https://aws.amazon.com)      | A comprehensive cloud platform offering computing power, storage, and other services.            |
-| [Amazon.com](https://www.amazon.com)               | The world's largest online retailer offering a vast array of products and services.              |
-| [ANCILE Solutions Inc.](https://www.ancile.com)    | Solutions for creating and delivering on-demand learning and performance support.                |
-| [Anghami](https://www.anghami.com)                 | A music streaming platform focused on Arabic content.                                            |
-| [ANXBTC](https://anxbtc.com)                       | A Bitcoin trading and exchange platform.                                                         |
-| [Apache httpd](https://httpd.apache.org)           | An open-source HTTP server for hosting websites and applications.                                |
-| [Appcelerator](https://www.appcelerator.com)       | A cross-platform mobile app development tool.                                                    |
-| [Apple](https://www.apple.com)                     | A global leader in consumer electronics, software, and online services.                          |
-| [Apptentive](https://www.apptentive.com)           | A platform for mobile app engagement and customer feedback.                                      |
-| [Aptible](https://www.aptible.com)                 | A security and compliance platform for DevOps teams.                                             |
-| [Ardour](https://ardour.org)                       | A digital audio workstation for recording, editing, and mixing sound.                            |
-| [Arkane](https://www.arkane.network)               | A blockchain wallet and API service for developers.                                              |
-| [ARM mbed](https://www.mbed.com)                   | A platform for IoT device development and deployment.                                            |
-| [Asana](https://asana.com)                         | A project management tool for team collaboration and task tracking.                              |
-| [YesWeHack](https://www.yeswehack.com)             | A global bug bounty and vulnerability disclosure platform.                                       |
-| [intigriti](https://www.intigriti.com)             | A leading European platform for crowdsourced security testing.                                   |
-| [HackerOne](https://www.hackerone.com)             | A vulnerability coordination and bug bounty platform connecting businesses with hackers.         |
-| [Bugcrowd](https://www.bugcrowd.com)               | A platform offering managed bug bounty programs and vulnerability disclosure.                    |
-| [Cobalt](https://cobalt.io)                        | A pen-testing as a service platform with a global community of security experts.                 |
-| [Bountysource](https://www.bountysource.com)       | A funding platform for open-source projects and software development bounties.                   |
-| [Bounty Factory](https://bountyfactory.io)         | A platform for launching bug bounty programs with a community of ethical hackers.                |
-| [BMW Group Bug Bounty](https://www.bmwgroup.com/en/general/Security.html)| The security of our products and services is top priority for us |
-| [Coder Bounty](https://coderbounty.com)            | A platform for developers to earn rewards by solving coding challenges.                          |
-| [FreedomSponsors](https://www.freedomsponsors.org) | A funding platform for open-source software improvements and bug fixes.                          |
-| [FOSS Factory](https://fossfactory.org)            | A platform for funding free and open-source software development.                                |
-| [Synack](https://www.synack.com)                   | A crowdsourced security platform combining automation with a network of ethical hackers.         |
-| [HackenProof](https://hackenproof.com)             | A bug bounty and vulnerability coordination platform for businesses.                             |
-| [Detectify](https://detectify.com)                 | A SaaS platform offering web vulnerability scanning and crowdsourced security.                   |
-| [Bugbountyjp](https://bugbounty.jp)                | A Japanese platform for launching and managing bug bounty programs.                              |
-| [Safehats](https://safehats.com)                   | A vulnerability coordination platform for organizations to work with ethical hackers.            |
-| [BugbountyHQ](https://www.bugbountyhq.com)         | A community platform for ethical hackers to collaborate and find bug bounty opportunities.       |
-| [Hackerhive](https://hackerhive.com)               | A security platform for crowdsourced vulnerability assessments and bug bounties.                 |
-| [Hacktrophy](https://www.hacktrophy.com)           | A Slovak bug bounty platform for finding vulnerabilities in digital assets.                      |
-| [AntiHACK](https://antihack.me)                    | A bug bounty and penetration testing platform based in Asia.                                     |
-| [CESPPA](https://cesppa.com)                       | A cybersecurity and bug bounty platform for coordinated vulnerability disclosure.                |
-|[Bug Bounty Hunting](https://www.bugbountyhunting.com/)|Bug Bounty Hunting Search Engine|
-
-
-
-### [↑](#-content) 31. Operating Systems
+### [↑](#-content) 9.1 Operating Systems
 
 | **System**    | **Description**                                                                                      |
 |---------------|------------------------------------------------------------------------------------------------------|
@@ -1170,57 +1256,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-
-### [↑](#-content) 32. WiFi 
-
-| Tools                                                         | Description                                                                          |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [Aireplay-ng](https://www.aircrack-ng.org/doku.php?id=airplay-ng) | A tool for injecting frames into a wireless network to manipulate traffic.          |
-| [Aircrack-ng](https://www.aircrack-ng.org/)                    | A suite of tools for cracking WEP and WPA-PSK encryption keys.                       |
-| [Airmon-ng](https://www.aircrack-ng.org/doku.php?id=airmon-ng) | A tool to configure wireless interfaces into monitor mode for packet capture.       |
-| [Airolib-ng](https://www.aircrack-ng.org/doku.php?id=airolib-ng) | A tool to create and manage a database for cracking WPA/WPA2 networks.                |
-| [Airegeddon](https://github.com/airgeddon/airgeddon)           | A multi-purpose WiFi hacking tool focused on WPA/WPA2 PSK networks.                 |
-| [Wash](https://github.com/aircrack-ng/wash)                   | A tool to identify routers that are vulnerable to WPS attacks.                      |
-| [Reaver](https://github.com/t6x/reaver-wps-fork)              | A tool designed to crack WPS PINs of routers to gain access to WPA networks.        |
-| [Bully](https://github.com/wiire/pwning)                      | A tool for brute-forcing WPS PINs of vulnerable routers.                             |
-| [Airbase-ng](https://www.aircrack-ng.org/doku.php?id=airbase-ng) | A tool to create fake access points for testing and social engineering attacks.      |
-| [Fern WiFi Cracker](https://github.com/savio-code/fern-wifi-cracker) | A GUI-based tool to crack WEP/WPA/WPS encryption on wireless networks.              |
-| [Wifite](https://github.com/derv82/wifite)                    | A tool for automating the cracking of WEP and WPA networks.                          |
-| [Wifiphisher](https://github.com/wifiphisher/wifiphisher)      | A tool for phishing attacks targeting WiFi networks and capturing credentials.      |
-| [Ghost Phisher](https://github.com/savio-code/ghost-phisher)  | A phishing tool that creates fake access points and social engineering attacks.      |
-
-
-
-### [↑](#-content) 33. Reconnaissance
-
-| **Tool**                                                | **Description**                                                              |
-| ------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [Nmap](https://nmap.org)                                 | A network scanning tool used for discovering hosts, services, and vulnerabilities on a network. |
-| [Netcat](https://nc110.sourceforge.io)                  | A versatile networking tool used for port scanning, banner grabbing, and transferring files. |
-| [Wireshark](https://www.wireshark.org)                   | A network protocol analyzer that captures and inspects network packets in real-time. |
-| [Fierce](https://github.com/mschwager/fierce)            | A domain scanner that helps map out a target’s domain infrastructure, including DNS records and subdomains. |
-| [Recon-ng](https://github.com/lanmaster53/recon-ng)      | A web-based reconnaissance framework that automates OSINT gathering from various sources. |
-| [TheHarvester](https://github.com/laramies/theHarvester) | A tool to gather email addresses, subdomains, and other information through search engines and public records. |
-| [Masscan](https://github.com/robertdavidgraham/masscan)  | A fast network scanner used for scanning large IP ranges to identify open ports. |
-| [Dig](https://man7.org/linux/man-pages/man1/dig.1.html)  | A command-line tool for querying DNS records and gathering information on domain names. |
-| [Sublist3r](https://github.com/aboul3la/Sublist3r)       | A tool for discovering subdomains using open-source intelligence. |
-| [Censys](https://censys.io)                             | Provides data on devices, services, and open ports exposed to the internet, assisting in reconnaissance. |
-| [Shodan](https://www.shodan.io)                          | A search engine that scans and indexes devices connected to the internet for reconnaissance. |
-| [SpiderFoot](https://www.spiderfoot.net)                 | An automation tool for gathering intelligence about a target by querying public databases and sources. |
-| [Dnsrecon](https://github.com/darkoperator/dnsrecon)     | A tool for DNS enumeration, identifying subdomains, and extracting other DNS-related data. |
-| [Enum4linux](https://github.com/CiscoCXSecurity/enum4linux) | A tool to gather information from Windows machines by querying SMB shares and services. |
-
-
-
-
-
-## [↑](#-content) 🔧 Hardware Tools
+### [↑](#-content) 9.2 Hardware Tools
 
 | Tool                                     | Description                                                                                                                                                                             |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Flipper Zero](https://flipperzero.one/) | Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware, and more. |
 | [Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky)|A "flash drive" that types keystroke injection payloads into unsuspecting devices at incredible speeds. From Hak5. |
 | [Wifi Pineapple](https://shop.hak5.org/products/wifi-pineapple)|A Wi-Fi Pineapple is a wireless auditing platform from Hak5 that allows network security administrators to conduct penetration tests. |
+
 
 ## [↑](#-content) 📖 Learning
 
@@ -1314,8 +1357,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [CBBH](https://academy.hackthebox.com/exams/2) | HTB Certified Bug Bounty Hunter (HTB CBBH) is a highly hands-on certification that assesses the candidates’ bug bounty hunting and web application pentesting skills |
 | [CWEE](https://academy.hackthebox.com/exams/5) | HTB Certified Web Exploitation Expert (HTB CWEE) is a highly hands-on certification that assesses candidates' skills in identifying advanced and hard-to-find web vulnerabilities using both black box and white box techniques. |
 | [CDSA](https://academy.hackthebox.com/exams/4)| HTB Certified Defensive Security Analyst (HTB CDSA) is a highly hands-on certification that assesses the candidates’ security analysis, SOC operations, and incident handling skills. |
-|[GitHub Advanced Security](https://examregistration.github.com/certification/GHAS)|This certification validates your expertise with GitHub Advanced Security.|
-|[GitHub Administration](https://examregistration.github.com/certification/ADMIN)| This certification validates your expertise administering GitHub Enterprise.|
+| [GitHub Advanced Security](https://examregistration.github.com/certification/GHAS)|This certification validates your expertise with GitHub Advanced Security.|
+| [GitHub Administration](https://examregistration.github.com/certification/ADMIN)| This certification validates your expertise administering GitHub Enterprise.|
 
 ### [↑](#-content) 🎥 Tutorials
 
@@ -1558,7 +1601,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [TechDefenders](https://www.youtube.com/c/TechDefenders) | Focused on tech security, including tutorials on securing networks, ethical hacking, and best practices in cybersecurity. |
 | [Pentesting Academy](https://www.youtube.com/c/PentestingAcademy) | A channel designed for those looking to improve their penetration testing skills through structured courses and tutorials.|
 | [CyberForged](https://www.youtube.com/@cyberforged)| Spanish Channel that talks about cybersecurity and news.|
-|[Talking Sasquach](https://www.youtube.com/channel/UCUoJk48pujh29p8zLsnD5PQ)| We do cybersec tutorials using things like the Flipper Zero, HackRF and more!|
+| [Talking Sasquach](https://www.youtube.com/channel/UCUoJk48pujh29p8zLsnD5PQ)| We do cybersec tutorials using things like the Flipper Zero, HackRF and more!|
 
 
 ## [↑](#-content) ⭐️ Star History
