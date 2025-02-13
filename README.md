@@ -1410,15 +1410,15 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA#download)    | Vulnerable Web Application | An intentionally vulnerable web application designed to practice web application security testing and vulnerability exploitation.                                   |
 | [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/)                                 | Vulnerable Web Application | An insecure online web application created by OWASP for practicing and learning about different web vulnerabilities.                                                |
 | [Reversing.Kr](http://reversing.kr/)                                           | A reverse engineering challenge platform designed to build skills in binary exploitation and malware analysis.     |
-|[CFTd](https://ctfd.io/)| Open Source CTF Plataform|
-| [TryHackMe](https://tryhackme.com/)          | A guided cybersecurity training platform with interactive, hands-on labs and ctfs on various topics from beginner to advanced.          |
-| [HackTheBox](https://app.hackthebox.com/)                             | A cybersecurity training platform with virtual hacking labs and real-world challenges for all skill levels.                      |
-| [picoCTF](https://play.picoctf.org/)                       | A CTF platform that has a wide range of CTF challenges related to various topics like Web Exploitation, Cryptography, Reverse Engineering, Forensics, Binary Exploitation and more.                                 |
-| [Root Me](https://www.root-me.org/)                       | A platform to practice various relevant CTF challenges based on Web, Steganography, App, Forensics, Network, Programming, etc.                                     |
-| [OverTheWire (Wargames)](https://overthewire.org/wargames/)                   | A collection of wargames designed to teach Linux, networking, and exploitation through progressively harder challenges.           |
-| [CTFLearn](https://ctflearn.com/)             | A beginner-friendly CTF platform with challenges covering various cybersecurity topics.        |
-| [CTFTime](https://ctftime.org/)       | A competitive CTF platform that tracks the CTF events worldwide and allows teams of CTF players to compete and get tracks of scores, rankings and ratings. |
-| [Cryptohack](https://cryptohack.org/)      | A platform focused on cryptography-based CTF challenges, that teaches concepts through problem-solving.            
+|[CFTd](https://ctfd.io/)|  Web CTFs|Open Source CTF Plataform|
+| [TryHackMe](https://tryhackme.com/)          | Web CTFs                   | A guided cybersecurity training platform with interactive, hands-on labs and ctfs on various topics from beginner to advanced.          |
+| [HackTheBox](https://app.hackthebox.com/)                             |Web CTFs                   | A cybersecurity training platform with virtual hacking labs and real-world challenges for all skill levels.                      |
+| [picoCTF](https://play.picoctf.org/)                       |Web CTFs                   | A CTF platform that has a wide range of CTF challenges related to various topics like Web Exploitation, Cryptography, Reverse Engineering, Forensics, Binary Exploitation and more.                                 |
+| [Root Me](https://www.root-me.org/)                       |Web CTFs                   | A platform to practice various relevant CTF challenges based on Web, Steganography, App, Forensics, Network, Programming, etc.                                     |
+| [OverTheWire (Wargames)](https://overthewire.org/wargames/)                   | Exercises and Linux Challenges                   |A collection of wargames designed to teach Linux, networking, and exploitation through progressively harder challenges.           |
+| [CTFLearn](https://ctflearn.com/)             |Web CTFs                   | A beginner-friendly CTF platform with challenges covering various cybersecurity topics.        |
+| [CTFTime](https://ctftime.org/)       | Web CTFs                   |A competitive CTF platform that tracks the CTF events worldwide and allows teams of CTF players to compete and get tracks of scores, rankings and ratings. |
+| [Cryptohack](https://cryptohack.org/)      |Web CTFs                   | A platform focused on cryptography-based CTF challenges, that teaches concepts through problem-solving.            
 
 
 ### [↑](#-content) 📙 Open-Source Repositories
