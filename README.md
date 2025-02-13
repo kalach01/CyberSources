@@ -1332,8 +1332,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Advanced Threat Tactics Course & Notes](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/)                           | A comprehensive guide and course on advanced threat tactics by Cobalt Strike.                                                                                                                                                |
 | [FireEye - a whiteboard session on red team operations](https://www.fireeye.com/services/red-team-assessments/red-team-operations-video-training.html) | A video session from FireEye that covers red team operations and assessments.                                                                                                                                                |
 | [Hacksplaining](https://www.hacksplaining.com/)| Completely free, comprehensive security training for web developers. Covers every major security vulnerability you are likely to face. Concrete, no-nonsense advice for the developer in a hurry.|
-| ["Técnico en Ciberseguridad" - DarFe](https:moodle.darfe.es)                                                                                                     | First level (free) Cybersecurity course. |
-| ["Aprendiendo Ciberseguridad paso a paso" - DarFe](https://www.youtube.com/playlist?list=PL0QSAEWH0x_ihClxRlqpfmTE-Blar9ZNY)                                     | Youtube Cybersecurity cycle. |
+| [Hacker101](http://hacker101.com/)|Hacker101 is a free class for web security. Whether you’re a programmer with an interest in bug bounties or a seasoned security professional.|
+| [SANS](https://www.sans.org/cyberaces/)|Free Cyber Security Training. Your gateway to cyber security skills and careers|
+| [Cybersecurity Guide](https://cybersecurityguide.org/)|Find your cybersecurity guide|
 
 ### [↑](#-content) 📝 Certifications
 
@@ -1392,15 +1393,10 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [awesome-ctf](https://apsdehal.in/awesome-ctf/#steganography-1)                       | Steganography |
 | [Flipper Zero BadUSB Mastery](https://tryhackme.com/r/room/flipperzerobadusbmastery)  | BadUSB        | Learn how to craft and deploy BadUSB payloads for the Flipper Zero using DuckyScript. This room focuses on automating keystroke attacks for ethical hacking and testing purposes.                                         |
 | [InfoMachines](https://infosecmachines.io/)                                           | Writeups      | S4vitar Machine's Resolutions.                                                                                                                                                                                            |
-| [TryHackMe](https://tryhackme.com/)          | Platform                                             | A guided cybersecurity training platform with interactive, hands-on labs and ctfs on various topics from beginner to advanced.          |
-| [HackTheBox](https://app.hackthebox.com/)     | Platform                                          | A cybersecurity training platform with virtual hacking labs and real-world challenges for all skill levels.                      |
-| [picoCTF](https://play.picoctf.org/)       |  Platform                            | A CTF platform that has a wide range of CTF challenges related to various topics like Web Exploitation, Cryptography, Reverse Engineering, Forensics, Binary Exploitation and more.                                 |
-| [Root Me](https://www.root-me.org/)             |    Platform                            | A platform to practice various relevant CTF challenges based on Web, Steganography, App, Forensics, Network, Programming, etc.                                     |
-| [OverTheWire (Wargames)](https://overthewire.org/wargames/)         |   Platform                     | A collection of wargames designed to teach Linux, networking, and exploitation through progressively harder challenges.           |
-| [CTFLearn](https://ctflearn.com/)               | Platform | A beginner-friendly CTF platform with challenges covering various cybersecurity topics.        |
-| [CTFTime](https://ctftime.org/)      |    Platform       | A competitive CTF platform that tracks the CTF events worldwide and allows teams of CTF players to compete and get tracks of scores, rankings and ratings. |
-| [Cryptohack](https://cryptohack.org/)  | Platform        | A platform focused on cryptography-based CTF challenges, that teaches concepts through problem-solving.                          |
-| [Reversing.Kr](http://reversing.kr/)                                           | Platform      | A reverse engineering challenge platform designed to build skills in binary exploitation and malware analysis.     |    
+              |
+
+|[CFT Time](https://ctftime.org/)|Platform |Public directory of all CTFs organized currently or in the past|
+
 
 ### [↑](#-content) 🕸️ Practice Webs
 
@@ -1413,6 +1409,16 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Hacker101-CTF](https://ctf.hacker101.com/)                                             | Web CTFs                   | A CTF platform offering real-world challenges for web penetration testers or bug bounty hunters to hone their skills in finding and exploiting web vulnerabilities. |
 | [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA#download)    | Vulnerable Web Application | An intentionally vulnerable web application designed to practice web application security testing and vulnerability exploitation.                                   |
 | [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/)                                 | Vulnerable Web Application | An insecure online web application created by OWASP for practicing and learning about different web vulnerabilities.                                                |
+| [Reversing.Kr](http://reversing.kr/)                                           | A reverse engineering challenge platform designed to build skills in binary exploitation and malware analysis.     |
+|[CFTd](https://ctfd.io/)| Open Source CTF Plataform|
+| [TryHackMe](https://tryhackme.com/)          | A guided cybersecurity training platform with interactive, hands-on labs and ctfs on various topics from beginner to advanced.          |
+| [HackTheBox](https://app.hackthebox.com/)                             | A cybersecurity training platform with virtual hacking labs and real-world challenges for all skill levels.                      |
+| [picoCTF](https://play.picoctf.org/)                       | A CTF platform that has a wide range of CTF challenges related to various topics like Web Exploitation, Cryptography, Reverse Engineering, Forensics, Binary Exploitation and more.                                 |
+| [Root Me](https://www.root-me.org/)                       | A platform to practice various relevant CTF challenges based on Web, Steganography, App, Forensics, Network, Programming, etc.                                     |
+| [OverTheWire (Wargames)](https://overthewire.org/wargames/)                   | A collection of wargames designed to teach Linux, networking, and exploitation through progressively harder challenges.           |
+| [CTFLearn](https://ctflearn.com/)             | A beginner-friendly CTF platform with challenges covering various cybersecurity topics.        |
+| [CTFTime](https://ctftime.org/)       | A competitive CTF platform that tracks the CTF events worldwide and allows teams of CTF players to compete and get tracks of scores, rankings and ratings. |
+| [Cryptohack](https://cryptohack.org/)      | A platform focused on cryptography-based CTF challenges, that teaches concepts through problem-solving.            
 
 
 ### [↑](#-content) 📙 Open-Source Repositories
@@ -1542,6 +1548,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [**NMAP Network Scanning: Official Discovery**](https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717)                                                            | Official documentation for using Nmap for network discovery and vulnerability scanning.                           |
 | [**Social Engineering: The Art of Human Hacking**](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)                                                             | Explores the psychological and technical aspects of social engineering and how to protect against it.             |
 | [**Incognito Toolkit: Tools, Apps, and Creative Methods for Remaining Anonymous**](https://www.amazon.com/Incognito-Toolkit-Communicating-Publishing-Researching/dp/0985049146)           | A guide to tools and techniques for maintaining anonymity online while communicating, publishing, or researching. |
+|[CFT Guide](https://trailofbits.github.io/ctf/)|Online book about preparing for CTFs|
 
 
 
