@@ -115,7 +115,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 | **Tool**                                                      | **Description**                   |
 | ------------------------------------------------------------- | --------------------------------- |
-| [OsintLabs](https://github.com/iamosinter/OsintLab/tree/main) | Tools and sites usefull for osint |
+| [OsintLabs](https://github.com/iamosinter/OsintLab/tree/main) | Tools and sites useful for osint |
 | [OSINT Framework](https://osintframework.com/)               | HUGE collection of OSINT tools    |
 | [Mitaka](https://github.com/ninoseki/mitaka)                 | Mitaka is a browser extension that makes your OSINTsearch & scan easier|
 | [osint.rocks](https://osint.rocks)                                                                                                                     | A resource for locating and investigating individuals.                                          |
