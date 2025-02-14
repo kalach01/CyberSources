@@ -1393,9 +1393,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Top CTF challenges](https://www.yeahhub.com/top-steganography-tools-ctf-challenges/) | Steganography |                                                                                                                                                                                                                           |
 | [awesome-ctf](https://apsdehal.in/awesome-ctf/#steganography-1)                       | Steganography |
 | [Flipper Zero BadUSB Mastery](https://tryhackme.com/r/room/flipperzerobadusbmastery)  | BadUSB        | Learn how to craft and deploy BadUSB payloads for the Flipper Zero using DuckyScript. This room focuses on automating keystroke attacks for ethical hacking and testing purposes.                                         |
-| [InfoMachines](https://infosecmachines.io/)                                           | Writeups      | S4vitar Machine's Resolutions.                                                                                                                                                                                            |
-              |
-
+| [InfoMachines](https://infosecmachines.io/)                                           | Writeups      | S4vitar Machine's Resolutions.    |
 |[CFT Time](https://ctftime.org/)|Platform |Public directory of all CTFs organized currently or in the past|
 
 
