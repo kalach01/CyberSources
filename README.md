@@ -1466,6 +1466,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | Event                                                                                                            | Description                                      |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | [BSides Calendar](https://calendar.google.com/calendar/embed?src=bsidescalendar%40gmail.com&ctz=Europe%2FMadrid) | The calendar of BSides events arround the world. |
+| [leHack](https://lehack.org/) |leHACK is the oldest and largest hacker event in France.|
+| [HackBCN](https://hackbcn.org/) |The most important hacking conference in Barcelona dedicated to innovation, learning and technological development. |
+| [Navaja Negra](https://www.navajanegra.com/)| Conference in Albacete with workshops, talks and more...|
 
 
 
