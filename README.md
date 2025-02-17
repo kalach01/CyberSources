@@ -545,7 +545,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Fierce](https://github.com/darkoperator/fierce)              | A domain scanner tool for DNS reconnaissance, useful for network mapping.           |
 | [MitM](https://github.com/oxagast/mitm)                       | A man-in-the-middle framework for intercepting, modifying, and injecting traffic.    |
 | [HTTP Toolkit](https://httptoolkit.com/) |HTTP Toolkit is an open-source tool for debugging, testing and building with HTTP on Windows, Linux & Mac. 1 click setup for rooted devices. |
-| [Sniffet](https://github.com/GyulyVGC/sniffnet) | Application to comfortably monitor your internet or traffic. |
+| [Sniffnet](https://github.com/GyulyVGC/sniffnet) | Application to comfortably monitor your internet or traffic. |
 
 ### [↑](#-content) 2.7 RFID
 
