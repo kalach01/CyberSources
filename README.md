@@ -4,7 +4,7 @@
 
 Welcome to the **Cybersources**! This project serves as a central hub for a wide range of tools, resources, and educational materials designed for cybersecurity professionals, enthusiasts, and learners. Whether you're just starting out or an experienced expert, you'll find everything you need to enhance your skills, stay updated with industry trends, and deepen your knowledge in this fast-evolving field. 
 
-**🎉 Join now the discord community (+725 members): https://discord.gg/6s9W3EQApw 🎉**
+**🎉 Join now the discord community (+750 members): https://discord.gg/6s9W3EQApw 🎉**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunoooost%2Fcybersources&count_bg=%236DAC3E&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![](https://img.shields.io/badge/Discord-%235865F2.svg?style=Social&logo=discord&logoColor=white)](https://discord.gg/HhjhQgnp54)
@@ -545,6 +545,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Fierce](https://github.com/darkoperator/fierce)              | A domain scanner tool for DNS reconnaissance, useful for network mapping.           |
 | [MitM](https://github.com/oxagast/mitm)                       | A man-in-the-middle framework for intercepting, modifying, and injecting traffic.    |
 | [HTTP Toolkit](https://httptoolkit.com/) |HTTP Toolkit is an open-source tool for debugging, testing and building with HTTP on Windows, Linux & Mac. 1 click setup for rooted devices. |
+| [Sniffet](https://github.com/GyulyVGC/sniffnet) | Application to comfortably monitor your internet or traffic. |
 
 ### [↑](#-content) 2.7 RFID
 
