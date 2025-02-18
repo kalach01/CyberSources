@@ -1093,6 +1093,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Cylect.io](https://cylect.io)                                       | Ultimate OSINT search engine for various investigations.                                                                                                                                                                                              |
 | [DorkGPT](https://www.dorkgpt.com/)                                  | OSINT tool for automated Google dorking and advanced searches.                                                                                                                                                                                        |
 | [ZoomEye](https://ZoomEye.ai)                                        | ZoomEye is a cyberspace search engine for detailed website investigation and cybersecurity analysis.                                                                                                                                                                                                     |
+|[Bug Bounty Hunting](https://www.bugbountyhunting.com/)|Bug Bounty Hunting Search Engine|
 
 ### 6.5 [↑](#-content) DNS/IP
 
@@ -1300,7 +1301,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Hacktricks](https://book.hacktricks.wiki/en/index.html) | Welcome to the wiki where you will find each hacking trick/technique/whatever I have learnt from CTFs, real life apps, reading researches, and news. |
 | [HardBreak](https://www.hardbreak.wiki/) | An open-source Hardware Hacking Wiki that aims to gather all essential knowledge for hardware hacking in one place. Whether you are a beginner or more advanced! |
 |[FR Secure](https://frsecure.com/resources/)|A company that does many cybersecurity things, but they offer a ton of great free blue team engineering and policy resources.|
-|[Bug Bounty Hunting](https://www.bugbountyhunting.com/)|Bug Bounty Hunting Search Engine|
+|[HackingTraining](https://hackertraining.org/)|This website  includes numerous resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research,...
 
 
 ### [↑](#-content) 📚 Courses
