@@ -504,6 +504,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Httpx](https://github.com/projectdiscovery/httpx)                                                    | A fast and efficient multi-purpose tool for probing and discovering HTTP-based services, performing various checks like SSL/TLS, redirects, and more.                                                                                                             |
 | [SecLists](https://github.com/danielmiessler/SecLists) | Seclist is a depository full if word list I use it for Gobuster and other brute forcing aapplications. It has a variety of wordlists for your needs of small wordlists to large wordlists.|
 | [Burp Suite](https://portswigger.net/burp/documentation/desktop/getting-started/download-and-install) | A powerful GUI based integrated platform for web application security testing, offering tools for intercepting traffic, scanning vulnerabilities, brute-forcing and exploiting security flaws.                                                                    |
+|[HExHTTP](https://github.com/c0dejump/HExHTTP)|Tool designed to perform tests on HTTP headers and analyze the results to identify vulnerabilities and interesting behaviors.|
 
 
 ### 2.6 [↑](#-content) Network
