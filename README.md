@@ -157,6 +157,12 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Sherlock](https://github.com/sherlock-project/sherlock) | Search for usernames across social media and other websites.                                   |
 | [Social Searcher](https://social-searcher.com) | OSINT tool to search social media platforms for public information.                            |
 | [UnAvatar](https://unavatar.io)     | Discover avatars tied to an email address across different platforms.                         |
+| [Instant Username](https://instantusername.com/)|Instantly check username availability across multiple platforms as you type.|
+| [NamesDir](https://namesdir.com/)|Namesdir is a simple web tool to list most of the existing first names for a surname and vice versa.|
+| [Amazon Usernames](https://www.google.com/search?q=site:amazon.com+%3Cusername%3E)|URL for search usernames for Amazon|
+| [GitHub Usernames](https://api.github.com/users/%3Cusername%3E/events/public)|URL to find GitHub users.|
+| [Tinder Usernames](https://www.gotinder.com/@%3Cusername%3E)|URL to find tinder users.|
+
 
 #### 1.3 [↑](#-content) Email Search
 
@@ -188,7 +194,19 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Synapsint](https://synapsint.com)  | OSINT search engine for finding public data across social networks and websites.                |
 | [That's Them](https://thatsthem.com) | Provides a quick search for people and email addresses to locate social profiles and data.        |
 | [Whoisology](https://whoisology.com) | OSINT platform used for investigating domain ownership, email addresses, and IP data.             |
-
+| [Ashley Madison Emails](https://ashley.cynic.al/)|Was your profile compromised in the Ashley Madison hack?|
+| [MailBox Validator](https://www.mailboxvalidator.com/demo)|Validate and clean your email list by detecting disposable emails, invalid emails, mail server and much more.|
+| [EmailRep](https://emailrep.io/)|Illuminate the "reputation" behind an email address|
+| [ReadNotify](https://www.readnotify.com/)|ReadNotify lets you know when email you've sent gets read!|
+| [MailScrap](https://mailscrap.com/)|This email verification tool actually connects to the mail server and checks whether the mailbox exists or not, wipeout disposable email addresses from your email list.|
+| [Check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)|Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.|
+| [OneLook](https://www.onelook.com/reverse-dictionary.shtml)|Enter a word, phrase, description, or pattern above to find synonyms, related words, and more.|
+| [Email Permutator](http://metricsparrow.com/toolkit/email-permutator/)|This tool is intended to help you find the email addresses of people you need to contact.|
+| [Toofr](https://www.toofr.com/)|Find Anyone’s Email Address in Seconds. Instantly connect with decision-makers that matter to your business.|
+| [Skymem](https://www.skymem.info/)|Find email addresses of companies and people|
+| [the Harvester](https://github.com/laramies/theHarvester)|E-mails, subdomains and names Harvester - OSINT|
+| [Voilanobert](https://www.voilanorbert.com/)|I can find anyone's email address|
+| [Hunter](https://hunter.io/)|Hunter is your all-in-one email outreach platform.|
 
 
 #### 1.4 [↑](#-content) GEOINT
