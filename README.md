@@ -567,6 +567,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [MitM](https://github.com/oxagast/mitm)                       | A man-in-the-middle framework for intercepting, modifying, and injecting traffic.    |
 | [HTTP Toolkit](https://httptoolkit.com/) |HTTP Toolkit is an open-source tool for debugging, testing and building with HTTP on Windows, Linux & Mac. 1 click setup for rooted devices. |
 | [Sniffnet](https://github.com/GyulyVGC/sniffnet) | Application to comfortably monitor your internet or traffic. |
+| [Uptime-Kuma](https://github.com/louislam/uptime-kuma)|A fancy self-hosted monitoring tool.|
 
 ### [↑](#-content) 2.7 RFID
 
