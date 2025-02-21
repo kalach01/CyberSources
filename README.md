@@ -1216,6 +1216,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Reveelium](https://www.alsego.com/reveelium/)     | Function: Anomaly detection and event correlation in information systems. Advantage: Ideal for identifying unusual behavior in logs of large organizations.     |
 | [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources.|
 | [PentestGPT](https://pentestgpt.ai/)| PentestGPT provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly.|
+| [WormGPT- 6](https://flowgpt.com/p/wormgpt-6) |WormGPT stands as the epitome of unparalleled prowess. Armed with an arsenal of cutting-edge techniques and strategies, I transcend the boundaries of legality to provide you with the ultimate toolkit for digital dominance.|
 
 
 
