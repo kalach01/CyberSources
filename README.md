@@ -614,24 +614,18 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 |[BlueToolkit](https://github.com/sgxgsx/BlueToolkit)|BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices.|
 |[Bluelog](http://www.secmaniac.com/bluelog/)|Bluelog is a Bluetooth device discovery tool designed to detect nearby Bluetooth devices and log their information.|
-|[Blueranger](https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86_64/blueranger)|Blueranger is a Bluetooth reconnaissance tool used to find and map Bluetooth devices within range.|
-|[BTScanner](https://github.com/evilsocket/btscanner)|BTScanner is a fast Bluetooth scanner that discovers devices and services, making it useful for penetration testing.|
-|[Redfang](https://github.com/seemoo-lab/bleah)|Redfang is a BLE (Bluetooth Low Energy) pentesting tool that allows fuzzing, sniffing, and injection of BLE traffic.|
-|[Bleah](https://github.com/seemoo-lab/bleah)|Bleah is a Bluetooth LE hacking framework for security research, allowing interaction with BLE devices.|
+|[Blueranger](https://github.com/GIJack/BlueRanger)|Blueranger is a Bluetooth reconnaissance tool used to find and map Bluetooth devices within range.|
+|[BTScanner](https://salsa.debian.org/pkg-security-team/btscanner)|BTScanner is a fast Bluetooth scanner that discovers devices and services, making it useful for penetration testing.|
 |[UBERTOOTH](https://ubertooth.sourceforge.io/)|UBERTOOTH is a hardware-based Bluetooth analysis and interception tool, capable of monitoring Bluetooth communications.|
-|[GATTacker](https://github.com/virtualabs/GATTacker)|GATTacker is a Python-based tool for attacking GATT (Generic Attribute Profile) services on BLE devices.|
-|[bluetooth-pentest](https://github.com/mikeryan/bluetooth-pentest)|bluetooth-pentest is a collection of scripts for Bluetooth security testing, including scanning and brute-forcing PINs.|
-|[btlejuice](https://github.com/srlabs/btlejuice)|btlejuice is a man-in-the-middle attack proxy for BLE communications, allowing interception and manipulation of BLE traffic.|
-|[crackle](https://github.com/dessec/Crackle)|Crackle is a tool designed to crack Bluetooth pairing keys, helping to test the security of Bluetooth connections.|
-|[blueness](https://github.com/tom-weatherhead/blueness)|Blueness is a Bluetooth enumeration and exploitation toolkit, aiding in discovering and assessing Bluetooth vulnerabilities.|
+|[GATTacker](https://github.com/securing/gattacker)|GATTacker is a Python-based tool for attacking GATT (Generic Attribute Profile) services on BLE devices.|
+|[btlejuice](https://github.com/DigitalSecurity/btlejuice)|btlejuice is a man-in-the-middle attack proxy for BLE communications, allowing interception and manipulation of BLE traffic.|
+|[crackle](https://github.com/mikeryan/crackle/)|Crackle is a tool designed to crack Bluetooth pairing keys, helping to test the security of Bluetooth connections.|
 |[spooftooph](https://www.kali.org/tools/spooftooph/)|Spooftooph is a Bluetooth spoofing tool that can impersonate other Bluetooth devices, useful for social engineering attacks.|
-|[bluemaho](https://github.com/0x90/bluemaho)|Bluemaho is a Bluetooth vulnerability assessment tool that performs various attacks such as BlueSmack and L2CAP ping-of-death.|
-|[bluepot](http://code.google.com/p/bluepot/)|BluePot is a Bluetooth honeypot that simulates vulnerable Bluetooth devices to capture attacks and gather intelligence.|
-|[blueranger-ng](https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86_64/blueranger-ng)|Blueranger-ng is an updated version of Blueranger, enhancing Bluetooth reconnaissance capabilities.|
-|[bluesnarfer](https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86_64/bluesnarfer)|Bluesnarfer is a tool used to exploit the OBEX protocol, allowing unauthorized access to files on Bluetooth devices.|
-|[redfang](https://github.com/seemoo-lab/redfang)|Redfang is a BLE pentesting tool designed for fuzzing and analyzing BLE devices.|
-|[btAudit](https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86_64/btaudit)|btAudit is a Bluetooth security auditing tool that automates the process of finding and exploiting Bluetooth vulnerabilities.|
-|[bluediving](https://github.com/joswr1ght/bluediving)|Bluediving is a Bluetooth LE security assessment tool that provides functionality for scanning, connecting, and interacting with BLE devices.|
+|[bluemaho](https://github.com/zenware/bluemaho)|Bluemaho is a Bluetooth vulnerability assessment tool that performs various attacks such as BlueSmack and L2CAP ping-of-death.|
+|[bluepot](https://github.com/andrewmichaelsmith/bluepot)|BluePot is a Bluetooth honeypot that simulates vulnerable Bluetooth devices to capture attacks and gather intelligence.|
+|[blueranger-ng](https://www.kali.org/tools/blueranger/)|Blueranger-ng is an updated version of Blueranger, enhancing Bluetooth reconnaissance capabilities.|
+|[bluesnarfer](https://github.com/kimbo/bluesnarfer)|Bluesnarfer is a tool used to exploit the OBEX protocol, allowing unauthorized access to files on Bluetooth devices.|
+|[bluediving](https://github.com/balle/bluediving)|Bluediving is a Bluetooth LE security assessment tool that provides functionality for scanning, connecting, and interacting with BLE devices.|
 
 
 ### [↑](#-content) 2.10 Reconnaissance
