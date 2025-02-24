@@ -488,6 +488,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [R2Dec](https://github.com/wargio/r2dec-js)              | Decompiler plugin for radare2                                                                                                                        |
 | [Decai](https://github.com/radareorg/r2ai)               | LLM-based decompiler for radare2                                                                                                                     |
 | [BinaryNinja](https://binary.ninja/) | Binary Ninja is an interactive decompiler, disassembler, debugger, and binary analysis platform built by reverse engineers, for reverse engineers. |
+| [apktool](https://apktool.org/)|A tool for reverse engineering Android apk files|
+|[Procyon](https://github.com/ststeiger/procyon)|Procyon java decompiler - Procyon is a binary star system in Canis Minor|
 
 ### 2.4 [↑](#-content) Disassembler and debuggers
 
