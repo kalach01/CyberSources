@@ -10,10 +10,22 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 [![](https://img.shields.io/badge/Discord-%235865F2.svg?style=Social&logo=discord&logoColor=white)](https://discord.gg/HhjhQgnp54)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=Social&logo=reddit&logoColor=white)](https://www.reddit.com/r/cybersources/)
 
+---
+
+### **Sponsored by:**
+
+[![image](https://github.com/user-attachments/assets/3b8d206f-6017-4bc1-a7d4-7d8646cf86d0)](https://hudsonrock.com/free-tools/?=cybersources)
+
+[Use Hudson Rock's free cybercrime intelligence tools to learn how Infostealer infections are impacting your business ](https://hudsonrock.com/free-tools/?=cybersources)
+
+
+
+--- 
+
 
 </div>
 
-### [**Sponsored by Hudson Rock**](https://hudsonrock.com/free-tools/?=cybersources) – Use Hudson Rock's free cybercrime intelligence tools to learn how Infostealer infections are impacting your business
+
 
 
 
