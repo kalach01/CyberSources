@@ -1364,7 +1364,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[FR Secure](https://frsecure.com/resources/)|A company that does many cybersecurity things, but they offer a ton of great free blue team engineering and policy resources.|
 |[HackingTraining](https://hackertraining.org/)|This website  includes numerous resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research,...|
 |[SecTube](https://sectube.tv/)| On SecTube you will find hundreds of videos on offensive IT security that have been manually categorized. You can also search the videos by keyword using SecTube search bar.|
-
+| [Ransomchats](https://ransomch.at/) | A collection of redacted real-world ransomware negotiations. |
 
 
 ### [↑](#-content) 📚 Courses
