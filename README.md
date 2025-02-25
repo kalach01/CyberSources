@@ -13,6 +13,12 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 </div>
 
+> [!IMPORTANT]  
+> **Sponsored by Hudson Rock** – Use Hudson Rock's free cybercrime intelligence tools to learn how Infostealer infections are impacting your business
+
+
+
+
 
 ## 📋 Content
 
@@ -185,7 +191,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [LeakCheck](https://leakcheck.net)  | Search over 7.5B breached entries for emails, usernames, and other data.                    |
 | [ActiveTK.jp](https://activetk.jp)  | Obtain Google account information from a Gmail address, such as name, profile image, and services used. |
 | [Black Kite](https://blackkite.com) | Cybersecurity tool for assessing third-party risks.                                         |
-| [Hudson Rock Cybercrime Intelligence Tools](https://hudsonrock.com) | Comprehensive tools for cybercrime intelligence and monitoring.                             |
+| [Hudson Rock Cybercrime Intelligence Tools]( https://hudsonrock.com/free-tools/?=cybersources) | Comprehensive tools for cybercrime intelligence and monitoring.                             |
 | [Intelltechniques](https://inteltechniques.com) | Collection of OSINT tools for diverse investigations.                                       |
 | [OCCRP Aleph](https://aleph.occrp.org) | Investigative platform for OSINT tools, particularly useful for journalists and activists.        |
 | [Omail](https://omail.io)           | OSINT tool for checking email addresses against multiple online sources.                         |
