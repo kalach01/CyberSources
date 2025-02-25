@@ -13,10 +13,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 </div>
 
-> [!IMPORTANT]  
-> **Sponsored by Hudson Rock** – Use Hudson Rock's free cybercrime intelligence tools to learn how Infostealer infections are impacting your business
-
-
+### [**Sponsored by Hudson Rock**](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fhudsonrock.com%2Ffree-tools%2F%3F%3Dcybersources&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-ZjVlODcyODYtOTRhNS00MzhjLWFiNjUtOTMwZjVhYTQ5YWJhXzEwMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BJJEY8BrfTIKKC0jHLrRUVQ%3D%3D) – Use Hudson Rock's free cybercrime intelligence tools to learn how Infostealer infections are impacting your business
 
 
 
