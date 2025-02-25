@@ -77,8 +77,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 * [VPNs](#-53-VPNs)
 
 **Utility & Miscellaneous**
-* [Utility]((#61--utility))
-* [Miscellaneous]((#62--miscellaneous))
+* [Utility](#61--utility)
+* [Miscellaneous](#62--miscellaneous)
 * [News](#63--news)
 * [Search Engines](#64--search-engines)
 * [DNS/IP](#65--dnsip)
