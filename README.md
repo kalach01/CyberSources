@@ -1405,6 +1405,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [SANS](https://www.sans.org/cyberaces/)|Free Cyber Security Training. Your gateway to cyber security skills and careers|
 | [Cybersecurity Guide](https://cybersecurityguide.org/)|Find your cybersecurity guide|
 | [CyberLand Sec](https://cyberlandsec.com/)| Web to do free courses, ctf challenges and more about the cybersecurity world.|
+| [LetsDefend](https://letsdefend.io/)|LetsDefend helps you build a blue team career with hands-on experience by investigating real cyber attacks inside a simulated SOC.|
 
 ### [↑](#-content) 📝 Certifications
 
