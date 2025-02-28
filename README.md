@@ -594,6 +594,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [HTTP Toolkit](https://httptoolkit.com/) |HTTP Toolkit is an open-source tool for debugging, testing and building with HTTP on Windows, Linux & Mac. 1 click setup for rooted devices. |
 | [Sniffnet](https://github.com/GyulyVGC/sniffnet) | Application to comfortably monitor your internet or traffic. |
 | [Uptime-Kuma](https://github.com/louislam/uptime-kuma)|A fancy self-hosted monitoring tool.|
+| [Nope Proxy](https://github.com/summitt/Nope-Proxy) | Nope is a non-http (TCP and UDP) proxy extension for burp suite. Nope has a built in DNS, port monitor, scripting engine, and proxies for row TCP and UDP sockets. |
 
 ### [↑](#-content) 2.7 RFID
 
@@ -1043,6 +1044,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [VigilantOnion](https://github.com/andreyglauzer/VigilantOnion)                                    | Crawls and monitors .onion sites for specified keywords or changes.                                                                                                                         |
 | [OnionIngestor](https://github.com/danieleperera/OnionIngestor)                                    | Gathers data from Tor hidden services for analysis or intelligence purposes.                                                                                                                |
 | [DumpsterDiver](https://github.com/securing/DumpsterDiver)                                                           | DumpsterDiver is a tool, which can analyze big volumes of data in search of hardcoded secrets like keys (e.g. AWS Access Key, Azure Share Key or SSH keys) or passwords.                                                                                                                        |
+| [Faction](https://github.com/factionsecurity/faction) | Faction is an open-source tool that automates many aspects of manual penetration testing. Faction automates pen-test reports, tracks vulnerabilities, and schedules pen-test assessments. | 
 
 ### 6.2 [↑](#-content) Miscellaneous
 
