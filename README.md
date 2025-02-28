@@ -15,10 +15,10 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 ### **Sponsored by:**
 
 <a href="https://odh.ivan-vcard.xyz/index.html">
-<img src="https://github.com/user-attachments/assets/a5294493-3079-4b05-9993-2c4d20caffc6" alt="ODH" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/a5294493-3079-4b05-9993-2c4d20caffc6" alt="ODH" width="150" height="150">
  </a>
 <a href="https://hudsonrock.com/free-tools/?=cybersources">
-  <img src="https://github.com/bst04/CyberSources/blob/main/cybersources/Hudson_Rock_Logo_URL.png?raw=true" alt="Hudson Rock" width="700" height="200">
+  <img src="https://github.com/bst04/CyberSources/blob/main/cybersources/Hudson_Rock_Logo_URL.png?raw=true" alt="Hudson Rock" width="500" height="150">
 </a>
 
 
