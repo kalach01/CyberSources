@@ -1206,6 +1206,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Check-The-Sum](https://www.checkthesum.com)                                                                                            | A database of malicious files, IPs, and domains collected from honeypots.                           |
 | [Adalanche](https://github.com/lkarlslund/Adalanche?tab=readme-ov-file)                                                                 | Open Source Active Directory ACL Visualizer and Explorer.                                           |
 |[Wi-Fi Range and Speed Optimization Script (Windows-based)](https://github.com/ivanbg2004/Range-Speed-Optimitzation)|PowerShell script to optimize Wi-Fi range and speed on Windows.|
+|[Router Optimization Script](https://github.com/ivanbg2004/Router-Optimization-Script)|Script to optimize router settings for better performance and stability.|
 
 
 
