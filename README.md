@@ -1303,6 +1303,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | Tool                                  | Description                                                                                     |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Cybersec](https://cybersectools.com) | A cybersecurity platform that integrates with SIEM solutions for centralized threat management. |
+|[Elastic Search](https://www.elastic.co/elasticsearch)|Elasticsearch is an open source distributed, RESTful search and analytics engine, scalable data store, and vector database capable of addressing a growing number of use cases.|
 
 
 ## [↑](#-content) 9. Hardware & Operating Systems
