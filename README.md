@@ -1334,6 +1334,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [QNX](https://www.blackberry.com/us/en/products/qnx) | A real-time operating system (RTOS) used in embedded devices and automotive systems. |
 | [Solus](https://getsol.us)                         | An independent Linux distribution that provides a unique workspace environment with a simplified user experience. |
 | [SUSE Linux Enterprise](https://www.suse.com)      | An enterprise Linux operating system with a focus on security and managing large IT environments. |
+| [CasaOS](https://casaos.io/)|Community-based open source software focused on delivering simple personal cloud experience around Docker ecosystem.|
 
 
 
