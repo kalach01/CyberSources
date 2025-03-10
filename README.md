@@ -158,6 +158,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [LensoAI](https://lenso.ai/en)                                                                                                                         | AI-driven platform for reverse image searching.                                                 |
 | [OSINT Investigation Assistant](https://lambda.black/osint.html)| An OSINT Investigation Assistant designed to help with people investigations |
 | [ClatScope](https://github.com/Clats97/ClatScope)|The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (42 features).|
+| [DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon)|It allows for the extraction of various types of sensitive information including emails, phone numbers, hashes, credit cards, URLs, IP addresses, MAC addresses, SRV DNS records and more.|
+
 
 #### 1.2 [↑](#-content) Username Search
 
