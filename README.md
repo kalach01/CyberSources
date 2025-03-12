@@ -1389,6 +1389,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[SecTube](https://sectube.tv/)| On SecTube you will find hundreds of videos on offensive IT security that have been manually categorized. You can also search the videos by keyword using SecTube search bar.|
 | [Ransomchats](https://ransomch.at/) | A collection of redacted real-world ransomware negotiations. |
 | [Ransomware.live](https://www.ransomware.live) | Monitoring Ransomware groups and their victims in real-time |
+|[Corelan](https://www.corelan.be/)|Corelan Cybersecurity Research. Knowledge is not an object, it's a flow.|
 
 
 ### [↑](#-content) 📚 Courses
