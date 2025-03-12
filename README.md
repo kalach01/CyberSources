@@ -743,7 +743,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[Bug Bounty Hunting](https://www.bugbountyhunting.com/)|Bug Bounty Hunting Search Engine|
 
 
-### [↑](#-content) 2.11 Binary Explotation
+### [↑](#-content) 2.12 Binary Explotation
 
 | Tool                                               | Description                                                                                      |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
