@@ -162,6 +162,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [OSINT Investigation Assistant](https://lambda.black/osint.html)| An OSINT Investigation Assistant designed to help with people investigations |
 | [ClatScope](https://github.com/Clats97/ClatScope)|The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (42 features).|
 | [DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon)|It allows for the extraction of various types of sensitive information including emails, phone numbers, hashes, credit cards, URLs, IP addresses, MAC addresses, SRV DNS records and more.|
+|[Deep Dork Web](https://guilherme-moraiss.github.io/Deep-Dork-Web/)|Automate Google Dorking for OSINT investigations. Search indexed sensitive data efficiently with pre-built queries.|
 
 
 #### 1.2 [↑](#-content) Username Search
