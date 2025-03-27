@@ -241,6 +241,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [the Harvester](https://github.com/laramies/theHarvester)|E-mails, subdomains and names Harvester - OSINT|
 | [Voilanobert](https://www.voilanorbert.com/)|I can find anyone's email address|
 | [Hunter](https://hunter.io/)|Hunter is your all-in-one email outreach platform.|
+| [SingalHire](https://www.signalhire.com/)|Find Valid Emails and Phone Numbers|
 
 
 #### 1.4 [↑](#-content) GEOINT
