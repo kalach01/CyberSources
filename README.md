@@ -1455,6 +1455,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Cybersecurity Guide](https://cybersecurityguide.org/)|Find your cybersecurity guide|
 | [CyberLand Sec](https://cyberlandsec.com/)| Web to do free courses, ctf challenges and more about the cybersecurity world.|
 | [LetsDefend](https://letsdefend.io/)|LetsDefend helps you build a blue team career with hands-on experience by investigating real cyber attacks inside a simulated SOC.|
+|[CyberEDU](https://cyber-edu.co/)|Gain knowledge, train your team or practice your security skills in the cybersecurity gym for the ethical hackers, offensive and defensive specialists.|
 
 ### [↑](#-content) 📝 Certifications
 
