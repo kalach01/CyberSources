@@ -1059,11 +1059,18 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 ### [↑](#-content) 5.3 VPNs
 
-| Resource                             | Price                      | Description                                                                                                                                        |
-| ------------------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Mullvad VPN](https://mullvad.net/)  | 5€/month                   | A privacy-focused VPN service that offers anonymous internet browsing with no personal information required for registration.                      |
-| [Proton VPN](https://protonvpn.com/) | Free & Paid (Subscription) | A secure VPN service that prioritizes privacy, offering both free and premium plans with strong encryption and no-logs policy.                     |
-| [IVPN](https://www.ivpn.net/)        | Paid (Subscription)        | A privacy-focused VPN service offering strong encryption, a strict no-logs policy, and advanced features like multi-hop VPN for enhanced security. |
+| Resource                                                  | Description                                                                                                                                        |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Mullvad VPN](https://mullvad.net/)  |  A privacy-focused VPN service that offers anonymous internet browsing with no personal information required for registration.                      |
+| [Proton VPN](https://protonvpn.com/) |  A secure VPN service that prioritizes privacy, offering both free and premium plans with strong encryption and no-logs policy.                     |
+| [IVPN](https://www.ivpn.net/)     | A privacy-focused VPN service offering strong encryption, a strict no-logs policy, and advanced features like multi-hop VPN for enhanced security. |
+Here is the table in English, with the links integrated into the tool names:
+| [Ultrasurf](https://ultrasurf.us/)         | A popular anti-censorship program developed by a small group of Silicon Valley engineers to promote free information exchange. It allows users to bypass internet censorship for free. |
+| [Psiphon](https://psiphon3.com/es/index.html) | A censorship circumvention solution that provides fast, easy, and open access to the internet. It also explores new areas to protect user privacy and freedom. |
+| [CactusVPN](https://www.cactusvpn.com/es/) | A VPN service designed to protect user privacy and provide secure internet access. |
+| [VPN over DNS](https://vpnoverdns.com/)    | A unique service that tunnels internet traffic through DNS queries to bypass restrictions and enhance privacy. |
+
+Let me know if you need further adjustments! 😊
 
 ### [↑](#-content) 5.4 Privacy and Anonymity
 
