@@ -89,6 +89,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 * [Delete Your Trace](#-51-delete-your-trace)
 * [Password Managers](#-52-password-managers)
 * [VPNs](#-53-VPNs)
+* [Privacy and Anonymity](#-54-privacy-and-anonymity)
 
 **Utility & Miscellaneous**
 * [Utility](#61--utility)
@@ -1061,6 +1062,20 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Mullvad VPN](https://mullvad.net/)  | 5€/month                   | A privacy-focused VPN service that offers anonymous internet browsing with no personal information required for registration.                      |
 | [Proton VPN](https://protonvpn.com/) | Free & Paid (Subscription) | A secure VPN service that prioritizes privacy, offering both free and premium plans with strong encryption and no-logs policy.                     |
 | [IVPN](https://www.ivpn.net/)        | Paid (Subscription)        | A privacy-focused VPN service offering strong encryption, a strict no-logs policy, and advanced features like multi-hop VPN for enhanced security. |
+
+### [↑](#-content) 5.4 Privacy and Anonymity
+
+| **Tool**                          | **Description**                                                                 |
+|------------------------------------|---------------------------------------------------------------------------------|
+| [Digital Defense](https://digital-defense.io/)         | Assessment of data security and privacy.                                        |
+| [Privacy.net](https://privacy.net/analyzer/#accordion) | Evaluation of the information collected by websites.                            |
+| [Cover Your Tracks](https://coveryourtracks.eff.org/)  | Browser privacy test.                                                           |
+| [Do I Leak](https://www.doileak.com/classic.html)       | Test for trackable traffic and data.                                            |
+| [DeviceInfo.me](https://www.deviceinfo.me/)             | Browser security test.                                                          |
+| [BrowserLeaks](https://browserleaks.com/)               | Testing tools to evaluate security and privacy.                                 |
+| [AmiUnique](https://amiunique.org/)                     | Study of browser fingerprints.                                                  |
+| [Tresorit](https://tresorit.com/)                       | Secure cloud storage and encryption solution.                                    |
+
 
 
 ## 6. [↑](#-content) Utility & Miscellaneous
