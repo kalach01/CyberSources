@@ -107,6 +107,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 * [Cryptocurrency](#-81-cryptocurrency)
 * [Playbooks](#-82-playbooks)
 * [SIEM](#-83-siem)
+* [Cracking](#-84-cracking)
 
 **Hardware & Operating Systems**
 * [Operating Systems](#-91-operating-systems)
@@ -1352,6 +1353,17 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | ------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Cybersec](https://cybersectools.com) | A cybersecurity platform that integrates with SIEM solutions for centralized threat management. |
 |[Elastic Search](https://www.elastic.co/elasticsearch)|Elasticsearch is an open source distributed, RESTful search and analytics engine, scalable data store, and vector database capable of addressing a growing number of use cases.|
+
+
+### [↑](#-content) 8.4 Cracking
+
+| **Tool**                                   | **Description**                                                                 |
+|--------------------------------------------|---------------------------------------------------------------------------------|
+| [CrackStation](https://crackstation.net/)  | A tool for cracking hashes and testing password strength.                       |
+| [MD5 Hash Generator](https://www.md5hashgenerator.com/) | A tool to generate MD5 hashes from input data.                                  |
+| [Kaspersky Password Checker](https://password.kaspersky.com/es/) | A service to check the strength of your passwords.                              |
+| [1Password (Developers and Students)](https://1password.com/developers/students) | A secure password manager offering discounts for developers and students.       |
+| [ZIP Password Cracker](https://github.com/ivanbg2004/zip-password-cracker) |Script to crack password-protected ZIP files using brute force. BY OD&H.|
 
 
 ## [↑](#-content) 9. Hardware & Operating Systems
