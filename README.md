@@ -1054,6 +1054,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | -------------------------------- | ----- | -------------------------------------------------- |
 | [Keepass](https://keepass.info/) | Free  | Available on windows, linux, mac, IOS and Android. |
 | [Bitwarden](https://bitwarden.com/)                    | Freemium | A password manager that securely stores manages and syncs credentials across any browsers or devices. |
+| [LastPass](https://www.lastpass.com/es) | Free | Simplify your digital life with a password manager that automatically creates, saves, and fills strong passwords. |
 
 ### [↑](#-content) 5.3 VPNs
 
