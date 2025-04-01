@@ -748,6 +748,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [AntiHACK](https://antihack.me)                    | A bug bounty and penetration testing platform based in Asia.                                     |
 | [CESPPA](https://cesppa.com)                       | A cybersecurity and bug bounty platform for coordinated vulnerability disclosure.                |
 |[Bug Bounty Hunting](https://www.bugbountyhunting.com/)|Bug Bounty Hunting Search Engine|
+|[exifharvester](https://github.com/msegoviag/exifharvester)|Automatic tool for extracting EXIF metadata from website images and sets of URLs. A perfect tool for bug hunters and OSINT researchers.|
+|[Ripper Web Content - Capture Metadata Content](https://chromewebstore.google.com/detail/ripper-web-content-captur/popfhajlkgkiecedhefhifccngogomgh?hl=es&authuser=0&pli=1)|Extension that analyses and extracts metadata from content found on the web.|
 
 
 ### [↑](#-content) 2.12 Binary Explotation
