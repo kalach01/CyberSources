@@ -6,7 +6,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 **🎉 Join now the discord community (+1.6k members): https://discord.gg/6s9W3EQApw 🎉**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunoooost%2Fcybersources&count_bg=%236DAC3E&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![](https://img.shields.io/badge/Discord-%235865F2.svg?style=Social&logo=discord&logoColor=white)](https://discord.gg/HhjhQgnp54)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=Social&logo=reddit&logoColor=white)](https://www.reddit.com/r/cybersources/)
 
