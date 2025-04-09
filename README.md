@@ -1221,6 +1221,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [ZoomEye](https://ZoomEye.ai)                                        | ZoomEye is a cyberspace search engine for detailed website investigation and cybersecurity analysis.                                                                                                                                                                                                     |
 |[Bug Bounty Hunting](https://www.bugbountyhunting.com/)|Bug Bounty Hunting Search Engine|
 |[Breach Detective](https://breachdetective.com/)|Discover your leaked private data. Search billions of records within seconds to uncover if your data has been compromised.|
+|[Marginaila Search](http://marginalia-search.com/)|Open source search engine. No ads, no AI. "Indexing the small, old and weird web"(c) Search blogs, forums, plain text sites and more.|
 
 ### 6.5 [↑](#-content) DNS/IP
 
